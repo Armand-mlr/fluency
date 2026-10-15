@@ -1,0 +1,425 @@
+[
+  {
+    "id": "hedging",
+    "title": "Nuancer le degré de certitude",
+    "subtitle": "Seem, tend to, may, apparently et les limites d’une affirmation.",
+    "level": "C1",
+    "track": "precision",
+    "minutes": 12,
+    "tags": [
+      "hedging",
+      "precision"
+    ],
+    "relatedListIds": [
+      "pack-ideas",
+      "pack-conversation"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Nuancer consiste à adapter sa force d’affirmation aux informations disponibles. Seem indique une impression ; tend to décrit une tendance plutôt qu’une règle absolue ; may ou might ouvrent une possibilité. Apparently signale une information apparente ou rapportée sans engagement total. Ajoutez si utile la base de votre jugement : from what I have seen, based on these examples. Une bonne nuance conserve une idée claire ; empiler maybe, perhaps et possibly dans la même phrase l’affaiblit sans préciser davantage.",
+        "pattern": "seem to + V · tend to + V · may/might + V · based on + éléments, proposition",
+        "examples": [
+          {
+            "en": "People tend to remember stories better than isolated facts.",
+            "fr": "Les gens ont tendance à mieux retenir les histoires que les faits isolés.",
+            "note": "Tend to laisse place aux exceptions et dépend du contexte."
+          },
+          {
+            "en": "The delay may have affected attendance.",
+            "fr": "Le retard a peut-être influé sur la fréquentation.",
+            "note": "Possibilité sur le passé, pas causalité démontrée."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "It seems that everyone always prefers this option.",
+        "right": "From the responses we received, this option seems more popular.",
+        "why": "Limitez l’affirmation aux observations disponibles au lieu d’associer seem à une généralisation absolue."
+      }
+    ],
+    "takeaway": "Une nuance utile précise ce que vous savez, ce que vous inférez et ce qui reste incertain.",
+    "recallPrompt": "Reformulez This always works en gardant une idée exploitable mais prudente.",
+    "exercises": [
+      {
+        "id": "hedging-1",
+        "type": "mcq",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "hedging",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous avez quelques observations et voulez éviter une règle absolue.",
+        "options": [
+          "This method always works for everyone.",
+          "This method seems to work well in these cases.",
+          "This method perhaps maybe possibly always works."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Certitude universelle non étayée.",
+          "Portée et degré de certitude limités.",
+          "Empilement d’atténuateurs avec always contradictoire."
+        ],
+        "explanation": "Seems précise le degré de confiance ; in these cases précise le périmètre. La phrase reste informative."
+      },
+      {
+        "id": "hedging-2",
+        "type": "cloze",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "hedging",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "She tends ___ arrive a few minutes early.",
+        "answers": [
+          "to"
+        ],
+        "hint": "Construction de tend.",
+        "explanation": "Tend to + base verbale décrit une habitude fréquente, sans prétendre qu’elle est systématique."
+      },
+      {
+        "id": "hedging-3",
+        "type": "rewrite",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "hedging",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "Rendez l’affirmation plus prudente avec may have contributed to.",
+        "prompt": "The change caused the drop in attendance.",
+        "model": "The change may have contributed to the drop in attendance.",
+        "answers": [
+          "The change may have contributed to the drop in attendance."
+        ],
+        "hint": "Rendez l’affirmation plus prudente avec may have contributed to.",
+        "explanation": "May have indique une possibilité et contributed to évite de poser une cause unique certaine."
+      },
+      {
+        "id": "hedging-4",
+        "type": "free",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "hedging",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Décrivez une tendance observée et une explication possible en indiquant vos limites.",
+        "model": "From the few sessions I attended, smaller groups seem to encourage discussion. The quieter room may also have helped.",
+        "rubric": [
+          "Une limite d’observation explicite.",
+          "Une tendance ou impression claire.",
+          "Une cause possible distinguée d’un fait établi."
+        ],
+        "explanation": "La prudence doit correspondre à une incertitude réelle, pas servir d’ornement verbal.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "comparative-nuance",
+    "title": "Comparer avec précision",
+    "subtitle": "Far better, slightly less et the more… the more….",
+    "level": "C1",
+    "track": "precision",
+    "minutes": 12,
+    "tags": [
+      "comparative-nuance",
+      "precision"
+    ],
+    "relatedListIds": [
+      "pack-precision",
+      "pack-connections"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Un comparatif peut être modulé : slightly, a little, much, far, considerably. Very ne modifie normalement pas directement better : dites much better. The more… the more… lie deux évolutions ; la seconde peut aller dans le sens opposé, the less. As… as permet une égalité ou, avec not, un écart. Comparez des éléments réellement comparables : the price of this room is higher than that of the other room évite de comparer un prix à une chambre. Plus compliqué n’est pas toujours plus précis : dites exactement quel aspect change.",
+        "pattern": "slightly/much/far + comparatif · the more…, the less… · not as + adjectif + as",
+        "examples": [
+          {
+            "en": "The room was slightly larger, but far noisier.",
+            "fr": "La chambre était un peu plus grande, mais beaucoup plus bruyante.",
+            "note": "Deux dimensions distinctes, avec des degrés différents."
+          },
+          {
+            "en": "The longer I waited, the less certain I felt.",
+            "fr": "Plus j’attendais, moins je me sentais sûr.",
+            "note": "Deux évolutions liées, avec opposition de direction."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "This route is very easier.",
+        "right": "This route is much easier.",
+        "why": "Le comparatif easier prend un modificateur comme much, pas very."
+      }
+    ],
+    "takeaway": "Précisez l’aspect comparé et l’ampleur de l’écart.",
+    "recallPrompt": "Décrivez deux options : un petit avantage sur un critère, un gros inconvénient sur un autre.",
+    "exercises": [
+      {
+        "id": "comparative-nuance-1",
+        "type": "mcq",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "comparative-nuance",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Choisissez la comparaison naturelle.",
+        "options": [
+          "It is much more convenient.",
+          "It is very more convenient.",
+          "It is more convenienter."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Much renforce more convenient.",
+          "Very ne modifie pas directement ce comparatif.",
+          "Double comparatif incorrect."
+        ],
+        "explanation": "Convenient prend more ; much module l’écart. On n’ajoute pas -er en même temps."
+      },
+      {
+        "id": "comparative-nuance-2",
+        "type": "cloze",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "comparative-nuance",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "The more I practised, the ___ nervous I felt.",
+        "answers": [
+          "less"
+        ],
+        "hint": "La nervosité diminue.",
+        "explanation": "The more… the less… relie augmentation de la pratique et baisse de la nervosité."
+      },
+      {
+        "id": "comparative-nuance-3",
+        "type": "rewrite",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "comparative-nuance",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "Condensez avec slightly.",
+        "prompt": "The new route is easier, but only a little.",
+        "model": "The new route is slightly easier.",
+        "answers": [
+          "The new route is slightly easier."
+        ],
+        "hint": "Condensez avec slightly.",
+        "explanation": "Slightly place le faible écart directement devant le comparatif easier."
+      },
+      {
+        "id": "comparative-nuance-4",
+        "type": "free",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "comparative-nuance",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Comparez deux lieux ou activités sur deux critères, puis utilisez the more… the more/less….",
+        "model": "The new café is slightly cheaper but much busier. The longer I stay there, the less I can concentrate.",
+        "rubric": [
+          "Comparaisons portant sur des critères précis.",
+          "Modificateurs appropriés devant les comparatifs.",
+          "Construction parallèle the… the…."
+        ],
+        "explanation": "N’ajoutez pas des chiffres inventés : la précision peut aussi venir d’un bon critère.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "collocation-precision",
+    "title": "Choisir le mot qui s’assemble naturellement",
+    "subtitle": "Collocations, force et restrictions de sens.",
+    "level": "C1",
+    "track": "precision",
+    "minutes": 12,
+    "tags": [
+      "collocation-precision",
+      "precision"
+    ],
+    "relatedListIds": [
+      "pack-precision",
+      "pack-connections"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Une collocation est une association habituelle de mots : make a decision, raise a concern, heavy rain. La traduction mot à mot d’un élément ne garantit pas une combinaison naturelle. Apprenez des groupes réutilisables avec leur construction : pose a threat to, have reservations about. Distinguez aussi le sens présenté : strong evidence concerne la solidité, alors que many pieces of evidence concerne le nombre. Une expression plus formelle n’est pas toujours plus précise. Testez votre choix sur le contexte et le registre avant de remplacer un mot simple.",
+        "pattern": "verbe + nom + préposition · adjectif + nom · expression + complément",
+        "examples": [
+          {
+            "en": "I raised a concern about the deadline.",
+            "fr": "J’ai signalé une inquiétude au sujet de l’échéance.",
+            "note": "Raise a concern, pas lift a concern ; about introduit le sujet."
+          },
+          {
+            "en": "The repair made a noticeable difference to the noise level.",
+            "fr": "La réparation a nettement changé le niveau sonore.",
+            "note": "Make a difference to ; la précision porte sur l’effet observé."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I made a research about the neighbourhood.",
+        "right": "I did some research into the neighbourhood.",
+        "why": "Research est indénombrable ; on dit do/conduct research, avec into/on selon le contexte."
+      }
+    ],
+    "takeaway": "Apprenez le groupe avec un exemple complet et sa préposition.",
+    "recallPrompt": "Donnez trois groupes verbe + nom utiles pour raconter une décision.",
+    "exercises": [
+      {
+        "id": "collocation-precision-1",
+        "type": "mcq",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "collocation-precision",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Quelle combinaison signifie attirer l’attention sur un problème ?",
+        "options": [
+          "Raise a concern.",
+          "Grow a concern.",
+          "Lift a concern."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Collocation usuelle pour signaler une inquiétude.",
+          "Grow s’emploierait dans une autre structure, par exemple concern grew.",
+          "Calque non naturel dans ce sens."
+        ],
+        "explanation": "Raise a concern combine signalement et prudence ; les verbes ne sont pas interchangeables malgré des traductions proches."
+      },
+      {
+        "id": "collocation-precision-2",
+        "type": "cloze",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "collocation-precision",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "The extra work put a strain ___ our relationship.",
+        "answers": [
+          "on"
+        ],
+        "hint": "Préposition de put a strain.",
+        "explanation": "Put a strain on décrit une pression qui fragilise une relation ou une ressource."
+      },
+      {
+        "id": "collocation-precision-3",
+        "type": "rewrite",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "collocation-precision",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "Utilisez heavy rain et made a decision dans une phrase naturelle.",
+        "prompt": "The event had a strong rain, but we did a decision to stay.",
+        "model": "There was heavy rain at the event, but we made a decision to stay.",
+        "answers": [
+          "There was heavy rain at the event, but we made a decision to stay."
+        ],
+        "hint": "Utilisez heavy rain et made a decision dans une phrase naturelle.",
+        "explanation": "Heavy rain est une collocation météorologique. Make a decision corrige le calque do a decision ; decided to stay serait plus léger."
+      },
+      {
+        "id": "collocation-precision-4",
+        "type": "free",
+        "skills": [
+          "precision",
+          "vocabulary"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "collocation-precision",
+          "precision"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Racontez une décision avec trois collocations des collections : une difficulté, une décision et son effet.",
+        "model": "The tight deadline put a strain on the team. We reached a consensus on a smaller plan, which made a noticeable difference to the workload.",
+        "rubric": [
+          "Trois groupes naturels, avec leurs prépositions.",
+          "Une relation claire entre problème, décision et effet.",
+          "Pas de synonyme rare ajouté sans raison."
+        ],
+        "explanation": "Une phrase réutilisable vaut mieux qu’une liste de mots appris séparément. Vérifiez chaque complément.",
+        "estSeconds": 120
+      }
+    ]
+  }
+]

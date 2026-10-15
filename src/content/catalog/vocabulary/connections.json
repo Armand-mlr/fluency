@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "connections",
+  "title": "Liens logiques & collocations",
+  "description": "Relier ses idées et assembler les mots naturellement.",
+  "color": "#657ca8",
+  "items": [
+    {
+      "id": "v-c9d3934b22eb",
+      "kind": "expression",
+      "text": "even so",
+      "translationFr": "malgré cela",
+      "meaning": "despite what has just been said",
+      "example": "I knew the route well. Even so, I managed to get lost.",
+      "exampleFr": "Je connaissais bien le trajet. Malgré cela, j’ai réussi à me perdre.",
+      "notes": "Relie deux propositions ; contraste avec le fait précédent.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-ff524b91e73e",
+      "kind": "expression",
+      "text": "be that as it may",
+      "translationFr": "quoi qu’il en soit",
+      "meaning": "even if the previous point is accepted",
+      "example": "Be that as it may, we still need to decide by Friday.",
+      "exampleFr": "Quoi qu’il en soit, il faut décider d’ici vendredi.",
+      "notes": "Assez soutenu ; met un point de côté pour avancer.",
+      "level": "C1",
+      "register": "formal",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-a7a06beb88d6",
+      "kind": "expression",
+      "text": "by and large",
+      "translationFr": "dans l’ensemble",
+      "meaning": "generally, despite some exceptions",
+      "example": "By and large, I enjoyed living in the city.",
+      "exampleFr": "Dans l’ensemble, j’ai aimé vivre dans cette ville.",
+      "notes": "Bilan global qui laisse place à des exceptions.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-7e0fcea80ef2",
+      "kind": "expression",
+      "text": "on the whole",
+      "translationFr": "dans l’ensemble",
+      "meaning": "considering all aspects together",
+      "example": "On the whole, the changes made my day easier.",
+      "exampleFr": "Dans l’ensemble, les changements ont simplifié ma journée.",
+      "notes": "Position initiale ou finale ; appréciation globale.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-63793b3baafd",
+      "kind": "expression",
+      "text": "to some extent",
+      "translationFr": "dans une certaine mesure",
+      "meaning": "partly, but not completely",
+      "example": "I agree to some extent, though my experience was different.",
+      "exampleFr": "Je suis en partie d’accord, même si mon expérience était différente.",
+      "notes": "Limite l’étendue d’un accord ou d’une affirmation.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-b59b247d1a63",
+      "kind": "expression",
+      "text": "for the most part",
+      "translationFr": "pour l’essentiel",
+      "meaning": "mainly, with a few exceptions",
+      "example": "For the most part, we managed without a car.",
+      "exampleFr": "Pour l’essentiel, nous nous sommes débrouillés sans voiture.",
+      "notes": "Mainly ; ne signifie pas toujours ou entièrement.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-fd93a5848794",
+      "kind": "expression",
+      "text": "in any event",
+      "translationFr": "quoi qu’il arrive",
+      "meaning": "whatever happens or whatever the facts are",
+      "example": "In any event, I'll be there to help you move.",
+      "exampleFr": "Quoi qu’il arrive, je serai là pour t’aider à déménager.",
+      "notes": "Peut aussi clore un détour : de toute façon.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-1d42a99b61be",
+      "kind": "expression",
+      "text": "at any rate",
+      "translationFr": "en tout cas",
+      "meaning": "used to return to the main point or give a firmer statement",
+      "example": "I may not finish today, but I'll make a start, at any rate.",
+      "exampleFr": "Je ne finirai peut-être pas aujourd’hui, mais je commencerai, en tout cas.",
+      "notes": "Recentrage ou affirmation minimale assurée.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-a16bdfe164b6",
+      "kind": "expression",
+      "text": "in the meantime",
+      "translationFr": "en attendant",
+      "meaning": "during the period before something else happens",
+      "example": "The room wasn't ready, so I went for a walk in the meantime.",
+      "exampleFr": "La chambre n’était pas prête ; je suis allé marcher en attendant.",
+      "notes": "Pendant l’intervalle, pas à terme.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-ac1928495644",
+      "kind": "expression",
+      "text": "in due course",
+      "translationFr": "en temps voulu",
+      "meaning": "at the appropriate time later",
+      "example": "I was told the full details would arrive in due course.",
+      "exampleFr": "On m’a dit que les détails complets arriveraient en temps voulu.",
+      "notes": "Assez formel ; ne promet pas de date précise.",
+      "level": "C1",
+      "register": "formal",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-8b53ba6b6ed3",
+      "kind": "expression",
+      "text": "as things stand",
+      "translationFr": "en l’état actuel des choses",
+      "meaning": "given the situation at present",
+      "example": "As things stand, I can only stay until Thursday.",
+      "exampleFr": "En l’état actuel des choses, je ne peux rester que jusqu’à jeudi.",
+      "notes": "Laisse ouverte une évolution de la situation.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-3c8eb05b9ac7",
+      "kind": "expression",
+      "text": "in all likelihood",
+      "translationFr": "selon toute vraisemblance",
+      "meaning": "very probably",
+      "example": "In all likelihood, we'll have to change trains twice.",
+      "exampleFr": "Selon toute vraisemblance, nous devrons changer deux fois de train.",
+      "notes": "Forte probabilité, pas certitude absolue.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-33308278e849",
+      "kind": "expression",
+      "text": "if anything",
+      "translationFr": "si quelque chose a changé, c’est plutôt l’inverse",
+      "meaning": "used to suggest that the opposite is more accurate",
+      "example": "The break didn't slow me down; if anything, it helped me focus.",
+      "exampleFr": "La pause ne m’a pas ralenti ; elle m’a plutôt aidé à me concentrer.",
+      "notes": "Souvent corrige une attente ou renforce un contraste.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-2e35818b7df0",
+      "kind": "expression",
+      "text": "let alone",
+      "translationFr": "et encore moins",
+      "meaning": "used to add something even less likely",
+      "example": "I couldn't afford a weekend away, let alone a month abroad.",
+      "exampleFr": "Je ne pouvais pas payer un week-end ailleurs, encore moins un mois à l’étranger.",
+      "notes": "Relie des éléments parallèles après une idée négative.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-d0c1fb45a969",
+      "kind": "expression",
+      "text": "not to mention",
+      "translationFr": "sans parler de",
+      "meaning": "used to add another significant point",
+      "example": "The journey was exhausting, not to mention expensive.",
+      "exampleFr": "Le voyage était épuisant, sans parler de son coût.",
+      "notes": "Ajout emphatique ; le point ajouté renforce généralement le premier.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-0a55339e38ae",
+      "kind": "expression",
+      "text": "regardless of",
+      "translationFr": "indépendamment de",
+      "meaning": "without being affected by something",
+      "example": "I wanted everyone to join in, regardless of experience.",
+      "exampleFr": "Je voulais que chacun participe, quelle que soit son expérience.",
+      "notes": "Regardless of + nom ; ne pas écrire regardless to.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-449f00170936",
+      "kind": "expression",
+      "text": "irrespective of",
+      "translationFr": "sans tenir compte de",
+      "meaning": "without taking a particular factor into account",
+      "example": "The fee was the same irrespective of how long we stayed.",
+      "exampleFr": "Le tarif était le même quelle que soit la durée du séjour.",
+      "notes": "Plus formel que regardless of ; suivi d’un nom ou d’une interrogative.",
+      "level": "C1",
+      "register": "formal",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-c8a56674c5c2",
+      "kind": "expression",
+      "text": "owing to",
+      "translationFr": "en raison de",
+      "meaning": "because of",
+      "example": "The outdoor class was moved indoors owing to heavy rain.",
+      "exampleFr": "Le cours en plein air a été déplacé à l’intérieur en raison de la pluie.",
+      "notes": "Owing to + groupe nominal ; plutôt écrit ou formel.",
+      "level": "C1",
+      "register": "formal",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-616e41fd23e2",
+      "kind": "expression",
+      "text": "given that",
+      "translationFr": "étant donné que",
+      "meaning": "considering the fact that",
+      "example": "Given that I had never driven there, I left early.",
+      "exampleFr": "Étant donné que je n’avais jamais conduit là-bas, je suis parti tôt.",
+      "notes": "Given that + proposition ; given + nom est aussi possible.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-e8a676ae68fd",
+      "kind": "expression",
+      "text": "provided that",
+      "translationFr": "à condition que",
+      "meaning": "only if a particular condition is met",
+      "example": "I can lend you the tent provided that you return it dry.",
+      "exampleFr": "Je peux te prêter la tente à condition que tu la rendes sèche.",
+      "notes": "Condition explicite ; présent pour une condition future.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-c167054a9aba",
+      "kind": "expression",
+      "text": "unless otherwise stated",
+      "translationFr": "sauf indication contraire",
+      "meaning": "except when different information is explicitly given",
+      "example": "I assumed the prices included breakfast unless otherwise stated.",
+      "exampleFr": "J’ai supposé que les prix incluaient le petit-déjeuner, sauf indication contraire.",
+      "notes": "Formule de consigne ; contexte de règle par défaut.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-425acc0af450",
+      "kind": "expression",
+      "text": "in keeping with",
+      "translationFr": "en accord avec",
+      "meaning": "consistent with a style or principle",
+      "example": "I chose a simple invitation in keeping with the relaxed atmosphere.",
+      "exampleFr": "J’ai choisi une invitation simple, en accord avec l’ambiance détendue.",
+      "notes": "In keeping with ; cohérence de style ou de valeurs.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-e27a62affd41",
+      "kind": "expression",
+      "text": "in stark contrast to",
+      "translationFr": "en contraste frappant avec",
+      "meaning": "very clearly different from",
+      "example": "The quiet garden was in stark contrast to the busy street.",
+      "exampleFr": "Le jardin paisible contrastait fortement avec la rue animée.",
+      "notes": "Stark renforce le contraste ; comparaison explicite.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-33c1e20d6871",
+      "kind": "expression",
+      "text": "by virtue of",
+      "translationFr": "du fait de",
+      "meaning": "because of a particular quality or position",
+      "example": "I joined the discussion by virtue of having organised the last event.",
+      "exampleFr": "J’ai participé à la discussion du fait d’avoir organisé l’événement précédent.",
+      "notes": "Soutenu ; justification liée à une qualité, situation ou fonction.",
+      "level": "C1",
+      "register": "formal",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-d32435928cdb",
+      "kind": "collocation",
+      "text": "reach a consensus",
+      "translationFr": "parvenir à un consensus",
+      "meaning": "to arrive at broad agreement",
+      "example": "We reached a consensus after everyone had explained their concerns.",
+      "exampleFr": "Nous sommes parvenus à un consensus après que chacun a exposé ses inquiétudes.",
+      "notes": "Reach a consensus on ; convergence, pas forcément enthousiasme unanime.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-555b8f0f1265",
+      "kind": "collocation",
+      "text": "draw attention to",
+      "translationFr": "attirer l’attention sur",
+      "meaning": "to make people notice something",
+      "example": "I drew attention to the missing date before the invitations were printed.",
+      "exampleFr": "J’ai attiré l’attention sur la date manquante avant l’impression des invitations.",
+      "notes": "Draw attention to + nom ; objectif de visibilité.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-c9daad1c0dc5",
+      "kind": "collocation",
+      "text": "pose a challenge",
+      "translationFr": "poser une difficulté",
+      "meaning": "to create a demanding problem",
+      "example": "Finding a quiet place to study posed a challenge.",
+      "exampleFr": "Trouver un endroit calme pour étudier posait une difficulté.",
+      "notes": "Pose a challenge to/for ; pas make a challenge dans ce sens.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-1d123bd29f7a",
+      "kind": "collocation",
+      "text": "pose a threat",
+      "translationFr": "constituer une menace",
+      "meaning": "to create a risk of harm",
+      "example": "The rising water posed a threat to the houses by the river.",
+      "exampleFr": "La montée des eaux menaçait les maisons au bord de la rivière.",
+      "notes": "Pose a threat to ; menace potentielle, pas dommage déjà établi.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-f5e6e459f343",
+      "kind": "collocation",
+      "text": "reap the benefits",
+      "translationFr": "récolter les bénéfices",
+      "meaning": "to enjoy the positive results of earlier effort",
+      "example": "I began to reap the benefits of practising a little every day.",
+      "exampleFr": "J’ai commencé à récolter les bénéfices d’une pratique quotidienne.",
+      "notes": "Reap the benefits of ; conséquence d’un effort antérieur.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-156b99007261",
+      "kind": "collocation",
+      "text": "take a toll on",
+      "translationFr": "peser négativement sur",
+      "meaning": "to cause damage through continued strain",
+      "example": "The long commute took a toll on my energy.",
+      "exampleFr": "Le long trajet quotidien a fini par m’épuiser.",
+      "notes": "Take its/a toll on ; effet accumulé, souvent santé ou moral.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-ceda0aa0ab0e",
+      "kind": "collocation",
+      "text": "put a strain on",
+      "translationFr": "mettre à rude épreuve",
+      "meaning": "to place pressure on something",
+      "example": "The unexpected repairs put a strain on our budget.",
+      "exampleFr": "Les réparations imprévues ont mis notre budget à rude épreuve.",
+      "notes": "Strain on a relationship/budget ; pression sur une ressource limitée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-fb049a5a4d9f",
+      "kind": "collocation",
+      "text": "strike a balance",
+      "translationFr": "trouver un équilibre",
+      "meaning": "to find an acceptable middle position between competing needs",
+      "example": "I tried to strike a balance between planning and spontaneity.",
+      "exampleFr": "J’ai essayé de trouver un équilibre entre organisation et spontanéité.",
+      "notes": "Strike a balance between X and Y.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-f52123110002",
+      "kind": "collocation",
+      "text": "make headway",
+      "translationFr": "avancer, progresser",
+      "meaning": "to make progress with something difficult",
+      "example": "I finally made headway with the application after getting advice.",
+      "exampleFr": "J’ai enfin avancé sur le dossier après avoir obtenu des conseils.",
+      "notes": "Make headway with/in ; headway indénombrable.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-6bbfc13e695f",
+      "kind": "collocation",
+      "text": "gain momentum",
+      "translationFr": "prendre de l’élan",
+      "meaning": "to develop increasing energy or speed",
+      "example": "The project gained momentum once the first volunteers joined.",
+      "exampleFr": "Le projet a pris de l’élan avec l’arrivée des premiers bénévoles.",
+      "notes": "Gain/lose momentum ; dynamique de progression.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-9411d75dcc04",
+      "kind": "collocation",
+      "text": "lose sight of",
+      "translationFr": "perdre de vue",
+      "meaning": "to stop paying attention to something important",
+      "example": "I didn't want to lose sight of why we had started.",
+      "exampleFr": "Je ne voulais pas perdre de vue la raison de notre initiative.",
+      "notes": "Au figuré : oublier un objectif central.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-88cf4187ec43",
+      "kind": "collocation",
+      "text": "keep something in perspective",
+      "translationFr": "garder le sens des proportions",
+      "meaning": "to judge something according to its real importance",
+      "example": "I tried to keep the criticism in perspective.",
+      "exampleFr": "J’ai essayé de relativiser les critiques.",
+      "notes": "Évaluer à sa juste place ; pas ignorer toute critique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-70e0c0310f91",
+      "kind": "idiom",
+      "text": "leave much to be desired",
+      "translationFr": "laisser beaucoup à désirer",
+      "meaning": "to be far less good than expected",
+      "example": "The location was excellent, but the cleanliness left much to be desired.",
+      "exampleFr": "L’emplacement était excellent, mais la propreté laissait beaucoup à désirer.",
+      "notes": "Critique indirecte mais forte ; formule figée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-58cdf96fa856",
+      "kind": "collocation",
+      "text": "go to great lengths",
+      "translationFr": "se donner beaucoup de mal",
+      "meaning": "to make considerable effort",
+      "example": "She went to great lengths to make us feel welcome.",
+      "exampleFr": "Elle s’est donné beaucoup de mal pour que nous nous sentions bienvenus.",
+      "notes": "Go to great lengths to + verbe.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-dab5a4bf8fea",
+      "kind": "collocation",
+      "text": "fall short of",
+      "translationFr": "ne pas atteindre",
+      "meaning": "to fail to meet a standard or expectation",
+      "example": "The service fell short of what the brochure had promised.",
+      "exampleFr": "Le service n’a pas été à la hauteur des promesses de la brochure.",
+      "notes": "Fall short of expectations ; écart entre attente et résultat.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-7237956a9b26",
+      "kind": "collocation",
+      "text": "exceed expectations",
+      "translationFr": "dépasser les attentes",
+      "meaning": "to be better than expected",
+      "example": "The small exhibition exceeded my expectations.",
+      "exampleFr": "La petite exposition a dépassé mes attentes.",
+      "notes": "Exceed sans préposition ; niveau réel supérieur au prévu.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-316d23671e6d",
+      "kind": "collocation",
+      "text": "pave the way for",
+      "translationFr": "ouvrir la voie à",
+      "meaning": "to make later progress possible",
+      "example": "The first conversation paved the way for a more honest friendship.",
+      "exampleFr": "La première conversation a ouvert la voie à une amitié plus sincère.",
+      "notes": "Pave the way for + nom ; prépare sans garantir.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "connections",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    },
+    {
+      "id": "v-ada24bdc7fbe",
+      "kind": "expression",
+      "text": "insofar as",
+      "translationFr": "dans la mesure où",
+      "meaning": "to the degree that",
+      "example": "I supported the proposal insofar as it gave residents more choice.",
+      "exampleFr": "Je soutenais la proposition dans la mesure où elle donnait plus de choix aux habitants.",
+      "notes": "Formel ; précise les limites exactes du soutien.",
+      "level": "C2",
+      "register": "formal",
+      "tags": [
+        "connections",
+        "expression"
+      ],
+      "listIds": [
+        "pack-connections"
+      ]
+    }
+  ]
+}

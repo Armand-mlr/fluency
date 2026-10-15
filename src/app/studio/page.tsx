@@ -1,0 +1,65 @@
+"use client";
+import { useEffect, useRef, useState } from "react";
+import Link from "next/link";
+import { useLiveQuery } from "dexie-react-hooks";
+import { useSettings } from "@/lib/hooks";
+import { getProvider } from "@/lib/ai/provider";
+import { generateVocabulary, requestedCount, type VocabularyProgress } from "@/lib/ai/vocabulary";
+import { AIDiagnostics } from "@/components/AIDiagnostics";
+import { resolveStudioMode } from "@/lib/ai/intent";
+import { generateUnit } from "@/lib/ai/generation";
+import { db } from "@/lib/db/schema";
+import { deleteUnit, recordAttempt, saveUnit } from "@/lib/db/repo";
+import { Exercise, StudyUnit } from "@/lib/types";
+import { Page, PageHeader, Button, LinkButton } from "@/components/ui";
+import { VocabularyImport } from "@/components/VocabularyImport";
+import { ExercisePlayer } from "@/components/ExercisePlayer";
+export default function StudioPage(){
+ const s=useSettings();const available=!!getProvider(s);const units=useLiveQuery(()=>db.units.orderBy("createdAt").reverse().toArray(),[])??[];
+ const [mode,setMode]=useState<"exercises"|"grammar"|"vocabulary">("exercises");const [topic,setTopic]=useState("");const [busy,setBusy]=useState(false);const [error,setError]=useState("");const [draft,setDraft]=useState<Omit<StudyUnit,"id"|"createdAt">|null>(null);const [vocab,setVocab]=useState("");const [playing,setPlaying]=useState<Exercise[]|null>(null);const [index,setIndex]=useState(0);const [done,setDone]=useState(false);const [saving,setSaving]=useState(false);
+
+ const [quantity,setQuantity]=useState(20);const [batchSize,setBatchSize]=useState(10);const [excludeKnown,setExcludeKnown]=useState(true);const [progress,setProgress]=useState<VocabularyProgress|null>(null);const [unitProgress,setUnitProgress]=useState("");
+ const [fastVocabulary,setFastVocabulary]=useState(true);
+ const [vocabularyRun,setVocabularyRun]=useState<{topic:string;count:number;batchSize:number}|null>(null);
+ const controller=useRef<AbortController|null>(null);
+ useEffect(()=>()=>controller.current?.abort(),[]);
+ const effectiveMode=resolveStudioMode(topic,mode);
+ const detected=requestedCount(topic);const count=detected??quantity;
+ const canContinue=effectiveMode==="vocabulary"&&progress&&progress.items.length<count&&progress.calls>0&&vocabularyRun?.topic===topic&&vocabularyRun?.count===count&&vocabularyRun?.batchSize===batchSize;
+ async function generate(resume=false){
+  if(!Number.isInteger(count)||count<1||count>2000||!Number.isInteger(batchSize)||batchSize<1||batchSize>2000){setError("Quantité et taille de lot : entiers de 1 à 2 000 (capacité d’un import).");return;}
+  controller.current?.abort();const abort=new AbortController();controller.current=abort;
+  setBusy(true);setError("");setDraft(null);setPlaying(null);setDone(false);setUnitProgress("");
+  if(!resume){setVocab("");setProgress(null);}
+  try{
+   if(effectiveMode==="vocabulary"){
+    setVocabularyRun({topic,count,batchSize});
+    const known=excludeKnown?(await db.items.toArray()).map(i=>i.text):[];
+    const report=await generateVocabulary(s,topic,count,batchSize,known,p=>{setProgress(p);if(p.items.length||p.invalid.length)setVocab(JSON.stringify({version:1,items:[...p.items,...p.invalid]},null,2));},abort.signal,{fast:fastVocabulary,resume:resume&&progress?progress:undefined});
+    setProgress(report);
+   }else setDraft(await generateUnit(s,topic,effectiveMode,count,abort.signal,(n,partial)=>{setUnitProgress(`${n}/${count} exercices reçus`);setDraft(partial);},fastVocabulary));
+  }catch(e){setError((e as Error).message);}finally{setBusy(false);}
+ }
+ return <Page><PageHeader kicker="Personal learning / AI Studio" title={<>A little more<br/><em>you.</em></>} lede="Transformez vos difficultés, vos envies et vos centres d’intérêt en matière à progresser."><LinkButton href="/settings#ai">Configurer l’IA</LinkButton></PageHeader>
+ <div className="studio-layout"><div><div className="section-index">01 / CRÉER SUR MESURE</div><div className="choice-grid mt-5">{([{id:"exercises",title:"S’entraîner",sub:"Une série ciblée"},{id:"grammar",title:"Comprendre",sub:"Grammaire & pratique"},{id:"vocabulary",title:"S’exprimer",sub:"Mots & expressions"}] as const).map(m=><button className={`choice-tile ${effectiveMode===m.id?"selected":""}`} aria-pressed={effectiveMode===m.id} disabled={busy} key={m.id} onClick={()=>setMode(m.id)}><span>{m.title}</span><small>{m.sub}</small></button>)}</div>
+ <label className="form-label mt-6">Sur quoi souhaitez-vous travailler ?<textarea className="field" rows={4} maxLength={30000} disabled={busy} value={topic} onChange={e=>setTopic(e.target.value)} placeholder="Expliquer un désaccord avec diplomatie, les inversions en anglais, discuter de musique…"/></label><p className="text-xs text-muted mt-3">Votre demande explicite est prioritaire sur le niveau et les préférences enregistrés. Le profil sert de contexte par défaut.</p>
+ <div className="grid sm:grid-cols-2 gap-4 mt-5"><label className="form-label">Quantité totale<input className="field" aria-label="Quantité totale" type="number" min={1} max={2000} value={count} disabled={busy||detected!==null} onChange={e=>setQuantity(Number(e.target.value))}/><small>{detected!==null?`Nombre détecté dans votre demande : ${detected}. Modifiez le texte pour le changer.`:"Nombre par défaut si votre texte ne précise pas de quantité reconnue. Vérifiez-le avant de lancer."}</small></label>{effectiveMode==="vocabulary"&&<label className="form-label">Entrées par lot<input className="field" type="number" min={1} max={2000} disabled={busy} value={batchSize} onChange={e=>setBatchSize(Number(e.target.value))}/><small>10–15 recommandées pour un petit modèle ; ajustez selon vos besoins. Les appels distants sont facturés par votre fournisseur.</small></label>}</div>
+ {effectiveMode==="vocabulary"&&<label className="flex gap-2 text-sm mt-4"><input type="checkbox" checked={excludeKnown} disabled={busy} onChange={e=>setExcludeKnown(e.target.checked)}/>Éviter les termes déjà dans ma bibliothèque (leurs noms seront transmis au modèle).</label>}
+ {s.aiProvider==="ollama"&&/^qwen3(?:[.:-]|$)/i.test(s.aiModel??"")&&<label className="flex gap-2 text-sm mt-3"><input type="checkbox" checked={fastVocabulary} disabled={busy} onChange={e=>setFastVocabulary(e.target.checked)}/>Mode rapide Qwen3 : désactiver la réflexion pour cette génération.</label>}
+ {effectiveMode==="vocabulary"&&<p className="text-xs text-muted mt-3">Chaque appel reçoit les termes retenus depuis le début, y compris dans le lot en cours. Un lot incomplet est complété avant de passer au suivant. Gardez cette page ouverte pour conserver la proposition.</p>}
+ {effectiveMode!==mode&&<p className="notice mt-4" role="status">{effectiveMode==="vocabulary"?"Votre texte demande une liste de vocabulaire : elle sera créée dans « S’exprimer », sans ajouter de consigne de création d’exercices.":"Votre texte demande des exercices : la génération utilisera le format « S’entraîner »."}</p>}
+ <AIDiagnostics/>
+ {effectiveMode==="vocabulary"&&progress&&<details className="preview-panel mt-4 ai-diagnostic"><summary>Mémoire de cette génération · {progress.items.length} termes retenus · {progress.calls} appels</summary><p className="text-xs text-muted my-3">Cette liste est renvoyée à chaque appel. Les variantes avec « to », les apostrophes et les pronoms génériques sont aussi dédoublonnés. Les reformulations de sens voisin restent à vérifier.</p><pre>{progress.items.map(i=>(i as {text:string}).text).join(" · ")||"Aucun terme retenu pour le moment."}</pre>{progress.reports.length>0&&<div className="overflow-x-auto"><table className="text-sm w-full"><caption className="text-left text-xs text-muted my-3">Bilan des réponses reçues</caption><thead><tr>{["Appel / lot","Demandés","Reçus","Retenus","Doublons","Invalides","En trop"].map(h=><th key={h} className="text-left p-2">{h}</th>)}</tr></thead><tbody>{progress.reports.map(r=><tr key={r.call}>{[`${r.call} / ${r.batch}`,r.requested,r.received,r.accepted,r.duplicates,r.invalid,r.overflow].map((v,i)=><td key={i} className="p-2">{v}</td>)}</tr>)}</tbody></table></div>}</details>}
+ <div className="flex flex-wrap gap-3 items-center mt-5"><Button variant="primary" disabled={!available||busy} onClick={()=>generate()}>{busy?"Création en cours…":"Créer ma proposition"}</Button>{!busy&&canContinue&&<Button disabled={!available} onClick={()=>generate(true)}>Continuer cette liste</Button>}{busy&&<Button onClick={()=>controller.current?.abort()}>Arrêter</Button>}<span className="text-xs text-muted">{s.currentLevel??"B2"} → {s.targetLevel??"C2"}</span></div>
+ {!available&&<div className="notice mt-5">IA non configurée : la création est indisponible. <Link href="/settings#ai" className="link">Connectez un modèle dans les réglages</Link>. Vos contenus enregistrés restent accessibles.</div>}
+ {available&&<p className="text-xs text-muted mt-3">{s.aiProvider==="ollama"?"Ollama local":"API distante"} · {s.aiModel} · disponibilité vérifiée lors de l’appel</p>}
+ {busy&&<div className="thinking-strip" role="status">{progress?.message||unitProgress||"Le modèle prépare la proposition. Le délai maximal se règle dans les paramètres IA."}</div>}
+ {progress&&!busy&&<p role="status" className="status-line">{progress.message}</p>}
+ {error&&<div role="alert" className="notice error">{error}<div className="flex gap-3 mt-3"><Button onClick={()=>generate()} disabled={busy}>Recommencer</Button><Link className="link" href="/settings#ai">Réglages IA</Link></div></div>}
+ </div><aside className="studio-note"><span className="kicker">The method</span><p className="font-display text-4xl mt-5">Notice.<br/><em>Understand.</em><br/>Make it yours.</p><p className="text-sm text-muted mt-5">Chaque proposition attend votre validation. Les exercices enregistrés rejoignent votre banque de pratique et vos sessions.</p><div className="hairline my-5"/><p className="text-sm text-muted">{s.goals||"Définissez vos objectifs dans les réglages pour affiner les propositions."}</p></aside></div>
+ {draft&&<section className="study-draft"><span className="section-index">02 / PROPOSITION À VALIDER</span><h2 className="section-title mt-4">{draft.title}</h2><p className="whitespace-pre-wrap leading-relaxed mt-4">{draft.explanation}</p><div className="mt-6 divide-y divide-line">{draft.exercises.map((ex,i)=><details className="py-4" key={ex.id}><summary>{i+1}. {"prompt" in ex?ex.prompt:""}</summary><p className="text-sm text-muted mt-3">{"answers" in ex?ex.answers.join(" / "):""} — {ex.explanation}</p></details>)}</div><p className="text-xs text-muted my-4">Vérifiez les réponses avant validation. Les contrôles de format ne garantissent pas la justesse pédagogique du modèle.</p><Button variant="primary" disabled={saving||busy} onClick={async()=>{setSaving(true);try{await saveUnit(draft);setDraft(null);}catch(e){setError((e as Error).message);}finally{setSaving(false);}}}>Valider et enregistrer</Button><Button variant="ghost" onClick={()=>setDraft(null)}>Rejeter</Button></section>}
+ {vocab&&!busy&&<section className="mt-8"><p className="text-sm text-muted mb-4">{progress?.items.length??0}/{count} termes distincts prêts ; {progress?.invalid.length??0} entrées à corriger ou exclure dans l’aperçu. Les lots reçus restent ici même après un arrêt.</p><VocabularyImport key={vocab} initialText={vocab}/></section>}
+ <section className="mt-14"><div className="flex justify-between border-b border-line pb-5"><h2 className="section-title">Votre <em>atelier.</em></h2><span className="kicker">{units.length} créations</span></div>{!units.length?<p className="text-muted py-10">Vos leçons et séries validées apparaîtront ici. Le vocabulaire est enregistré dans Words.</p>:units.map(u=><div key={u.id} className="saved-unit"><div><h3 className="font-display text-2xl">{u.title}</h3><p className="text-xs text-muted mt-2">{u.exercises.length} exercices · {new Date(u.createdAt).toLocaleDateString()}</p><details className="mt-3 text-sm"><summary>Lire la leçon</summary><p className="whitespace-pre-wrap mt-3">{u.explanation}</p></details></div><div className="flex gap-2"><Button onClick={()=>{setPlaying(u.exercises);setIndex(0);setDone(false);}}>Pratiquer</Button><Button variant="ghost" onClick={()=>{if(window.confirm("Supprimer cette création ?"))deleteUnit(u.id).catch(e=>setError(e.message));}}>Supprimer</Button></div></div>)}</section>
+ {playing&&!done&&<section className="study-draft"><div className="flex justify-between mb-6"><span className="kicker">Practice / {index+1} of {playing.length}</span><Button variant="ghost" onClick={()=>setPlaying(null)}>Fermer</Button></div><ExercisePlayer key={playing[index].id} ex={playing[index]} settings={s} onDone={async o=>{try{await recordAttempt({ex:playing[index],...o,mode:"practice"});if(index+1>=playing.length)setDone(true);else setIndex(index+1);}catch(e){setError((e as Error).message);}}}/></section>}{done&&<div className="notice mt-6" role="status">Série terminée. Vos réponses et votre progression sont enregistrées.</div>}
+ </Page>;
+}

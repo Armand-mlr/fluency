@@ -1,0 +1,42 @@
+{
+  "name": "fluency",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "lint": "eslint",
+    "check": "node --import tsx scripts/check-engine.ts",
+    "check:content": "node --import tsx scripts/check-content.ts",
+    "test:content": "node --import tsx scripts/check-content-migration.ts",
+    "test": "node --import tsx scripts/check-features.ts"
+  },
+  "dependencies": {
+    "dexie": "^4.4.6",
+    "dexie-react-hooks": "^4.4.0",
+    "next": "16.3.6",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.6",
+    "fake-indexeddb": "^6.2.5",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "fsevents@2.3.3": true,
+    "unrs-resolver@1.12.2": true
+  }
+}

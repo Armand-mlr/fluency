@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "ideas",
+  "title": "Idées & raisonnement",
+  "description": "Évaluer un argument et décrire ce qui le soutient.",
+  "color": "#6274a0",
+  "items": [
+    {
+      "id": "v-577633048497",
+      "kind": "word",
+      "text": "assumption",
+      "translationFr": "hypothèse tenue pour acquise",
+      "meaning": "something accepted as true without proof",
+      "example": "I realised my whole plan rested on a false assumption.",
+      "exampleFr": "J’ai réalisé que tout mon plan reposait sur une hypothèse fausse.",
+      "notes": "Make an assumption ; souvent implicite, contrairement à une hypothèse testée.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-44c728c90d84",
+      "kind": "word",
+      "text": "premise",
+      "translationFr": "prémisse, point de départ",
+      "meaning": "a claim on which an argument is based",
+      "example": "I questioned the premise that more choice always makes us happier.",
+      "exampleFr": "J’ai remis en cause l’idée de départ selon laquelle plus de choix rend toujours plus heureux.",
+      "notes": "The premise that ; base explicite d’un raisonnement.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-df636f85ef18",
+      "kind": "word",
+      "text": "caveat",
+      "translationFr": "réserve importante",
+      "meaning": "a warning that limits a claim or recommendation",
+      "example": "I agreed, with the caveat that we might need more time.",
+      "exampleFr": "J’ai accepté, avec la réserve qu’il nous faudrait peut-être plus de temps.",
+      "notes": "With one caveat ; précise une condition ou une limite.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-ab6cfd377b12",
+      "kind": "word",
+      "text": "drawback",
+      "translationFr": "inconvénient",
+      "meaning": "a disadvantage of something otherwise useful",
+      "example": "The main drawback was the lack of a direct train.",
+      "exampleFr": "Le principal inconvénient était l’absence de train direct.",
+      "notes": "Drawback of/to ; inconvénient concret d’une option.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-015a7b0487a7",
+      "kind": "word",
+      "text": "loophole",
+      "translationFr": "faille permettant de contourner une règle",
+      "meaning": "a gap in a rule that allows it to be avoided",
+      "example": "I hadn't realised there was a loophole in the booking conditions.",
+      "exampleFr": "Je n’avais pas vu la faille dans les conditions de réservation.",
+      "notes": "A loophole in ; ne signifie pas tout bug technique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-34fe99bb60cd",
+      "kind": "word",
+      "text": "rationale",
+      "translationFr": "logique qui justifie une décision",
+      "meaning": "the set of reasons behind a decision",
+      "example": "I understood the decision once she explained the rationale.",
+      "exampleFr": "J’ai compris la décision quand elle en a expliqué la logique.",
+      "notes": "The rationale behind/for ; raison structurée, pas rationalité générale.",
+      "level": "C1",
+      "register": "formal",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-100ec4462dec",
+      "kind": "word",
+      "text": "evidence",
+      "translationFr": "éléments probants",
+      "meaning": "information that supports a conclusion",
+      "example": "I changed my mind when I saw the evidence.",
+      "exampleFr": "J’ai changé d’avis en voyant les éléments probants.",
+      "notes": "Indénombrable : some evidence, a piece of evidence, pas an evidence.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-e1e8289afa6b",
+      "kind": "word",
+      "text": "bias",
+      "translationFr": "biais, parti pris",
+      "meaning": "a tendency that influences judgement unfairly",
+      "example": "I tried to notice my own bias when choosing examples.",
+      "exampleFr": "J’ai essayé de repérer mon propre biais en choisissant les exemples.",
+      "notes": "Bias towards/against ; peut être inconscient.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-9c83db73a0e4",
+      "kind": "word",
+      "text": "ambiguity",
+      "translationFr": "ambiguïté",
+      "meaning": "the possibility of more than one interpretation",
+      "example": "I rewrote the message to remove the ambiguity.",
+      "exampleFr": "J’ai réécrit le message pour lever l’ambiguïté.",
+      "notes": "Ambiguity in wording ; plusieurs lectures possibles.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-df2165907007",
+      "kind": "word",
+      "text": "plausible",
+      "translationFr": "plausible",
+      "meaning": "seeming reasonable and possibly true",
+      "example": "Her explanation sounded plausible, but I wanted to check.",
+      "exampleFr": "Son explication semblait plausible, mais je voulais vérifier.",
+      "notes": "Plausible n’implique pas proven : crédible sans preuve définitive.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-2bf274e6ecff",
+      "kind": "word",
+      "text": "compelling",
+      "translationFr": "convaincant",
+      "meaning": "strong enough to persuade or hold attention",
+      "example": "I found her argument compelling because it addressed my main concern.",
+      "exampleFr": "J’ai trouvé son argument convaincant car il répondait à mon inquiétude principale.",
+      "notes": "Compelling argument/evidence ; force de persuasion.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-192ac9255421",
+      "kind": "word",
+      "text": "flawed",
+      "translationFr": "comportant un défaut important",
+      "meaning": "having a weakness that affects validity or quality",
+      "example": "I realised the comparison was flawed because the groups were different.",
+      "exampleFr": "J’ai compris que la comparaison était faussée car les groupes différaient.",
+      "notes": "Flawed reasoning ; peut être partiellement utile malgré le défaut.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-8bf177a72c93",
+      "kind": "word",
+      "text": "misleading",
+      "translationFr": "trompeur",
+      "meaning": "likely to give a wrong impression",
+      "example": "I found the headline misleading after reading the full article.",
+      "exampleFr": "Le titre m’a paru trompeur après lecture de l’article complet.",
+      "notes": "Peut tromper sans être intégralement faux.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-5e62d298da0b",
+      "kind": "word",
+      "text": "inconclusive",
+      "translationFr": "ne permettant pas de conclure",
+      "meaning": "not leading to a definite conclusion",
+      "example": "The first test was inconclusive, so I repeated it.",
+      "exampleFr": "Le premier test ne permettait pas de conclure ; je l’ai refait.",
+      "notes": "Inconclusive results ; pas preuve d’absence d’effet.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-bdcd90a1868a",
+      "kind": "word",
+      "text": "far-fetched",
+      "translationFr": "tiré par les cheveux",
+      "meaning": "unlikely and difficult to believe",
+      "example": "I thought the explanation was a little far-fetched.",
+      "exampleFr": "J’ai trouvé l’explication un peu tirée par les cheveux.",
+      "notes": "Far-fetched claim ; jugement de plausibilité faible.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-bbb341d3ed69",
+      "kind": "word",
+      "text": "tenuous",
+      "translationFr": "fragile, peu solide",
+      "meaning": "weak and not strongly supported",
+      "example": "The connection between the two events seemed tenuous.",
+      "exampleFr": "Le lien entre les deux événements semblait fragile.",
+      "notes": "Tenuous link ; soutien limité, pas forcément inexistant.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-c35aa285bdeb",
+      "kind": "word",
+      "text": "spurious",
+      "translationFr": "fallacieux",
+      "meaning": "appearing valid but actually false or unsupported",
+      "example": "I rejected the claim because it relied on spurious reasoning.",
+      "exampleFr": "J’ai rejeté l’affirmation car elle reposait sur un raisonnement fallacieux.",
+      "notes": "Spurious claim ; accusateur, nécessite une justification.",
+      "level": "C2",
+      "register": "formal",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-26aed795c45d",
+      "kind": "word",
+      "text": "untenable",
+      "translationFr": "indéfendable",
+      "meaning": "impossible to defend or maintain",
+      "example": "After the new evidence emerged, my earlier position became untenable.",
+      "exampleFr": "Après les nouvelles preuves, ma position initiale est devenue indéfendable.",
+      "notes": "Untenable position ; argument ou situation impossible à maintenir.",
+      "level": "C2",
+      "register": "formal",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-581aae1e9c4c",
+      "kind": "word",
+      "text": "robust",
+      "translationFr": "solide face à la vérification",
+      "meaning": "strong and unlikely to fail under testing",
+      "example": "I wanted a robust explanation that covered the exceptions too.",
+      "exampleFr": "Je voulais une explication solide qui traite aussi les exceptions.",
+      "notes": "Robust evidence/method ; solidité au-delà d’un seul exemple.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-da38371a5f40",
+      "kind": "word",
+      "text": "cogent",
+      "translationFr": "convaincant par sa logique",
+      "meaning": "clear and logically persuasive",
+      "example": "She gave a cogent explanation of why the plan would fail.",
+      "exampleFr": "Elle a expliqué de façon logique et convaincante pourquoi le plan échouerait.",
+      "notes": "Cogent argument ; soutenu, plus précis que merely interesting.",
+      "level": "C2",
+      "register": "formal",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-67da0751fc34",
+      "kind": "word",
+      "text": "a counterargument",
+      "translationFr": "un contre-argument",
+      "meaning": "an argument against an earlier claim",
+      "example": "I tried to address the strongest counterargument in my conclusion.",
+      "exampleFr": "J’ai tenté de répondre au contre-argument le plus solide dans ma conclusion.",
+      "notes": "Address a counterargument ; le traiter, pas seulement le citer.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-1541eeac6a15",
+      "kind": "collocation",
+      "text": "a line of reasoning",
+      "translationFr": "un raisonnement suivi",
+      "meaning": "a connected sequence of thoughts leading to a conclusion",
+      "example": "I couldn't follow his line of reasoning after the second example.",
+      "exampleFr": "Je n’arrivais plus à suivre son raisonnement après le deuxième exemple.",
+      "notes": "Follow/challenge a line of reasoning.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-6c45d03cc785",
+      "kind": "collocation",
+      "text": "the burden of proof",
+      "translationFr": "la charge de la preuve",
+      "meaning": "the responsibility to provide supporting evidence",
+      "example": "I felt the burden of proof lay with the person making the claim.",
+      "exampleFr": "J’estimais que la preuve incombait à la personne qui affirmait cela.",
+      "notes": "The burden of proof lies with ; formule argumentative.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-812785dc0cc0",
+      "kind": "collocation",
+      "text": "a false dichotomy",
+      "translationFr": "une fausse alternative binaire",
+      "meaning": "a misleading presentation of only two possible choices",
+      "example": "Calling it a choice between work and happiness creates a false dichotomy.",
+      "exampleFr": "Présenter cela comme un choix entre travail et bonheur crée une fausse alternative.",
+      "notes": "Deux options sont présentées à tort comme exhaustives.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-78d431bca673",
+      "kind": "collocation",
+      "text": "a grey area",
+      "translationFr": "une zone floue",
+      "meaning": "a situation where rules or distinctions are unclear",
+      "example": "I asked for advice because the policy left a grey area.",
+      "exampleFr": "J’ai demandé conseil car le règlement laissait une zone floue.",
+      "notes": "BrE grey, AmE gray ; pas forcément une faute.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-b71b71b4dc10",
+      "kind": "collocation",
+      "text": "common ground",
+      "translationFr": "un terrain d’entente",
+      "meaning": "shared views or interests",
+      "example": "We found common ground on the need for clearer communication.",
+      "exampleFr": "Nous avons trouvé un terrain d’entente sur le besoin de mieux communiquer.",
+      "notes": "Find common ground ; indénombrable dans cet usage.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-b43c01f2ff4f",
+      "kind": "collocation",
+      "text": "a leap of logic",
+      "translationFr": "un saut logique injustifié",
+      "meaning": "a conclusion reached without enough connecting reasoning",
+      "example": "Going from one complaint to blaming everyone seemed a leap of logic.",
+      "exampleFr": "Passer d’une plainte à l’accusation générale me semblait un saut logique.",
+      "notes": "Souligne un lien manquant entre prémisses et conclusion.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-f2b716521c73",
+      "kind": "collocation",
+      "text": "a rule of thumb",
+      "translationFr": "une règle pratique approximative",
+      "meaning": "a useful general guideline rather than an exact rule",
+      "example": "As a rule of thumb, I leave extra time for unfamiliar journeys.",
+      "exampleFr": "En règle générale, je prévois plus de temps pour les trajets inconnus.",
+      "notes": "Approximation utile ; pas loi universelle.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-2db5a186f0d5",
+      "kind": "collocation",
+      "text": "put something to the test",
+      "translationFr": "mettre quelque chose à l’épreuve",
+      "meaning": "to try something in order to see whether it works",
+      "example": "I put my theory to the test on the next trip.",
+      "exampleFr": "J’ai mis ma théorie à l’épreuve lors du voyage suivant.",
+      "notes": "Passer de l’idée à une vérification concrète.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-458f0d699b0b",
+      "kind": "collocation",
+      "text": "draw a distinction",
+      "translationFr": "établir une distinction",
+      "meaning": "to identify an important difference",
+      "example": "I drew a distinction between being busy and being productive.",
+      "exampleFr": "J’ai distingué le fait d’être occupé de celui d’être productif.",
+      "notes": "Draw a distinction between X and Y.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-f5de3e1ce99f",
+      "kind": "collocation",
+      "text": "call something into question",
+      "translationFr": "remettre quelque chose en question",
+      "meaning": "to make something seem doubtful",
+      "example": "The missing records called the whole conclusion into question.",
+      "exampleFr": "Les documents manquants ont remis toute la conclusion en question.",
+      "notes": "Doute sur la validité ; pas réfutation définitive.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-bc21f09cc61b",
+      "kind": "collocation",
+      "text": "hold up to scrutiny",
+      "translationFr": "résister à un examen approfondi",
+      "meaning": "to remain convincing when examined carefully",
+      "example": "I wasn't sure the figures would hold up to scrutiny.",
+      "exampleFr": "Je doutais que les chiffres résistent à un examen approfondi.",
+      "notes": "Scrutiny est indénombrable ; examen exigeant.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-23bd2c28d5bd",
+      "kind": "collocation",
+      "text": "bear something out",
+      "translationFr": "confirmer par les faits",
+      "meaning": "to support a claim with evidence",
+      "example": "The later results bore out her initial prediction.",
+      "exampleFr": "Les résultats ultérieurs ont confirmé sa prédiction initiale.",
+      "notes": "Bear out, bore out, borne out ; preuve qui appuie une idée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-51ed8e50413e",
+      "kind": "phrasal-verb",
+      "text": "boil down to",
+      "translationFr": "se résumer à",
+      "meaning": "to have a particular essential meaning or cause",
+      "example": "For me, the decision boiled down to how much time I had.",
+      "exampleFr": "Pour moi, la décision se résumait au temps dont je disposais.",
+      "notes": "Boil down to + nom ou -ing ; élément déterminant.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-32c8a9ee748a",
+      "kind": "phrasal-verb",
+      "text": "add up",
+      "translationFr": "être cohérent",
+      "meaning": "to make sense when all details are considered",
+      "example": "Her explanation didn't add up, so I asked another question.",
+      "exampleFr": "Son explication ne tenait pas ; j’ai posé une autre question.",
+      "notes": "Souvent négatif : something doesn't add up.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-2bcb9b85eba4",
+      "kind": "phrasal-verb",
+      "text": "build on",
+      "translationFr": "s’appuyer sur pour développer",
+      "meaning": "to use something as a basis for further progress",
+      "example": "I built on her suggestion rather than starting from scratch.",
+      "exampleFr": "Je me suis appuyé sur sa suggestion plutôt que de repartir de zéro.",
+      "notes": "Build on an idea ; ajoute à une base existante.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-09a4033f988e",
+      "kind": "phrasal-verb",
+      "text": "flesh out",
+      "translationFr": "étoffer",
+      "meaning": "to add detail to an initial idea",
+      "example": "I needed a few examples to flesh out the proposal.",
+      "exampleFr": "Il me fallait quelques exemples pour étoffer la proposition.",
+      "notes": "Flesh out a plan ; pas flush out, faire sortir de sa cachette.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-d81bc21280d6",
+      "kind": "phrasal-verb",
+      "text": "factor in",
+      "translationFr": "prendre en compte",
+      "meaning": "to include something in a calculation or decision",
+      "example": "I forgot to factor in the time needed to get to the station.",
+      "exampleFr": "J’ai oublié de prendre en compte le trajet jusqu’à la gare.",
+      "notes": "Factor something in ; intégrer une contrainte au raisonnement.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-00524c908b21",
+      "kind": "expression",
+      "text": "for all we know",
+      "translationFr": "pour ce qu’on en sait",
+      "meaning": "used when acknowledging limited knowledge",
+      "example": "For all we know, they may already have solved the problem.",
+      "exampleFr": "Pour ce qu’on en sait, ils ont peut-être déjà résolu le problème.",
+      "notes": "Ouvre une possibilité faute d’informations, pas une affirmation.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "expression"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-9d97d639db6c",
+      "kind": "expression",
+      "text": "by the same token",
+      "translationFr": "pour la même raison",
+      "meaning": "used to apply the same reasoning to another point",
+      "example": "I expect honesty from others; by the same token, I owe them honesty.",
+      "exampleFr": "J’attends l’honnêteté des autres ; pour la même raison, je la leur dois.",
+      "notes": "Relie deux conséquences d’un même principe.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "expression"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-a6ee2a58518a",
+      "kind": "expression",
+      "text": "the extent to which",
+      "translationFr": "la mesure dans laquelle",
+      "meaning": "how much or how far something is true",
+      "example": "I wondered about the extent to which the weather had affected attendance.",
+      "exampleFr": "Je me demandais à quel point la météo avait influé sur la fréquentation.",
+      "notes": "The extent to which + proposition ; mesure graduelle.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "ideas",
+        "expression"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    },
+    {
+      "id": "v-588080357d7d",
+      "kind": "word",
+      "text": "substantiated",
+      "translationFr": "étayé par des éléments probants",
+      "meaning": "supported by adequate evidence",
+      "example": "I wanted substantiated claims rather than confident guesses.",
+      "exampleFr": "Je voulais des affirmations étayées plutôt que des suppositions assurées.",
+      "notes": "Substantiate a claim ; confiance du locuteur ne suffit pas.",
+      "level": "C2",
+      "register": "formal",
+      "tags": [
+        "ideas",
+        "word"
+      ],
+      "listIds": [
+        "pack-ideas"
+      ]
+    }
+  ]
+}

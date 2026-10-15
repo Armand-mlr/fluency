@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "kind": "expression",
+      "text": "to strike a balance",
+      "translationFr": "trouver un équilibre",
+      "meaning": "To find a suitable compromise",
+      "example": "We need to strike a balance between speed and quality.",
+      "exampleFr": "Nous devons trouver un équilibre entre rapidité et qualité.",
+      "level": "C1",
+      "tags": [
+        "work",
+        "daily life"
+      ]
+    },
+    {
+      "kind": "word",
+      "text": "thoughtful",
+      "translationFr": "attentionné ; réfléchi"
+    }
+  ]
+}

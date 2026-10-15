@@ -1,0 +1,14 @@
+{
+  "app": "fluency-profile",
+  "version": 1,
+  "profile": {
+    "name": "Alex",
+    "currentLevel": "B2",
+    "targetLevel": "C2",
+    "goals": "Parler avec précision au travail",
+    "interests": "Musique, cuisine, voyages",
+    "sessionMinutes": 15,
+    "dailyGoal": 20,
+    "newItemsPerDay": 8
+  }
+}

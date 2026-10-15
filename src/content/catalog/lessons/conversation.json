@@ -1,0 +1,426 @@
+[
+  {
+    "id": "indirect-questions",
+    "title": "Poser une question avec tact",
+    "subtitle": "Could you tell me where… sans inversion interne.",
+    "level": "B2+",
+    "track": "conversation",
+    "minutes": 12,
+    "tags": [
+      "indirect-questions",
+      "conversation"
+    ],
+    "relatedListIds": [
+      "pack-conversation",
+      "pack-work"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Après une entrée comme Could you tell me, Do you know ou I was wondering, la question intégrée prend l’ordre d’une déclaration : sujet puis verbe. L’inversion se trouve dans la question principale, pas dans la partie intégrée. Pour une question oui/non, utilisez if ou whether. Whether est utile pour présenter deux alternatives et s’emploie avant to-infinitif. I was wondering donne souvent une distance polie sans exiger un véritable récit passé. La politesse dépend aussi de la demande et du contexte.",
+        "pattern": "Could you tell me + mot interrogatif + sujet + verbe ? · I was wondering if + proposition",
+        "examples": [
+          {
+            "en": "Could you tell me where the meeting is?",
+            "fr": "Pourriez-vous me dire où a lieu la réunion ?",
+            "note": "Where the meeting is garde l’ordre sujet-verbe."
+          },
+          {
+            "en": "I was wondering whether you could help me.",
+            "fr": "Je me demandais si vous pourriez m’aider.",
+            "note": "Whether introduit une question oui/non intégrée."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "Do you know where does she live?",
+        "right": "Do you know where she lives?",
+        "why": "Le do de la question directe disparaît dans la question intégrée."
+      }
+    ],
+    "takeaway": "À l’intérieur de la question indirecte, pensez à l’ordre d’une phrase affirmative.",
+    "recallPrompt": "Transformez What time does it start? en une demande polie.",
+    "exercises": [
+      {
+        "id": "indirect-questions-1",
+        "type": "mcq",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "indirect-questions",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Quelle demande est correctement construite ?",
+        "options": [
+          "Could you tell me when does it open?",
+          "Could you tell me when it opens?",
+          "Could you tell me when opens it?"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Inversion directe conservée à tort.",
+          "Sujet it puis verbe opens.",
+          "Sujet et verbe inversés."
+        ],
+        "explanation": "La question principale est Could you tell me. La question intégrée ne reprend pas does et garde it opens."
+      },
+      {
+        "id": "indirect-questions-2",
+        "type": "cloze",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "indirect-questions",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "I was wondering ___ you could send me the address.",
+        "answers": [
+          "if",
+          "whether"
+        ],
+        "hint": "Question oui/non intégrée.",
+        "explanation": "If et whether conviennent ici. Une question oui/non n’a pas de mot comme where ou when."
+      },
+      {
+        "id": "indirect-questions-3",
+        "type": "rewrite",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "indirect-questions",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "Commencez par Could you tell me.",
+        "prompt": "Where did you buy this?",
+        "model": "Could you tell me where you bought this?",
+        "answers": [
+          "Could you tell me where you bought this?"
+        ],
+        "hint": "Commencez par Could you tell me.",
+        "explanation": "Did disparaît ; bought porte le passé dans la question intégrée."
+      },
+      {
+        "id": "indirect-questions-4",
+        "type": "free",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "indirect-questions",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Demandez à une personne que vous connaissez peu le lieu d’un événement et la possibilité de venir accompagné.",
+        "model": "Could you tell me where the event is taking place? I was wondering if I could bring a friend.",
+        "rubric": [
+          "Ordre sujet-verbe dans les questions intégrées.",
+          "If/whether pour la question oui/non.",
+          "Demande claire malgré l’atténuation."
+        ],
+        "explanation": "Une entrée polie suffit ; accumuler plusieurs formules peut rendre la demande lourde.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "emphatic-do",
+    "title": "Insister sans crier",
+    "subtitle": "Do, does et did pour confirmer ou corriger.",
+    "level": "B2+",
+    "track": "conversation",
+    "minutes": 12,
+    "tags": [
+      "emphatic-do",
+      "conversation"
+    ],
+    "relatedListIds": [
+      "pack-conversation",
+      "pack-emotions"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Dans une phrase affirmative, do/does/did peut renforcer le verbe lexical : I do understand signifie que l’on comprend vraiment, souvent en réponse à un doute. L’auxiliaire porte l’accord et le temps ; le verbe revient à la base. Si la phrase contient déjà be, have auxiliaire ou un modal, on accentue généralement cet auxiliaire à l’oral au lieu d’ajouter do. À l’écrit, utilisez cette emphase quand un contraste est compréhensible. Une concession peut suivre pour garder un désaccord nuancé.",
+        "pattern": "I do + V · she does + V · I did + V · emphase sur l’auxiliaire déjà présent",
+        "examples": [
+          {
+            "en": "I do appreciate your help; I just need a little more time.",
+            "fr": "J’apprécie vraiment ton aide ; il me faut juste un peu plus de temps.",
+            "note": "Confirme la reconnaissance avant la réserve."
+          },
+          {
+            "en": "I did send the message, but it may not have arrived.",
+            "fr": "J’ai bien envoyé le message, mais il n’est peut-être pas arrivé.",
+            "note": "Corrige l’idée que l’envoi n’a pas eu lieu."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "She does understands the problem.",
+        "right": "She does understand the problem.",
+        "why": "Does porte le -s ; understand reste à la base."
+      }
+    ],
+    "takeaway": "Un seul marqueur porte le temps et l’accord : does understand, did try.",
+    "recallPrompt": "Confirmez une action passée dont quelqu’un doute, puis ajoutez une limite.",
+    "exercises": [
+      {
+        "id": "emphatic-do-1",
+        "type": "mcq",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "emphatic-do",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous voulez confirmer que vous avez essayé.",
+        "options": [
+          "I did tried.",
+          "I did try.",
+          "I do tried."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Double marque du passé.",
+          "Did + base verbale.",
+          "Temps incohérents."
+        ],
+        "explanation": "Did porte le passé ; try reste à la base. Cette phrase corrige ou renforce une affirmation précédente."
+      },
+      {
+        "id": "emphatic-do-2",
+        "type": "cloze",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "emphatic-do",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "She does ___ (care) about what happens next.",
+        "answers": [
+          "care"
+        ],
+        "hint": "Base verbale après does.",
+        "explanation": "Does marque l’accord de troisième personne ; ajouter cares produirait une double flexion."
+      },
+      {
+        "id": "emphatic-do-3",
+        "type": "rewrite",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "emphatic-do",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "Renforcez understand avec do sans modifier le reste.",
+        "prompt": "I understand your concern, but I disagree with the solution.",
+        "model": "I do understand your concern, but I disagree with the solution.",
+        "answers": [
+          "I do understand your concern, but I disagree with the solution."
+        ],
+        "hint": "Renforcez understand avec do sans modifier le reste.",
+        "explanation": "L’emphase confirme l’écoute ; but introduit une réserve ciblée sur la solution."
+      },
+      {
+        "id": "emphatic-do-4",
+        "type": "free",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "emphatic-do",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Répondez à quelqu’un qui pense que vous n’avez pas fait d’effort. Confirmez un fait et reconnaissez une limite.",
+        "model": "I did prepare for the meeting, but I had not seen the latest figures. I do want to help find a solution.",
+        "rubric": [
+          "Did + base pour le passé.",
+          "Do + base pour une position actuelle.",
+          "Une limite honnête et précise."
+        ],
+        "explanation": "L’emphase ne doit pas remplacer une explication ; elle prépare ici la clarification.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "polite-requests",
+    "title": "Demander sans tourner autour du pot",
+    "subtitle": "Atténuer le ton en gardant une demande claire.",
+    "level": "C1",
+    "track": "conversation",
+    "minutes": 12,
+    "tags": [
+      "polite-requests",
+      "conversation"
+    ],
+    "relatedListIds": [
+      "pack-conversation",
+      "pack-work"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Une demande réussie précise l’action, le contexte utile et, si nécessaire, le délai. Could you… est une base polyvalente. Would you mind + -ing demande si l’action dérange ; une réponse no peut donc signifier que la personne accepte. I was wondering if… est plus indirect, utile selon la relation. Ajoutez une vraie possibilité de refus si vous demandez une faveur importante. Could you possibly… suffit : plusieurs atténuateurs empilés rendent le message flou. Le registre s’ajuste à la relation, pas à un score de niveau.",
+        "pattern": "Could you + V…? · Would you mind + V-ing…? · I was wondering if + sujet + could…",
+        "examples": [
+          {
+            "en": "Could you send me the revised version by Thursday?",
+            "fr": "Pourriez-vous m’envoyer la version révisée d’ici jeudi ?",
+            "note": "Action et échéance clairement identifiées."
+          },
+          {
+            "en": "Would you mind checking the figures when you have a moment?",
+            "fr": "Cela vous dérangerait-il de vérifier les chiffres quand vous aurez un moment ?",
+            "note": "Mind est suivi de -ing ; le délai reste souple."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "Would you mind to help me?",
+        "right": "Would you mind helping me?",
+        "why": "Mind se construit ici avec -ing."
+      }
+    ],
+    "takeaway": "Une atténuation utile, une action concrète et un délai proportionné suffisent.",
+    "recallPrompt": "Écrivez la même demande à un ami puis à une personne peu connue.",
+    "exercises": [
+      {
+        "id": "polite-requests-1",
+        "type": "mcq",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "polite-requests",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Quel message est poli et exploitable pour demander une correction avant vendredi ?",
+        "options": [
+          "Fix it.",
+          "Could you review the two highlighted paragraphs by Friday?",
+          "Could you perhaps maybe potentially do something at some point?"
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Action vague et ton direct.",
+          "Action précise, portée limitée, délai clair.",
+          "Trop d’atténuateurs et aucune action claire."
+        ],
+        "explanation": "La politesse vient aussi du cadrage réaliste de la demande : deux paragraphes et une échéance identifiable."
+      },
+      {
+        "id": "polite-requests-2",
+        "type": "cloze",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "polite-requests",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "Would you mind ___ (move) your bag?",
+        "answers": [
+          "moving"
+        ],
+        "hint": "Construction après mind.",
+        "explanation": "Mind + -ing. La demande porte sur le fait de déplacer le sac, pas sur un infinitif en to."
+      },
+      {
+        "id": "polite-requests-3",
+        "type": "rewrite",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "polite-requests",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "Transformez l’impératif avec Could you.",
+        "prompt": "Send me the address today.",
+        "model": "Could you send me the address today?",
+        "answers": [
+          "Could you send me the address today?"
+        ],
+        "hint": "Transformez l’impératif avec Could you.",
+        "explanation": "Could you adoucit le ton sans supprimer l’information essentielle : adresse et délai."
+      },
+      {
+        "id": "polite-requests-4",
+        "type": "free",
+        "skills": [
+          "register",
+          "speaking"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "polite-requests",
+          "conversation"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Demandez une petite aide professionnelle. Donnez le contexte, l’action et le délai, en trois phrases maximum.",
+        "model": "I am finalising the programme for Monday. Could you check the two session titles by tomorrow afternoon? If that is too short notice, please let me know.",
+        "rubric": [
+          "Contexte bref.",
+          "Action et délai précis.",
+          "Ton adapté et possibilité de signaler une contrainte."
+        ],
+        "explanation": "La demande peut rester naturelle et courte ; un vocabulaire rare n’est pas nécessaire.",
+        "estSeconds": 120
+      }
+    ]
+  }
+]

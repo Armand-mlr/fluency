@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "society",
+  "title": "Société & actualité",
+  "description": "Débattre des changements collectifs sans jargon creux.",
+  "color": "#9a6565",
+  "items": [
+    {
+      "id": "v-2b1af727bf18",
+      "kind": "word",
+      "text": "affordability",
+      "translationFr": "accessibilité financière",
+      "meaning": "the extent to which people can pay for something",
+      "example": "Housing affordability shaped my decision about where to live.",
+      "exampleFr": "L’accessibilité financière du logement a guidé mon choix de lieu de vie.",
+      "notes": "Affordability of ; distingue prix affiché et capacité à payer.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-0981900574ed",
+      "kind": "word",
+      "text": "livelihood",
+      "translationFr": "moyen de subsistance",
+      "meaning": "the way someone earns enough to live",
+      "example": "I hadn't realised how many livelihoods depended on the harbour.",
+      "exampleFr": "Je n’avais pas réalisé combien de personnes vivaient de l’activité du port.",
+      "notes": "Earn a livelihood ; moyens de vivre, pas style de vie.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-1bc6da8db547",
+      "kind": "word",
+      "text": "disparity",
+      "translationFr": "écart important",
+      "meaning": "a significant difference between groups or situations",
+      "example": "I was struck by the disparity in services between the two towns.",
+      "exampleFr": "L’écart de services entre les deux villes m’a frappé.",
+      "notes": "Disparity between/in ; souvent ressources ou possibilités.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-d77df9734c32",
+      "kind": "word",
+      "text": "deprivation",
+      "translationFr": "privation de ressources essentielles",
+      "meaning": "a lack of basic resources or opportunities",
+      "example": "I learned more about local deprivation while volunteering.",
+      "exampleFr": "Le bénévolat m’a fait mieux comprendre les privations subies dans le quartier.",
+      "notes": "Social deprivation ; aussi sleep deprivation, manque de sommeil.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-4c23c11bfe60",
+      "kind": "word",
+      "text": "upheaval",
+      "translationFr": "bouleversement",
+      "meaning": "a major disruption to normal life",
+      "example": "The factory closure caused upheaval throughout the town.",
+      "exampleFr": "La fermeture de l’usine a bouleversé toute la ville.",
+      "notes": "Political/social upheaval ; changement déstabilisant.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-075891e2507d",
+      "kind": "word",
+      "text": "backlash",
+      "translationFr": "retour de bâton, réaction hostile",
+      "meaning": "a strong negative reaction to a change",
+      "example": "I hadn't expected such a backlash against the new parking rules.",
+      "exampleFr": "Je ne m’attendais pas à une telle hostilité envers les nouvelles règles de stationnement.",
+      "notes": "Backlash against ; réaction collective marquée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-e8f9d1759301",
+      "kind": "word",
+      "text": "outcry",
+      "translationFr": "vague de protestations",
+      "meaning": "a strong public expression of anger",
+      "example": "There was a public outcry when the library was threatened with closure.",
+      "exampleFr": "L’annonce d’une possible fermeture de la bibliothèque a soulevé des protestations.",
+      "notes": "Public outcry over ; voix collective, pas plainte isolée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-40892c1b4282",
+      "kind": "word",
+      "text": "scrutiny",
+      "translationFr": "examen attentif",
+      "meaning": "careful and critical examination",
+      "example": "The council's spending came under scrutiny after the report.",
+      "exampleFr": "Les dépenses municipales ont été examinées de près après le rapport.",
+      "notes": "Under scrutiny ; nom indénombrable.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-f7f50285e107",
+      "kind": "word",
+      "text": "accountability",
+      "translationFr": "obligation de rendre des comptes",
+      "meaning": "the duty to explain decisions and accept responsibility",
+      "example": "I wanted clearer accountability for how donations were spent.",
+      "exampleFr": "Je voulais davantage de transparence sur la responsabilité des dépenses des dons.",
+      "notes": "Accountability for ; aspect concret de gouvernance.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-6a204f09760c",
+      "kind": "word",
+      "text": "outreach",
+      "translationFr": "action pour aller vers les publics",
+      "meaning": "efforts to contact and support people beyond an organisation",
+      "example": "I helped with outreach to residents who couldn't attend meetings.",
+      "exampleFr": "J’ai aidé à contacter les habitants qui ne pouvaient pas venir aux réunions.",
+      "notes": "Community outreach ; démarche active vers les personnes.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-3f09109164fd",
+      "kind": "word",
+      "text": "grassroots",
+      "translationFr": "issu de la mobilisation locale",
+      "meaning": "originating among ordinary members of a community",
+      "example": "I joined a grassroots campaign to save the local pool.",
+      "exampleFr": "J’ai rejoint une mobilisation citoyenne pour sauver la piscine locale.",
+      "notes": "Grassroots movement ; souvent adjectif, initiatives de la base.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-6091029a21c8",
+      "kind": "word",
+      "text": "stakeholder",
+      "translationFr": "partie prenante",
+      "meaning": "a person or group affected by a decision",
+      "example": "I wanted local residents to be treated as stakeholders in the project.",
+      "exampleFr": "Je voulais que les habitants soient considérés comme parties prenantes du projet.",
+      "notes": "Stakeholder n’est pas forcément shareholder, actionnaire.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-9b5ee7d3c556",
+      "kind": "word",
+      "text": "incentive",
+      "translationFr": "incitation",
+      "meaning": "something that encourages a particular action",
+      "example": "A cheaper monthly pass gave me an incentive to use the bus.",
+      "exampleFr": "Un abonnement moins cher m’a incité à prendre le bus.",
+      "notes": "An incentive to do ; peut être financier ou non.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-fa175ce5976f",
+      "kind": "word",
+      "text": "deterrent",
+      "translationFr": "élément dissuasif",
+      "meaning": "something that discourages an action",
+      "example": "The long waiting time was a deterrent to applying.",
+      "exampleFr": "Le long délai d’attente dissuadait de déposer une demande.",
+      "notes": "A deterrent to + nom ou -ing.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-9bfc8ee48687",
+      "kind": "word",
+      "text": "safeguard",
+      "translationFr": "mesure de protection",
+      "meaning": "a measure intended to prevent harm",
+      "example": "I asked what safeguards were in place to protect personal data.",
+      "exampleFr": "J’ai demandé quelles protections existaient pour les données personnelles.",
+      "notes": "Safeguards against something ; mesure précise, pas garantie absolue.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-f6f3de940289",
+      "kind": "word",
+      "text": "shortfall",
+      "translationFr": "déficit par rapport au besoin",
+      "meaning": "an amount by which something falls short of what is needed",
+      "example": "The organisers faced a funding shortfall just before the event.",
+      "exampleFr": "Les organisateurs manquaient de financement juste avant l’événement.",
+      "notes": "A shortfall in funding ; écart au montant nécessaire.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-c5b9c04ce2a4",
+      "kind": "word",
+      "text": "surge",
+      "translationFr": "forte hausse soudaine",
+      "meaning": "a sudden large increase",
+      "example": "I noticed a surge in demand for bicycles that summer.",
+      "exampleFr": "J’ai remarqué une forte hausse soudaine de la demande de vélos cet été-là.",
+      "notes": "A surge in ; indique une hausse brusque.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-1060601bd6e1",
+      "kind": "word",
+      "text": "downturn",
+      "translationFr": "repli économique",
+      "meaning": "a period of declining economic activity",
+      "example": "The downturn made it harder for my parents to keep the shop open.",
+      "exampleFr": "Le ralentissement économique compliquait le maintien du magasin de mes parents.",
+      "notes": "Economic downturn ; tendance négative sur une période.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-d5e7b9069fe0",
+      "kind": "word",
+      "text": "resilience",
+      "translationFr": "capacité à se relever",
+      "meaning": "the ability to recover after difficulty",
+      "example": "I admired the community's resilience after the flood.",
+      "exampleFr": "J’admirais la capacité du quartier à se relever après l’inondation.",
+      "notes": "Resilience after/in the face of ; récupération et adaptation.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-86b38fdd14f2",
+      "kind": "word",
+      "text": "sustainability",
+      "translationFr": "viabilité dans la durée",
+      "meaning": "the ability to continue without exhausting resources",
+      "example": "I questioned the long-term sustainability of relying on volunteers alone.",
+      "exampleFr": "Je doutais de la viabilité à long terme d’un fonctionnement uniquement bénévole.",
+      "notes": "Ne concerne pas seulement l’environnement : aussi ressources humaines.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-f28d55fbebd2",
+      "kind": "collocation",
+      "text": "cost of living",
+      "translationFr": "coût de la vie",
+      "meaning": "the amount needed to pay for everyday necessities",
+      "example": "The rising cost of living changed how often I could travel.",
+      "exampleFr": "La hausse du coût de la vie a réduit mes possibilités de voyage.",
+      "notes": "The cost of living ; dépenses quotidiennes essentielles.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-1e3d55cbb3d6",
+      "kind": "collocation",
+      "text": "social mobility",
+      "translationFr": "mobilité sociale",
+      "meaning": "the ability to move between social or economic positions",
+      "example": "The discussion made me think about what social mobility really requires.",
+      "exampleFr": "La discussion m’a fait réfléchir aux conditions réelles de la mobilité sociale.",
+      "notes": "Social mobility ; pas déplacements géographiques.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-e77937c2ab43",
+      "kind": "collocation",
+      "text": "public trust",
+      "translationFr": "confiance du public",
+      "meaning": "people's confidence in an institution or service",
+      "example": "I felt that admitting the error would help restore public trust.",
+      "exampleFr": "Je pensais qu’admettre l’erreur aiderait à rétablir la confiance du public.",
+      "notes": "Build/restore/undermine public trust.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-98ded660fa7f",
+      "kind": "collocation",
+      "text": "a vested interest",
+      "translationFr": "un intérêt personnel en jeu",
+      "meaning": "a personal benefit that may influence one's judgement",
+      "example": "I wondered whether the speaker had a vested interest in the outcome.",
+      "exampleFr": "Je me demandais si l’intervenant avait un intérêt personnel dans le résultat.",
+      "notes": "A vested interest in ; invite à examiner un possible biais.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-4895b5255984",
+      "kind": "collocation",
+      "text": "unintended consequences",
+      "translationFr": "conséquences non voulues",
+      "meaning": "effects that were not planned or intended",
+      "example": "I worried that the rule might have unintended consequences for small shops.",
+      "exampleFr": "Je craignais des effets non voulus de la règle sur les petits commerces.",
+      "notes": "Pas forcément imprévisibles ni toujours négatifs.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-433942a4b383",
+      "kind": "collocation",
+      "text": "a knock-on effect",
+      "translationFr": "un effet en cascade",
+      "meaning": "an indirect effect caused by an earlier change",
+      "example": "The school closure had a knock-on effect on my work schedule.",
+      "exampleFr": "La fermeture de l’école a eu des répercussions sur mes horaires de travail.",
+      "notes": "A knock-on effect on ; surtout BrE.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-3f1d1a78250c",
+      "kind": "idiom",
+      "text": "a level playing field",
+      "translationFr": "des conditions de concurrence équitables",
+      "meaning": "a situation where participants have fair opportunities",
+      "example": "I wanted the scheme to create a level playing field for newcomers.",
+      "exampleFr": "Je voulais que le dispositif donne des chances équitables aux nouveaux venus.",
+      "notes": "Métaphore ; égalité des conditions, pas garantie de résultat.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-0be7a86469de",
+      "kind": "collocation",
+      "text": "bridge the gap",
+      "translationFr": "combler l’écart",
+      "meaning": "to reduce the distance or difference between two things",
+      "example": "The evening classes helped bridge the gap between study and employment.",
+      "exampleFr": "Les cours du soir ont aidé à combler l’écart entre études et emploi.",
+      "notes": "Bridge the gap between X and Y.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-1cae210e4945",
+      "kind": "collocation",
+      "text": "raise awareness",
+      "translationFr": "sensibiliser",
+      "meaning": "to make people more aware of an issue",
+      "example": "I helped organise a walk to raise awareness of local river pollution.",
+      "exampleFr": "J’ai aidé à organiser une marche pour sensibiliser à la pollution de la rivière.",
+      "notes": "Raise awareness of/about ; awareness est indénombrable.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-4dfca5ead4f8",
+      "kind": "collocation",
+      "text": "address the root cause",
+      "translationFr": "traiter la cause profonde",
+      "meaning": "to deal with the underlying source of a problem",
+      "example": "I wanted us to address the root cause rather than repeat temporary fixes.",
+      "exampleFr": "Je voulais traiter la cause profonde plutôt que répéter les solutions provisoires.",
+      "notes": "Address signifie traiter ici, pas seulement mentionner.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-55da76d72a4b",
+      "kind": "idiom",
+      "text": "bear the brunt of",
+      "translationFr": "subir l’essentiel de",
+      "meaning": "to suffer most of the negative effects",
+      "example": "Small businesses bore the brunt of the road closures.",
+      "exampleFr": "Les petits commerces ont subi l’essentiel des fermetures de routes.",
+      "notes": "Bear, bore, borne ; effets négatifs concentrés sur un groupe.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-d0649d8a01dc",
+      "kind": "collocation",
+      "text": "come under fire",
+      "translationFr": "essuyer des critiques",
+      "meaning": "to receive strong criticism",
+      "example": "The proposal came under fire for ignoring rural residents.",
+      "exampleFr": "La proposition a été vivement critiquée pour avoir ignoré les habitants ruraux.",
+      "notes": "Come under fire for + nom ou -ing ; sens figuré ici.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-8b51f9d5a4da",
+      "kind": "collocation",
+      "text": "gain traction",
+      "translationFr": "commencer à susciter de l’adhésion",
+      "meaning": "to begin attracting support or making progress",
+      "example": "The idea gained traction after residents saw the first results.",
+      "exampleFr": "L’idée a commencé à convaincre après les premiers résultats visibles.",
+      "notes": "Gain traction ; progression d’une idée, pas approbation unanime.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-431972926d2d",
+      "kind": "phrasal-verb",
+      "text": "clamp down on",
+      "translationFr": "sévir contre",
+      "meaning": "to take strict action to stop something",
+      "example": "The city clamped down on illegal dumping near our street.",
+      "exampleFr": "La ville a renforcé la lutte contre les dépôts sauvages près de chez nous.",
+      "notes": "Clamp down on ; action ferme d’une autorité.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-174d16d6e584",
+      "kind": "phrasal-verb",
+      "text": "water down",
+      "translationFr": "diluer la portée de",
+      "meaning": "to make a proposal less strong or effective",
+      "example": "I felt the final proposal had been watered down too much.",
+      "exampleFr": "J’ai trouvé que la proposition finale avait été trop édulcorée.",
+      "notes": "Water down a proposal ; souvent critique d’un compromis trop faible.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-5ce1a945b932",
+      "kind": "phrasal-verb",
+      "text": "stand up for",
+      "translationFr": "défendre",
+      "meaning": "to support someone or something against opposition",
+      "example": "I admired her willingness to stand up for her colleagues.",
+      "exampleFr": "J’admirais sa volonté de défendre ses collègues.",
+      "notes": "Stand up for one's rights ; prise de position active.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-1d343f4d1568",
+      "kind": "phrasal-verb",
+      "text": "speak out against",
+      "translationFr": "dénoncer publiquement",
+      "meaning": "to publicly express opposition to something",
+      "example": "I decided to speak out against the closure of the service.",
+      "exampleFr": "J’ai décidé de dénoncer publiquement la fermeture du service.",
+      "notes": "Speak out against ; visibilité publique de la critique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-a7e613768068",
+      "kind": "phrasal-verb",
+      "text": "leave someone behind",
+      "translationFr": "laisser quelqu’un de côté",
+      "meaning": "to fail to include someone in progress or opportunities",
+      "example": "I worried the new system would leave older residents behind.",
+      "exampleFr": "Je craignais que le nouveau système laisse de côté les habitants âgés.",
+      "notes": "Peut décrire l’exclusion d’un progrès collectif.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-7c68b38f9069",
+      "kind": "expression",
+      "text": "in the public interest",
+      "translationFr": "dans l’intérêt général",
+      "meaning": "for the benefit of the public as a whole",
+      "example": "I believed publishing the findings was in the public interest.",
+      "exampleFr": "Je pensais que publier les résultats servait l’intérêt général.",
+      "notes": "À distinguer de of interest to the public, qui intéresse les gens.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "expression"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-c1805af99e8f",
+      "kind": "expression",
+      "text": "in the long run",
+      "translationFr": "à long terme",
+      "meaning": "over a long period of time",
+      "example": "I thought the repairs would save money in the long run.",
+      "exampleFr": "Je pensais que les réparations feraient économiser à long terme.",
+      "notes": "Bilan durable, au-delà du coût immédiat.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "expression"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-d6d74850f573",
+      "kind": "word",
+      "text": "entrenched",
+      "translationFr": "profondément ancré",
+      "meaning": "firmly established and difficult to change",
+      "example": "I underestimated how entrenched the old habits had become.",
+      "exampleFr": "J’ai sous-estimé à quel point les anciennes habitudes étaient ancrées.",
+      "notes": "Entrenched attitudes ; résistance au changement.",
+      "level": "C2",
+      "register": "neutral",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    },
+    {
+      "id": "v-759ed2ffca8d",
+      "kind": "word",
+      "text": "disenfranchised",
+      "translationFr": "privé de voix ou de pouvoir",
+      "meaning": "excluded from meaningful political or social participation",
+      "example": "Many residents felt disenfranchised when the meeting moved online only.",
+      "exampleFr": "Beaucoup d’habitants se sont sentis privés de voix quand la réunion est passée entièrement en ligne.",
+      "notes": "Sens strict : privé du droit de vote ; figuré : exclu des décisions.",
+      "level": "C2",
+      "register": "formal",
+      "tags": [
+        "society",
+        "word"
+      ],
+      "listIds": [
+        "pack-society"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "r-deal-with",
+    "skills": [
+      "register",
+      "paraphrase"
+    ],
+    "tags": [
+      "formal register",
+      "phrasal verbs"
+    ],
+    "context": "news",
+    "instruction": "Rewrite in a more formal register.",
+    "prompt": "The government needs to deal with this problem quickly.",
+    "answers": [
+      "The government needs to address this issue promptly.",
+      "The government must address this issue promptly.",
+      "The government needs to tackle this issue swiftly.",
+      "The government must address this issue swiftly.",
+      "The government needs to address this issue swiftly."
+    ],
+    "mustInclude": [
+      [
+        "address|tackle|resolve"
+      ],
+      [
+        "prompt|swift|without delay|urgent|expedit|rapid"
+      ]
+    ],
+    "mustAvoid": [
+      "deal with",
+      "quickly"
+    ],
+    "model": "The government needs to address this issue promptly.",
+    "explanation": "Formal registers prefer single Latin-origin verbs over phrasal verbs (deal with → address), and more precise nouns (problem → issue). “Promptly” adds the idea of reacting without delay, which “quickly” doesn't carry. “Tackle” is slightly more journalistic.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "r-find-out",
+    "skills": [
+      "register"
+    ],
+    "tags": [
+      "formal register",
+      "phrasal verbs",
+      "academic"
+    ],
+    "context": "academic",
+    "instruction": "Rewrite in an academic register. Replace the phrasal verbs.",
+    "prompt": "We want to find out why so many students drop out in the first year.",
+    "answers": [
+      "This study aims to determine why so many students withdraw in the first year.",
+      "We aim to determine why so many students withdraw in their first year.",
+      "This study seeks to establish why so many students leave university in their first year.",
+      "We seek to determine why so many students discontinue their studies in the first year."
+    ],
+    "mustInclude": [
+      [
+        "determine|establish|ascertain|identify|investigate|examine"
+      ],
+      [
+        "withdraw|leave|discontinue|abandon|attrition|drop-?out rate"
+      ]
+    ],
+    "mustAvoid": [
+      "find out",
+      "drop out"
+    ],
+    "model": "This study seeks to determine why so many students withdraw in their first year.",
+    "explanation": "Academic writing favours: impersonal subjects (this study), verbs of intention (aims to, seeks to), and precise single verbs (determine, withdraw). “Ascertain” exists but can feel stiff: “determine” is the safe academic choice.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "r-email-want",
+    "skills": [
+      "register",
+      "writing"
+    ],
+    "tags": [
+      "email",
+      "professional register",
+      "politeness"
+    ],
+    "context": "work",
+    "instruction": "Make this email sentence professional and polite (not stiff).",
+    "prompt": "I want to know if you got my application.",
+    "answers": [
+      "I was wondering whether you had received my application.",
+      "I was wondering if you had received my application.",
+      "Could you let me know whether you have received my application?",
+      "Could you confirm whether you have received my application?",
+      "I would like to check whether you have received my application."
+    ],
+    "mustInclude": [
+      [
+        "wonder|could you|would like to (check|confirm)|would be grateful"
+      ],
+      [
+        "receiv"
+      ]
+    ],
+    "mustAvoid": [
+      "i want to know",
+      "\\bgot\\b"
+    ],
+    "model": "I was wondering whether you had received my application.",
+    "explanation": "English politeness works through distance: past tense (I was wondering), modal verbs (could you), indirect questions. “I want” sounds demanding. “Receive” is the neutral-professional version of “get”.",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "r-to-casual",
+    "skills": [
+      "register",
+      "idioms"
+    ],
+    "tags": [
+      "casual register",
+      "conversation"
+    ],
+    "context": "relationships",
+    "instruction": "Rewrite as a natural text message to a friend.",
+    "prompt": "I regret to inform you that I will be unable to attend this evening's gathering.",
+    "answers": [
+      "Sorry, I can't make it tonight.",
+      "Sorry, I won't be able to make it tonight.",
+      "Really sorry, but I can't make it tonight.",
+      "Sorry, can't make it tonight."
+    ],
+    "mustInclude": [
+      [
+        "sorry"
+      ],
+      [
+        "make it|come|be there"
+      ],
+      [
+        "tonight"
+      ]
+    ],
+    "mustAvoid": [
+      "regret",
+      "inform",
+      "unable",
+      "attend",
+      "gathering"
+    ],
+    "model": "Really sorry, I can't make it tonight!",
+    "explanation": "Going down in register is a skill too: short sentences, contractions, phrasal verbs (make it = manage to come). Sending the formal version to a friend sounds cold or sarcastic.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "r-kids",
+    "skills": [
+      "register",
+      "nuance"
+    ],
+    "tags": [
+      "register",
+      "word choice"
+    ],
+    "context": "news",
+    "instruction": "Which word fits a police report?",
+    "prompt": "Two ___ were arrested for vandalising the station.",
+    "options": [
+      "kids",
+      "children",
+      "young people",
+      "juveniles"
+    ],
+    "answer": 3,
+    "explanation": "JUVENILES is legal/official (juvenile court). YOUNG PEOPLE is neutral-institutional. CHILDREN is neutral but suggests younger ages. KIDS is casual. Same people, different lens.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "r-procure",
+    "skills": [
+      "register",
+      "nuance"
+    ],
+    "tags": [
+      "register",
+      "word choice",
+      "get obtain"
+    ],
+    "context": "business",
+    "instruction": "Which verb fits best?",
+    "prompt": "The hospital struggled to ___ enough ventilators during the crisis.",
+    "options": [
+      "get",
+      "obtain",
+      "procure",
+      "acquire"
+    ],
+    "answer": 2,
+    "explanation": "PROCURE = obtain with effort, especially supplies, via an official purchasing process. OBTAIN = formal, neutral. ACQUIRE = gain over time (skills) or buy (companies). GET = casual and fine in speech.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "r-commence",
+    "skills": [
+      "register",
+      "nuance"
+    ],
+    "tags": [
+      "register",
+      "overformal"
+    ],
+    "context": "work",
+    "instruction": "You're starting a friendly team stand-up. What do you say?",
+    "prompt": "",
+    "options": [
+      "Shall we commence?",
+      "Shall we get started?",
+      "Let us initiate the meeting."
+    ],
+    "answer": 1,
+    "explanation": "More complicated ≠ better. “Commence” and “initiate” are correct but sound pompous in speech. Register is about fit, not sophistication.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "r-a-lot",
+    "skills": [
+      "register",
+      "precision"
+    ],
+    "tags": [
+      "formal register",
+      "quantifiers",
+      "academic"
+    ],
+    "context": "academic",
+    "instruction": "Make this sentence suitable for a report: replace the vague, informal words.",
+    "prompt": "A lot of companies have got really big problems with keeping staff.",
+    "answers": [
+      "Many companies face significant difficulties in retaining staff.",
+      "Many companies face considerable challenges in retaining staff.",
+      "A large number of companies face significant difficulties in retaining staff.",
+      "Many companies struggle considerably to retain staff."
+    ],
+    "mustInclude": [
+      [
+        "many|a (large|considerable|significant) (number|proportion)|numerous"
+      ],
+      [
+        "retain|retention"
+      ]
+    ],
+    "mustAvoid": [
+      "a lot of",
+      "really",
+      "got"
+    ],
+    "model": "Many companies face significant difficulties in retaining staff.",
+    "explanation": "Formal writing replaces vague intensifiers (really big) with precise evaluation (significant, considerable) and verb phrases with nouns or single verbs (keeping staff → retaining staff / staff retention).",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "i-blessing",
+    "skills": [
+      "idioms"
+    ],
+    "tags": [
+      "idiom"
+    ],
+    "context": "university",
+    "instruction": "Complete the idiom.",
+    "prompt": "Getting rejected from that internship was a blessing in ___: I found a much better one a week later.",
+    "answers": [
+      "disguise"
+    ],
+    "explanation": "A blessing in disguise = something that looks bad at first but turns out well. (FR: un mal pour un bien.)",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "i-cut-corners",
+    "skills": [
+      "idioms"
+    ],
+    "tags": [
+      "idiom",
+      "work"
+    ],
+    "context": "work",
+    "instruction": "What does the speaker mean?",
+    "prompt": "“The contractor clearly cut corners on the wiring.”",
+    "options": [
+      "He took a shortcut to arrive earlier.",
+      "He did the job cheaply and badly to save time or money.",
+      "He changed the original plan."
+    ],
+    "answer": 1,
+    "explanation": "To cut corners = to save time or money by doing something less carefully than you should. Always negative.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "i-beat-bush",
+    "skills": [
+      "idioms"
+    ],
+    "tags": [
+      "idiom",
+      "conversation"
+    ],
+    "context": "work",
+    "instruction": "Complete the idiom.",
+    "prompt": "Stop beating around the ___ and tell me whether we got the contract.",
+    "answers": [
+      "bush"
+    ],
+    "explanation": "To beat around (UK: about) the bush = to avoid saying something directly. (FR: tourner autour du pot.)",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "i-pinch-salt",
+    "skills": [
+      "idioms",
+      "reading"
+    ],
+    "tags": [
+      "idiom",
+      "news"
+    ],
+    "context": "news",
+    "instruction": "What's the implied attitude?",
+    "prompt": "“I'd take those survey results with a pinch of salt.”",
+    "options": [
+      "The results are surprising.",
+      "The results should not be fully trusted.",
+      "The results need more detail."
+    ],
+    "answer": 1,
+    "explanation": "With a pinch (US: grain) of salt = with scepticism. The French image is different (prendre avec des pincettes), which makes it easy to garble.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "i-phrasal-turn-down",
+    "skills": [
+      "idioms",
+      "vocabulary"
+    ],
+    "tags": [
+      "phrasal verb",
+      "work"
+    ],
+    "context": "work",
+    "instruction": "Choose the phrasal verb.",
+    "prompt": "She ___ the offer because the salary was too low.",
+    "options": [
+      "turned down",
+      "turned off",
+      "turned out",
+      "turned over"
+    ],
+    "answer": 0,
+    "explanation": "Turn down = refuse (an offer, invitation). Turn out = prove to be. Turn over = revenue, or flip.",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "i-phrasal-fall-through",
+    "skills": [
+      "idioms"
+    ],
+    "tags": [
+      "phrasal verb",
+      "business"
+    ],
+    "context": "business",
+    "instruction": "Choose the phrasal verb.",
+    "prompt": "The acquisition ___ when the regulators raised concerns.",
+    "options": [
+      "fell apart",
+      "fell through",
+      "fell out",
+      "fell behind"
+    ],
+    "answer": 1,
+    "explanation": "A plan or deal falls THROUGH (doesn't happen). Things fall APART (break down after existing). People fall OUT (argue). You fall BEHIND (schedule).",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "i-phrasal-come-up",
+    "skills": [
+      "idioms"
+    ],
+    "tags": [
+      "phrasal verb",
+      "ideas"
+    ],
+    "context": "work",
+    "instruction": "Complete the phrasal verb (two words).",
+    "prompt": "We need to come ___ ___ a better name before launch.",
+    "answers": [
+      "up with"
+    ],
+    "explanation": "Come up with = produce an idea, a plan or a solution.",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "i-steep-curve",
+    "skills": [
+      "idioms",
+      "nuance"
+    ],
+    "tags": [
+      "idiom",
+      "learning"
+    ],
+    "context": "tech",
+    "instruction": "What does “a steep learning curve” mean?",
+    "prompt": "“Rust has a steep learning curve.”",
+    "options": [
+      "It is learned very quickly.",
+      "It is hard to learn at first.",
+      "It is useful for learning other languages."
+    ],
+    "answer": 1,
+    "explanation": "In everyday use, “steep learning curve” means lots to learn quickly: hard at the start. (Technically, the graph metaphor would suggest the opposite, which is why people argue about it.)",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "s-cleft-what",
+    "skills": [
+      "structure"
+    ],
+    "tags": [
+      "cleft sentence",
+      "emphasis"
+    ],
+    "context": "work",
+    "instruction": "Rewrite with a “What… is…” cleft sentence to emphasise the cause.",
+    "prompt": "The lack of documentation slows us down.",
+    "answers": [
+      "What slows us down is the lack of documentation."
+    ],
+    "mustInclude": [
+      [
+        "^what slows us down is"
+      ]
+    ],
+    "model": "What slows us down is the lack of documentation.",
+    "explanation": "Cleft sentences split one clause into two to put the key information at the end, where English places emphasis. Very useful in speech and argument.",
+    "compare": [
+      "It's the lack of documentation that slows us down.",
+      "What I don't understand is why nobody noticed."
+    ],
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "s-nominalisation",
+    "skills": [
+      "structure",
+      "register"
+    ],
+    "tags": [
+      "nominalisation",
+      "academic"
+    ],
+    "context": "business",
+    "instruction": "Rewrite using a noun phrase as the subject (nominalisation).",
+    "prompt": "Because the company expanded so quickly, it had cash-flow problems.",
+    "answers": [
+      "The company's rapid expansion led to cash-flow problems.",
+      "The company's rapid expansion caused cash-flow problems.",
+      "The company's rapid expansion resulted in cash-flow problems.",
+      "Rapid expansion led to cash-flow problems for the company."
+    ],
+    "mustInclude": [
+      [
+        "expansion"
+      ],
+      [
+        "led to|caused|resulted in|gave rise to|triggered"
+      ]
+    ],
+    "mustAvoid": [
+      "^because"
+    ],
+    "model": "The company's rapid expansion led to cash-flow problems.",
+    "explanation": "Nominalisation (expanded quickly → rapid expansion) packs an event into a noun, which lets you link causes with verbs like led to / resulted in. It's the backbone of formal and academic writing: use it, but don't overdo it.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "s-participle",
+    "skills": [
+      "structure"
+    ],
+    "tags": [
+      "participle clause"
+    ],
+    "context": "work",
+    "instruction": "Combine into one sentence starting with a participle clause (Having…).",
+    "prompt": "She had reviewed every pull request. Then she approved the release.",
+    "answers": [
+      "Having reviewed every pull request, she approved the release."
+    ],
+    "mustInclude": [
+      [
+        "^having reviewed"
+      ]
+    ],
+    "model": "Having reviewed every pull request, she approved the release.",
+    "explanation": "“Having + past participle” shows that one action was completed before the next. The subject of both clauses must be the same, otherwise you get a dangling participle.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "s-dangling",
+    "skills": [
+      "structure",
+      "grammar"
+    ],
+    "tags": [
+      "participle clause",
+      "dangling modifier"
+    ],
+    "context": "writing",
+    "instruction": "Which sentence is logically correct?",
+    "prompt": "",
+    "options": [
+      "Walking into the office, the smell of coffee was overwhelming.",
+      "Walking into the office, I was hit by the smell of coffee.",
+      "Walking into the office, it smelled of coffee."
+    ],
+    "answer": 1,
+    "explanation": "The participle clause takes the subject of the main clause. In A, the SMELL is walking into the office. That's a “dangling participle”, a classic error even among native speakers.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "s-the-more",
+    "skills": [
+      "structure"
+    ],
+    "tags": [
+      "comparatives"
+    ],
+    "context": "university",
+    "instruction": "Rewrite using “The more…, the…”.",
+    "prompt": "If you practise more, you will make fewer mistakes.",
+    "answers": [
+      "The more you practise, the fewer mistakes you will make.",
+      "The more you practise, the fewer mistakes you'll make.",
+      "The more you practice, the fewer mistakes you will make.",
+      "The more you practice, the fewer mistakes you'll make."
+    ],
+    "mustInclude": [
+      [
+        "^the more you practi[cs]e"
+      ],
+      [
+        "the fewer mistakes"
+      ]
+    ],
+    "mustAvoid": [
+      "the less mistakes"
+    ],
+    "model": "The more you practise, the fewer mistakes you'll make.",
+    "explanation": "Double comparative: “the + comparative…, the + comparative…”. Mistakes are countable, so “fewer”, not “less”.",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "p-may-have",
+    "skills": [
+      "paraphrase",
+      "grammar"
+    ],
+    "tags": [
+      "modals",
+      "paraphrase"
+    ],
+    "context": "work",
+    "instruction": "Paraphrase using a modal verb. Keep the meaning.",
+    "prompt": "It's possible that he forgot about the meeting.",
+    "answers": [
+      "He may have forgotten about the meeting.",
+      "He might have forgotten about the meeting.",
+      "He could have forgotten about the meeting.",
+      "He may have forgotten the meeting.",
+      "He might have forgotten the meeting."
+    ],
+    "mustInclude": [
+      [
+        "(may|might|could) have forgotten"
+      ]
+    ],
+    "model": "He may have forgotten about the meeting.",
+    "explanation": "Possibility about the past = may/might/could + have + past participle.",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "p-said-to",
+    "skills": [
+      "paraphrase",
+      "structure"
+    ],
+    "tags": [
+      "passive reporting",
+      "news"
+    ],
+    "context": "news",
+    "instruction": "Rewrite starting with “The CEO…”.",
+    "prompt": "People say that the CEO is planning to resign.",
+    "answers": [
+      "The CEO is said to be planning to resign.",
+      "The CEO is rumoured to be planning to resign.",
+      "The CEO is reported to be planning to resign."
+    ],
+    "mustInclude": [
+      [
+        "^the ceo is (said|rumou?red|reported|believed|thought) to be planning"
+      ]
+    ],
+    "model": "The CEO is said to be planning to resign.",
+    "explanation": "Passive reporting structure: subject + is said/believed/thought + to-infinitive. Journalistic and impersonal. For a continuous action, use “to be + -ing”; for the past, “to have + past participle”.",
+    "compare": [
+      "He is believed to have left the country."
+    ],
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "p-concession-as",
+    "skills": [
+      "paraphrase",
+      "structure"
+    ],
+    "tags": [
+      "concession",
+      "inversion",
+      "formal writing"
+    ],
+    "context": "academic",
+    "instruction": "Rewrite starting with the adjective: “Ambitious…”.",
+    "prompt": "Although the plan was ambitious, it lacked a realistic budget.",
+    "answers": [
+      "Ambitious as the plan was, it lacked a realistic budget.",
+      "Ambitious though the plan was, it lacked a realistic budget.",
+      "Ambitious as it was, the plan lacked a realistic budget.",
+      "Ambitious though it was, the plan lacked a realistic budget."
+    ],
+    "mustInclude": [
+      [
+        "^ambitious (as|though)"
+      ]
+    ],
+    "model": "Ambitious as the plan was, it lacked a realistic budget.",
+    "explanation": "“Adjective + as/though + subject + verb” is an elegant, formal way to concede a point. It stresses the quality you're conceding before turning against it.",
+    "difficulty": 86,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "p-regret",
+    "skills": [
+      "paraphrase",
+      "grammar"
+    ],
+    "tags": [
+      "wish",
+      "regret"
+    ],
+    "context": "university",
+    "instruction": "Rewrite starting with “I wish…”.",
+    "prompt": "I regret not starting my revision earlier.",
+    "answers": [
+      "I wish I had started my revision earlier.",
+      "I wish I'd started my revision earlier.",
+      "I wish I had started revising earlier.",
+      "I wish I'd started revising earlier."
+    ],
+    "mustInclude": [
+      [
+        "^i wish i('d| had) started"
+      ]
+    ],
+    "model": "I wish I'd started my revision earlier.",
+    "explanation": "Regret about the past = wish + past perfect. The “one step back” in tense signals the unreal.",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "p-despite",
+    "skills": [
+      "paraphrase",
+      "grammar"
+    ],
+    "tags": [
+      "concession",
+      "french interference"
+    ],
+    "context": "travel",
+    "instruction": "Rewrite starting with “Despite”.",
+    "prompt": "Although it was raining, the match went ahead.",
+    "answers": [
+      "Despite the rain, the match went ahead.",
+      "Despite the fact that it was raining, the match went ahead.",
+      "Despite it raining, the match went ahead."
+    ],
+    "mustInclude": [
+      [
+        "^despite (the rain|the fact that|it raining)"
+      ]
+    ],
+    "mustAvoid": [
+      "despite of"
+    ],
+    "model": "Despite the rain, the match went ahead.",
+    "explanation": "“Despite” is followed by a noun or -ing, never by a clause, and never by “of” (that's “in spite of”). French “malgré” doesn't help here.",
+    "trap": {
+      "key": "despite-of",
+      "wrong": "Despite of the rain, the match went ahead.",
+      "correct": "Despite the rain, the match went ahead.",
+      "type": "grammar",
+      "cause": "overgeneralisation",
+      "explanation": "“Despite” or “in spite of”, never “despite of”.",
+      "frenchHint": "Malgré la pluie, le match a eu lieu."
+    },
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "n-childish",
+    "skills": [
+      "nuance"
+    ],
+    "tags": [
+      "connotation",
+      "adjectives"
+    ],
+    "context": "culture",
+    "instruction": "Which word carries a positive connotation?",
+    "prompt": "Even at 80, she looks at the world with ___ curiosity.",
+    "options": [
+      "childish",
+      "childlike",
+      "infantile"
+    ],
+    "answer": 1,
+    "explanation": "CHILDLIKE = innocent, fresh (positive). CHILDISH = immature (negative). INFANTILE = very negative, contemptuous.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "n-notorious",
+    "skills": [
+      "nuance",
+      "precision"
+    ],
+    "tags": [
+      "connotation",
+      "false friend"
+    ],
+    "context": "news",
+    "instruction": "Which word implies a BAD reputation?",
+    "prompt": "The airport is ___ for its long security queues.",
+    "options": [
+      "famous",
+      "renowned",
+      "notorious",
+      "acclaimed"
+    ],
+    "answer": 2,
+    "explanation": "NOTORIOUS = famous for something bad. French “notoire” is more neutral, which makes this a trap. Renowned and acclaimed are positive.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "n-frugal",
+    "skills": [
+      "nuance"
+    ],
+    "tags": [
+      "connotation",
+      "personality"
+    ],
+    "context": "relationships",
+    "instruction": "Which word is the most positive?",
+    "prompt": "He's quite ___: he cooks at home and never wastes anything.",
+    "options": [
+      "stingy",
+      "tight-fisted",
+      "frugal",
+      "cheap"
+    ],
+    "answer": 2,
+    "explanation": "Same behaviour, different judgement. FRUGAL (sensible, positive) → THRIFTY (positive) → CHEAP / STINGY / TIGHT-FISTED (negative: unwilling to spend on others).",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "n-convince",
+    "skills": [
+      "nuance",
+      "grammar"
+    ],
+    "tags": [
+      "near synonyms",
+      "verb patterns"
+    ],
+    "context": "work",
+    "instruction": "Which verb fits the pattern?",
+    "prompt": "I finally ___ my manager to let me work remotely on Fridays.",
+    "options": [
+      "convinced",
+      "persuaded"
+    ],
+    "answer": 1,
+    "explanation": "PERSUADE someone TO DO something (action). CONVINCE someone THAT something is true (belief). In casual speech “convince to” is common, but in careful writing the distinction holds.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "n-issue",
+    "skills": [
+      "nuance",
+      "register"
+    ],
+    "tags": [
+      "near synonyms",
+      "problem issue"
+    ],
+    "context": "work",
+    "instruction": "Which word is the most diplomatic in a client email?",
+    "prompt": "We've identified a minor ___ with the export feature and are working on a fix.",
+    "options": [
+      "problem",
+      "issue",
+      "trouble",
+      "failure"
+    ],
+    "answer": 1,
+    "explanation": "ISSUE is the softened, professional word for a problem (and for a topic of debate). PROBLEM is more direct. FAILURE is alarming. TROUBLE is usually uncountable.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "n-explain-assertive",
+    "skills": [
+      "nuance",
+      "writing"
+    ],
+    "tags": [
+      "connotation",
+      "personality",
+      "explain"
+    ],
+    "context": "work",
+    "instruction": "Explain the difference in one or two sentences, then use each in a sentence.",
+    "prompt": "assertive  vs  aggressive",
+    "model": "Both describe someone who pushes their point, but “assertive” is positive (confident, clear, respectful of others) whereas “aggressive” is negative (hostile, disregarding others). “She was assertive in negotiating her salary.” / “His aggressive tone made the meeting tense.”",
+    "rubric": [
+      "You identified the connotation difference (positive vs negative)",
+      "Both example sentences use the words naturally",
+      "The sentences show the difference"
+    ],
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "explain"
+  },
+  {
+    "id": "rd-understatement",
+    "skills": [
+      "reading",
+      "nuance"
+    ],
+    "tags": [
+      "implied meaning",
+      "british english"
+    ],
+    "context": "work",
+    "instruction": "What does the manager really mean?",
+    "prompt": "After your presentation, your British manager says: “That was… quite interesting. Perhaps we could revisit a few points.”",
+    "options": [
+      "She loved it.",
+      "She has serious reservations.",
+      "She wants more details because she's curious."
+    ],
+    "answer": 1,
+    "explanation": "British understatement: “quite interesting” + “perhaps we could revisit” is a polite way of signalling real problems. Tone and hedging often carry more meaning than the words.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "rd-respect",
+    "skills": [
+      "reading",
+      "nuance"
+    ],
+    "tags": [
+      "implied meaning",
+      "politeness"
+    ],
+    "context": "work",
+    "instruction": "What comes next, most likely?",
+    "prompt": "“With all due respect, …”",
+    "options": [
+      "A compliment.",
+      "A strong disagreement.",
+      "An apology."
+    ],
+    "answer": 1,
+    "explanation": "“With all due respect” almost always introduces disagreement, sometimes with barely concealed irritation. The formula signals the opposite of what it says.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "rd-hedging",
+    "skills": [
+      "reading"
+    ],
+    "tags": [
+      "hedging",
+      "academic"
+    ],
+    "context": "academic",
+    "instruction": "Read and choose the most accurate summary of the author's position.",
+    "prompt": "“While remote work appears to boost individual productivity in some roles, the evidence remains mixed, and it would be premature to conclude that it benefits organisations as a whole.”",
+    "options": [
+      "Remote work improves productivity for organisations.",
+      "Remote work reduces productivity.",
+      "Remote work may help some individuals, but its organisational benefits are unproven.",
+      "The author strongly opposes remote work."
+    ],
+    "answer": 2,
+    "explanation": "Watch the hedging: “appears to”, “in some roles”, “remains mixed”, “premature to conclude”. The author is cautious, not negative. Reading at C1+ means registering how strong a claim is, not just what it's about.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "rd-sarcasm",
+    "skills": [
+      "reading",
+      "nuance"
+    ],
+    "tags": [
+      "implied meaning",
+      "sarcasm"
+    ],
+    "context": "work",
+    "instruction": "What's the speaker's attitude?",
+    "prompt": "“Oh brilliant, another meeting that could have been an email.”",
+    "options": [
+      "Enthusiastic",
+      "Irritated",
+      "Confused"
+    ],
+    "answer": 1,
+    "explanation": "“Oh brilliant/great/perfect” + something obviously bad = sarcasm. The pattern is frequent in British speech.",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "w-email-delay",
+    "skills": [
+      "writing",
+      "register"
+    ],
+    "tags": [
+      "email",
+      "professional register",
+      "diplomacy"
+    ],
+    "context": "work",
+    "instruction": "Write a short email (60–90 words).",
+    "prompt": "You're an apprentice developer. Tell a client that the feature they're waiting for will be two weeks late because of an unexpected security issue. Be honest, professional, and reassuring, without over-apologising.",
+    "model": "Dear Ms Carter,\n\nI'm writing to let you know that the export feature will be delivered two weeks later than planned. During final testing, we identified a security issue that we need to resolve before release. We'd rather take the extra time than put your data at risk.\n\nThe revised delivery date is 14 November. I'll keep you updated on our progress and I'm happy to arrange a quick call if that would be helpful.\n\nKind regards,\nAlex",
+    "rubric": [
+      "States the delay and the new date clearly, early on",
+      "Explains the reason briefly without jargon",
+      "Reassuring tone, one apology at most",
+      "Professional but natural (no “I regret to inform you” overkill)",
+      "Ends with a clear next step"
+    ],
+    "minWords": 50,
+    "maxWords": 110,
+    "estSeconds": 240,
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "free"
+  },
+  {
+    "id": "w-argue-ai",
+    "skills": [
+      "writing",
+      "structure"
+    ],
+    "tags": [
+      "argument",
+      "essay"
+    ],
+    "context": "academic",
+    "instruction": "Write a short argumentative paragraph (80–120 words).",
+    "prompt": "“Universities should allow students to use AI tools in all assessments.” Take a clear position and support it with one strong argument and one concession.",
+    "model": "I would argue that universities should permit AI tools in most, but not all, assessments. Since graduates will be expected to use these tools at work, banning them outright leaves students unprepared for the reality of their profession. That said, assessments designed to test foundational skills, such as writing code without assistance or constructing an argument unaided, lose their purpose if AI does the thinking. The most sensible approach, therefore, is not a blanket rule but a deliberate distinction between tasks that measure understanding and tasks that measure the ability to work effectively with modern tools.",
+    "rubric": [
+      "Clear position in the first sentence",
+      "One developed argument (claim + reason + consequence)",
+      "A concession introduced with a proper connector (That said, Admittedly…)",
+      "A conclusion that nuances the position",
+      "Varied sentence structure, precise vocabulary"
+    ],
+    "minWords": 70,
+    "maxWords": 140,
+    "estSeconds": 360,
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "free"
+  },
+  {
+    "id": "w-summary",
+    "skills": [
+      "writing",
+      "paraphrase",
+      "reading"
+    ],
+    "tags": [
+      "summary"
+    ],
+    "context": "tech",
+    "instruction": "Summarise this paragraph in ONE sentence (max 30 words), in your own words.",
+    "prompt": "“Although open-source software is often praised for its transparency and the speed at which vulnerabilities can be patched, many widely used projects are maintained by a handful of unpaid volunteers. This creates a paradox: critical infrastructure used by major corporations may depend on the goodwill and free time of individuals who receive little or no support.”",
+    "model": "Open-source software is valued for its transparency, yet much critical infrastructure relies on a few unpaid volunteers, leaving major companies dependent on their goodwill.",
+    "rubric": [
+      "One sentence, 30 words or fewer",
+      "Keeps both halves: the advantage AND the paradox",
+      "Reformulated, not copied",
+      "Uses a contrast connector (yet, although, while)"
+    ],
+    "maxWords": 35,
+    "estSeconds": 150,
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "free"
+  }
+]

@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "work",
+  "title": "Travail & projets",
+  "description": "Collaboration, responsabilité et organisation.",
+  "color": "#8b734c",
+  "items": [
+    {
+      "id": "v-8c6e326cc8ba",
+      "kind": "word",
+      "text": "workload",
+      "translationFr": "charge de travail",
+      "meaning": "the amount of work someone has to do",
+      "example": "I spoke to my manager because my workload had become unmanageable.",
+      "exampleFr": "J’ai parlé à ma responsable car ma charge de travail était devenue ingérable.",
+      "notes": "Heavy workload ; ne pas traduire littéralement par quantity of work.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-ff9e8f1eca88",
+      "kind": "word",
+      "text": "backlog",
+      "translationFr": "travail en attente accumulé",
+      "meaning": "unfinished work that has built up",
+      "example": "I spent Monday clearing the backlog of emails.",
+      "exampleFr": "J’ai passé le lundi à rattraper les courriels accumulés.",
+      "notes": "Clear a backlog ; accumulation, pas simple liste de tâches.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-7d50f37dd6b0",
+      "kind": "word",
+      "text": "handover",
+      "translationFr": "passation",
+      "meaning": "the transfer of work or responsibility to someone else",
+      "example": "I prepared a detailed handover before going on leave.",
+      "exampleFr": "J’ai préparé une passation détaillée avant mon congé.",
+      "notes": "BrE handover ; AmE souvent handoff.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-8f43063c0a70",
+      "kind": "word",
+      "text": "remit",
+      "translationFr": "périmètre de responsabilités",
+      "meaning": "the area of responsibility assigned to someone",
+      "example": "Hiring decisions fall outside my remit.",
+      "exampleFr": "Les décisions de recrutement ne relèvent pas de mes responsabilités.",
+      "notes": "Within/outside someone's remit ; surtout professionnel et BrE.",
+      "level": "C1",
+      "register": "formal",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-aacd3103f3f1",
+      "kind": "word",
+      "text": "scope",
+      "translationFr": "périmètre d’un projet",
+      "meaning": "the range of matters covered by an activity",
+      "example": "We agreed on the scope before estimating the cost.",
+      "exampleFr": "Nous avons défini le périmètre avant d’estimer le coût.",
+      "notes": "Scope of a project ; aussi scope for improvement, marge d’amélioration.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-8fbbd07f2d96",
+      "kind": "word",
+      "text": "milestone",
+      "translationFr": "étape marquante",
+      "meaning": "an important stage in a process",
+      "example": "Finishing the first version felt like a real milestone.",
+      "exampleFr": "Terminer la première version m’a semblé être une étape majeure.",
+      "notes": "Reach a milestone ; événement significatif, pas toute petite tâche.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-c5b48cdb93fd",
+      "kind": "word",
+      "text": "contingency",
+      "translationFr": "éventualité à prévoir",
+      "meaning": "a possible future event that needs preparation",
+      "example": "We kept extra time in the schedule for contingencies.",
+      "exampleFr": "Nous avons gardé du temps supplémentaire pour les imprévus.",
+      "notes": "Contingency plan ; plan prévu pour une difficulté possible.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-7b08989ace02",
+      "kind": "word",
+      "text": "overspend",
+      "translationFr": "dépasser son budget",
+      "meaning": "to spend more than planned",
+      "example": "We overspent on equipment and had to cut travel costs.",
+      "exampleFr": "Nous avons dépassé le budget matériel et dû réduire les déplacements.",
+      "notes": "Overspend on ; passé overspent.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-b281cba78666",
+      "kind": "word",
+      "text": "understaffed",
+      "translationFr": "en sous-effectif",
+      "meaning": "having too few workers",
+      "example": "The café was understaffed, so everyone was doing two jobs.",
+      "exampleFr": "Le café manquait de personnel ; chacun faisait deux tâches à la fois.",
+      "notes": "Être understaffed ; distingue le personnel du financement.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-efbcb96060e7",
+      "kind": "word",
+      "text": "resourceful",
+      "translationFr": "débrouillard",
+      "meaning": "good at finding practical solutions with limited resources",
+      "example": "My colleague was resourceful when the projector stopped working.",
+      "exampleFr": "Mon collègue s’est montré débrouillard quand le projecteur est tombé en panne.",
+      "notes": "Ressources intellectuelles et pratiques, pas forcément richesse matérielle.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-9611bd9dbaeb",
+      "kind": "word",
+      "text": "accountable",
+      "translationFr": "tenu de rendre des comptes",
+      "meaning": "responsible for decisions and required to explain them",
+      "example": "I wanted it to be clear who was accountable for the final decision.",
+      "exampleFr": "Je voulais savoir clairement qui devait répondre de la décision finale.",
+      "notes": "Accountable to someone for something ; responsabilité avec justification.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-64512b621ed3",
+      "kind": "word",
+      "text": "proactive",
+      "translationFr": "qui prend les devants",
+      "meaning": "acting before a problem requires a response",
+      "example": "I took a proactive approach and contacted the supplier early.",
+      "exampleFr": "J’ai pris les devants en contactant le fournisseur tôt.",
+      "notes": "Proactive about ; utile si une action concrète illustre le mot.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-d20bd8dbae29",
+      "kind": "word",
+      "text": "thorough",
+      "translationFr": "approfondi, minutieux",
+      "meaning": "careful and complete",
+      "example": "I did a thorough check before sending the final document.",
+      "exampleFr": "J’ai effectué une vérification approfondie avant d’envoyer le document final.",
+      "notes": "Thorough check ; exhaustivité plutôt que simple rapidité.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-4307158ca1dc",
+      "kind": "word",
+      "text": "redundant",
+      "translationFr": "devenu inutile",
+      "meaning": "no longer needed because something else serves the purpose",
+      "example": "The new system made several manual steps redundant.",
+      "exampleFr": "Le nouveau système a rendu plusieurs étapes manuelles inutiles.",
+      "notes": "BrE be made redundant : perdre son emploi pour raisons économiques.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-91a46fb23353",
+      "kind": "collocation",
+      "text": "a steep learning curve",
+      "translationFr": "un apprentissage exigeant au départ",
+      "meaning": "a situation requiring a lot to be learned quickly",
+      "example": "The first month involved a steep learning curve, but I enjoyed it.",
+      "exampleFr": "Le premier mois a demandé un apprentissage intense, mais cela m’a plu.",
+      "notes": "Usage courant : beaucoup à apprendre rapidement.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-9ff2ec5ccb53",
+      "kind": "collocation",
+      "text": "a pressing issue",
+      "translationFr": "un problème urgent",
+      "meaning": "a problem requiring immediate attention",
+      "example": "I postponed the meeting to deal with a pressing issue.",
+      "exampleFr": "J’ai reporté la réunion pour traiter un problème urgent.",
+      "notes": "Pressing need/concern ; pression temporelle.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-94bdfe9a1264",
+      "kind": "collocation",
+      "text": "a tight deadline",
+      "translationFr": "un délai très court",
+      "meaning": "a deadline allowing little time",
+      "example": "I explained that the tight deadline would affect the quality.",
+      "exampleFr": "J’ai expliqué que le délai très court affecterait la qualité.",
+      "notes": "Meet a tight deadline ; délai difficile à respecter.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-f5cff88c7f88",
+      "kind": "collocation",
+      "text": "a rough estimate",
+      "translationFr": "une estimation approximative",
+      "meaning": "an approximate calculation",
+      "example": "I gave a rough estimate and promised to confirm it later.",
+      "exampleFr": "J’ai donné une estimation approximative en promettant de la confirmer.",
+      "notes": "Rough estimate ; estimation, pas engagement ferme.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-a38212e61086",
+      "kind": "collocation",
+      "text": "a clear brief",
+      "translationFr": "des consignes claires",
+      "meaning": "a clear description of what work is required",
+      "example": "I work faster when I have a clear brief.",
+      "exampleFr": "Je travaille plus vite avec des consignes claires.",
+      "notes": "A brief est un document ou un ensemble de consignes.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-e66017b36fcf",
+      "kind": "collocation",
+      "text": "a realistic timeframe",
+      "translationFr": "un délai réaliste",
+      "meaning": "a period in which something can reasonably be completed",
+      "example": "We agreed on a realistic timeframe instead of rushing the work.",
+      "exampleFr": "Nous avons fixé un délai réaliste plutôt que de précipiter le travail.",
+      "notes": "Within a timeframe ; durée de réalisation prévue.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-ffe4c9843f8c",
+      "kind": "collocation",
+      "text": "get buy-in",
+      "translationFr": "obtenir l’adhésion",
+      "meaning": "to gain support for a plan",
+      "example": "I spoke to the team early to get buy-in for the changes.",
+      "exampleFr": "J’ai parlé tôt à l’équipe pour obtenir son adhésion aux changements.",
+      "notes": "Get buy-in from ; jargon professionnel, à réserver au contexte.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-a166526c4e7e",
+      "kind": "collocation",
+      "text": "take ownership of",
+      "translationFr": "assumer pleinement la responsabilité de",
+      "meaning": "to accept responsibility and act on it",
+      "example": "I took ownership of the mistake and explained how I'd fix it.",
+      "exampleFr": "J’ai assumé mon erreur et expliqué comment j’allais la corriger.",
+      "notes": "Take ownership of a problem ; ne suppose pas une propriété juridique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-0f50d2284e8f",
+      "kind": "collocation",
+      "text": "manage expectations",
+      "translationFr": "ajuster les attentes",
+      "meaning": "to make sure people expect realistic outcomes",
+      "example": "I tried to manage expectations about what we could finish that week.",
+      "exampleFr": "J’ai essayé de rendre les attentes réalistes sur le travail de la semaine.",
+      "notes": "Préciser les limites réelles, pas simplement abaisser l’ambition.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-9547092ada1c",
+      "kind": "collocation",
+      "text": "delegate a task",
+      "translationFr": "déléguer une tâche",
+      "meaning": "to give responsibility for a task to someone else",
+      "example": "I delegated the booking task so I could focus on the programme.",
+      "exampleFr": "J’ai délégué les réservations pour me concentrer sur le programme.",
+      "notes": "Delegate something to someone ; préciser autonomie et résultat attendu.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-0efa15f5ef53",
+      "kind": "collocation",
+      "text": "raise a concern",
+      "translationFr": "signaler une inquiétude",
+      "meaning": "to draw attention to a possible problem",
+      "example": "I raised a concern about the amount of overtime.",
+      "exampleFr": "J’ai signalé mon inquiétude concernant les heures supplémentaires.",
+      "notes": "Raise a concern about ; plus diplomatique que complain.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-ff59e2bd75b1",
+      "kind": "collocation",
+      "text": "competing priorities",
+      "translationFr": "des priorités concurrentes",
+      "meaning": "important demands that cannot all be met at once",
+      "example": "I struggled to balance competing priorities during the move.",
+      "exampleFr": "J’ai eu du mal à concilier les priorités concurrentes pendant le déménagement.",
+      "notes": "Balance/juggle competing priorities ; arbitrages entre plusieurs besoins.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-a583dcaf0350",
+      "kind": "collocation",
+      "text": "stay on track",
+      "translationFr": "garder le cap",
+      "meaning": "to continue making progress as planned",
+      "example": "Weekly check-ins helped us stay on track.",
+      "exampleFr": "Les points hebdomadaires nous ont aidés à garder le cap.",
+      "notes": "Project stays on track ; progression conforme au plan.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-26e89aeb85d1",
+      "kind": "collocation",
+      "text": "fall behind schedule",
+      "translationFr": "prendre du retard sur le calendrier",
+      "meaning": "to progress more slowly than planned",
+      "example": "We fell behind schedule when two deliveries failed to arrive.",
+      "exampleFr": "Nous avons pris du retard lorsque deux livraisons ne sont pas arrivées.",
+      "notes": "Behind schedule sans the ; contraire de ahead of schedule.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-05557dc9605c",
+      "kind": "phrasal-verb",
+      "text": "push back",
+      "translationFr": "reporter une échéance",
+      "meaning": "to move a date to a later time",
+      "example": "We pushed back the launch by a week to fix the remaining bugs.",
+      "exampleFr": "Nous avons reporté le lancement d’une semaine pour corriger les derniers bugs.",
+      "notes": "Push a date back ; push back against signifie résister à.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-5bffc3329f05",
+      "kind": "phrasal-verb",
+      "text": "step in",
+      "translationFr": "intervenir pour aider",
+      "meaning": "to become involved to help or resolve a problem",
+      "example": "I stepped in when the discussion became heated.",
+      "exampleFr": "Je suis intervenu quand la discussion s’est envenimée.",
+      "notes": "Step in to help ; intervention au moment utile.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-17a81ff25e26",
+      "kind": "phrasal-verb",
+      "text": "step up",
+      "translationFr": "assumer davantage",
+      "meaning": "to accept greater responsibility or make more effort",
+      "example": "I had to step up when my supervisor was away.",
+      "exampleFr": "J’ai dû prendre davantage de responsabilités en l’absence de mon responsable.",
+      "notes": "Step up seul ; step up efforts signifie intensifier les efforts.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-08b37dce4446",
+      "kind": "phrasal-verb",
+      "text": "take over",
+      "translationFr": "prendre le relais",
+      "meaning": "to assume control or responsibility",
+      "example": "I took over the project halfway through the summer.",
+      "exampleFr": "J’ai repris le projet au milieu de l’été.",
+      "notes": "Take over from someone ; une responsabilité passe à une autre personne.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-983a768ebda5",
+      "kind": "phrasal-verb",
+      "text": "phase out",
+      "translationFr": "supprimer progressivement",
+      "meaning": "to stop using something in stages",
+      "example": "We phased out the old forms over several months.",
+      "exampleFr": "Nous avons supprimé les anciens formulaires progressivement sur plusieurs mois.",
+      "notes": "Phase something out ; contraire de phase in.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-3a7ddc3f3840",
+      "kind": "phrasal-verb",
+      "text": "roll out",
+      "translationFr": "déployer progressivement",
+      "meaning": "to introduce a product or system for use",
+      "example": "We rolled out the new booking system one branch at a time.",
+      "exampleFr": "Nous avons déployé le nouveau système de réservation agence par agence.",
+      "notes": "Roll something out ; registre professionnel.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-f5fc12bffe86",
+      "kind": "phrasal-verb",
+      "text": "scale back",
+      "translationFr": "réduire l’ampleur",
+      "meaning": "to make an activity smaller",
+      "example": "We scaled back the event when fewer people signed up.",
+      "exampleFr": "Nous avons réduit l’ampleur de l’événement faute d’inscrits.",
+      "notes": "Scale back plans ; réduction d’ambition ou de moyens.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-5d034d0a4f0b",
+      "kind": "phrasal-verb",
+      "text": "draw up",
+      "translationFr": "rédiger, établir",
+      "meaning": "to prepare a formal document or plan",
+      "example": "I drew up a checklist before the volunteers arrived.",
+      "exampleFr": "J’ai établi une liste de contrôle avant l’arrivée des bénévoles.",
+      "notes": "Draw up a plan/agreement ; passé drew up.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-a99430c4ab8d",
+      "kind": "phrasal-verb",
+      "text": "hand over",
+      "translationFr": "transmettre la responsabilité",
+      "meaning": "to give control of something to another person",
+      "example": "I handed over the keys and explained the alarm system.",
+      "exampleFr": "J’ai remis les clés et expliqué le système d’alarme.",
+      "notes": "Hand something over to someone ; objet ou responsabilité.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-eb0b087a2fbd",
+      "kind": "phrasal-verb",
+      "text": "flag up",
+      "translationFr": "attirer l’attention sur",
+      "meaning": "to point out a problem or issue",
+      "example": "I flagged up a possible delay before anyone booked tickets.",
+      "exampleFr": "J’ai signalé un retard possible avant les réservations de billets.",
+      "notes": "BrE courant ; flag an issue sans up fonctionne aussi.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-2b4cd24fbbe4",
+      "kind": "expression",
+      "text": "out of one's depth",
+      "translationFr": "dépassé par la difficulté",
+      "meaning": "in a situation beyond one's current knowledge or ability",
+      "example": "I felt out of my depth during the technical discussion.",
+      "exampleFr": "Je me sentais dépassé pendant la discussion technique.",
+      "notes": "Feel/be out of one's depth ; manque de maîtrise dans un contexte précis.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "expression"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-b1e3c77648b7",
+      "kind": "expression",
+      "text": "in the loop",
+      "translationFr": "tenu au courant",
+      "meaning": "included in the exchange of relevant information",
+      "example": "Please keep me in the loop if the arrangements change.",
+      "exampleFr": "Merci de me tenir au courant si l’organisation change.",
+      "notes": "Keep someone in the loop ; plutôt professionnel ou informel.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "work",
+        "expression"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-1b53fd536114",
+      "kind": "collocation",
+      "text": "a workable solution",
+      "translationFr": "une solution applicable",
+      "meaning": "a solution that can be used effectively",
+      "example": "We found a workable solution even though it wasn't perfect.",
+      "exampleFr": "Nous avons trouvé une solution applicable, même imparfaite.",
+      "notes": "Workable : suffisamment pratique pour fonctionner.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "work",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    },
+    {
+      "id": "v-4d86429f1683",
+      "kind": "word",
+      "text": "bandwidth",
+      "translationFr": "disponibilité mentale ou capacité de travail",
+      "meaning": "the time and mental capacity available for work",
+      "example": "I did not have the bandwidth to take on another project.",
+      "exampleFr": "Je n’avais pas la disponibilité nécessaire pour accepter un autre projet.",
+      "notes": "Sens figuré professionnel et informel ; pas uniquement un débit réseau.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "work",
+        "word"
+      ],
+      "listIds": [
+        "pack-work"
+      ]
+    }
+  ]
+}

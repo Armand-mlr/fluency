@@ -1,0 +1,710 @@
+[
+  {
+    "id": "c-take-decision",
+    "skills": [
+      "collocations"
+    ],
+    "tags": [
+      "collocation",
+      "verbs",
+      "french interference"
+    ],
+    "context": "work",
+    "instruction": "Choose the natural collocation.",
+    "prompt": "We need to ___ a decision by Friday.",
+    "options": [
+      "take",
+      "make",
+      "do",
+      "have"
+    ],
+    "answer": 1,
+    "explanation": "Both “make” and “take” exist, but “make a decision” is by far the default in all varieties of English. “Take a decision” is mainly British and more formal. French “prendre” pulls you towards “take”.",
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "c-meet-deadline",
+    "skills": [
+      "collocations"
+    ],
+    "tags": [
+      "collocation",
+      "work"
+    ],
+    "context": "work",
+    "instruction": "One verb is missing.",
+    "prompt": "If we don't cut the scope, there's no way we'll ___ the deadline.",
+    "answers": [
+      "meet",
+      "make",
+      "hit"
+    ],
+    "explanation": "You meet / make / hit a deadline. You miss it when you fail. “Respect a deadline” is a French calque.",
+    "trap": {
+      "key": "respect-deadline",
+      "wrong": "We must respect the deadline.",
+      "correct": "We must meet the deadline.",
+      "type": "collocation",
+      "cause": "french-interference",
+      "explanation": "English meets (or hits) deadlines. “Respecter une échéance” doesn't translate word for word.",
+      "frenchHint": "Nous devons respecter l'échéance."
+    },
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "c-draw-conclusion",
+    "skills": [
+      "collocations"
+    ],
+    "tags": [
+      "collocation",
+      "academic"
+    ],
+    "context": "academic",
+    "instruction": "Choose the natural collocation.",
+    "prompt": "It is too early to ___ any firm conclusions from such a small sample.",
+    "options": [
+      "draw",
+      "take",
+      "make",
+      "pull"
+    ],
+    "answer": 0,
+    "explanation": "Conclusions are DRAWN (you pull them out of the evidence). “Reach a conclusion” is also natural. “Take a conclusion” doesn't exist.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "c-pose-threat",
+    "skills": [
+      "collocations"
+    ],
+    "tags": [
+      "collocation",
+      "news"
+    ],
+    "context": "news",
+    "instruction": "Choose the natural collocation.",
+    "prompt": "Experts say deepfakes ___ a serious threat to democratic debate.",
+    "options": [
+      "make",
+      "pose",
+      "do",
+      "put"
+    ],
+    "answer": 1,
+    "explanation": "Threats, risks, challenges and questions are POSED. It's formal/journalistic. In conversation you'd more often say “are a serious threat”.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "c-bear-in-mind",
+    "skills": [
+      "collocations",
+      "idioms"
+    ],
+    "tags": [
+      "collocation",
+      "fixed expression"
+    ],
+    "context": "university",
+    "instruction": "Complete the fixed expression.",
+    "prompt": "___ in mind that the exam covers the whole semester, not just the last chapters.",
+    "answers": [
+      "bear",
+      "keep"
+    ],
+    "explanation": "“Bear in mind” / “keep in mind” = remember and take into account. “Bear” is slightly more formal.",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "c-adverb-intensifier",
+    "skills": [
+      "collocations",
+      "precision"
+    ],
+    "tags": [
+      "collocation",
+      "adverbs"
+    ],
+    "context": "work",
+    "instruction": "Which intensifier sounds most natural?",
+    "prompt": "The board was ___ disappointed with the quarterly results.",
+    "options": [
+      "highly",
+      "bitterly",
+      "strongly",
+      "heavily"
+    ],
+    "answer": 1,
+    "explanation": "Adverb + adjective pairs are fixed: bitterly disappointed, deeply concerned, highly unlikely, strongly opposed, heavily criticised. “Very” works everywhere, but these pairs are what make writing sound native.",
+    "compare": [
+      "deeply concerned",
+      "highly unlikely",
+      "widely regarded as"
+    ],
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "c-heavy-rain",
+    "skills": [
+      "collocations"
+    ],
+    "tags": [
+      "collocation",
+      "adjectives",
+      "french interference"
+    ],
+    "context": "travel",
+    "instruction": "Choose the natural collocation.",
+    "prompt": "The flight was delayed because of ___ rain.",
+    "options": [
+      "strong",
+      "heavy",
+      "big",
+      "hard"
+    ],
+    "answer": 1,
+    "explanation": "Rain, traffic, smoking and drinking are “heavy”. Wind, coffee and accents are “strong”. French “forte pluie” suggests “strong”.",
+    "trap": {
+      "key": "strong-rain",
+      "wrong": "There was strong rain.",
+      "correct": "There was heavy rain.",
+      "type": "collocation",
+      "cause": "french-interference",
+      "explanation": "Rain is heavy, not strong (strong wind, heavy rain).",
+      "frenchHint": "Il y avait une forte pluie."
+    },
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "c-take-account",
+    "skills": [
+      "collocations"
+    ],
+    "tags": [
+      "collocation",
+      "prepositions",
+      "french interference"
+    ],
+    "context": "academic",
+    "instruction": "Complete with one word.",
+    "prompt": "The model doesn't take ___ account seasonal variations in demand.",
+    "answers": [
+      "into"
+    ],
+    "explanation": "Take something INTO account (into = movement inside the calculation). French “tenir compte de” often produces “take in account”.",
+    "trap": {
+      "key": "take-in-account",
+      "wrong": "We must take in account the costs.",
+      "correct": "We must take the costs into account.",
+      "type": "collocation",
+      "cause": "french-interference",
+      "explanation": "“Take into account”, not “in account”.",
+      "frenchHint": "Nous devons tenir compte des coûts."
+    },
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "c-reach-consensus",
+    "skills": [
+      "collocations"
+    ],
+    "tags": [
+      "collocation",
+      "business"
+    ],
+    "context": "business",
+    "instruction": "Choose the verb that collocates.",
+    "prompt": "After three hours of discussion, the team finally ___ a consensus.",
+    "options": [
+      "found",
+      "reached",
+      "made",
+      "got"
+    ],
+    "answer": 1,
+    "explanation": "You REACH a consensus / an agreement / a compromise / a verdict (the image of arriving at a destination).",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "c-commit-crime",
+    "skills": [
+      "collocations"
+    ],
+    "tags": [
+      "collocation",
+      "verbs"
+    ],
+    "context": "news",
+    "instruction": "Choose the natural collocation.",
+    "prompt": "Most people who ___ fraud online are never caught.",
+    "options": [
+      "make",
+      "do",
+      "commit",
+      "perform"
+    ],
+    "answer": 2,
+    "explanation": "You commit crimes, fraud, errors (formal), suicide. French “faire une fraude” doesn't transfer.",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "v-affect-effect",
+    "skills": [
+      "precision",
+      "vocabulary"
+    ],
+    "tags": [
+      "confusables",
+      "affect effect"
+    ],
+    "context": "academic",
+    "instruction": "Choose the correct word.",
+    "prompt": "Sleep deprivation has a measurable ___ on memory consolidation.",
+    "options": [
+      "affect",
+      "effect"
+    ],
+    "answer": 1,
+    "explanation": "Usually: AFFECT is the verb (it affects memory), EFFECT is the noun (an effect on memory). A: action; E: end result.",
+    "compare": [
+      "Sleep affects memory.",
+      "Sleep has an effect on memory.",
+      "(rare) to effect change = to bring about change"
+    ],
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "v-economic",
+    "skills": [
+      "precision",
+      "nuance"
+    ],
+    "tags": [
+      "confusables",
+      "economics"
+    ],
+    "context": "news",
+    "instruction": "Choose the most precise word.",
+    "prompt": "Buying a used laptop turned out to be the most ___ option.",
+    "options": [
+      "economic",
+      "economical",
+      "financial",
+      "fiscal"
+    ],
+    "answer": 1,
+    "explanation": "ECONOMICAL = cheap to run / not wasteful. ECONOMIC = related to the economy (economic growth). FINANCIAL = money matters in general. FISCAL = government taxes and spending.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "v-imply-infer",
+    "skills": [
+      "precision"
+    ],
+    "tags": [
+      "confusables",
+      "reasoning"
+    ],
+    "context": "academic",
+    "instruction": "Choose the correct word.",
+    "prompt": "From his silence, I ___ that he disagreed.",
+    "options": [
+      "implied",
+      "inferred"
+    ],
+    "answer": 1,
+    "explanation": "The speaker IMPLIES (puts the meaning in). The listener INFERS (takes the meaning out).",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "v-continual",
+    "skills": [
+      "precision",
+      "nuance"
+    ],
+    "tags": [
+      "confusables"
+    ],
+    "context": "work",
+    "instruction": "Which word fits best?",
+    "prompt": "The ___ interruptions from notifications made it impossible to focus.",
+    "options": [
+      "continuous",
+      "continual"
+    ],
+    "answer": 1,
+    "explanation": "CONTINUAL = repeated again and again, with breaks (often annoying). CONTINUOUS = without any break (a continuous line, continuous integration).",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "v-historic",
+    "skills": [
+      "precision"
+    ],
+    "tags": [
+      "confusables",
+      "news"
+    ],
+    "context": "news",
+    "instruction": "Choose the more precise word.",
+    "prompt": "The treaty was signed at a ___ summit in Paris.",
+    "options": [
+      "historic",
+      "historical"
+    ],
+    "answer": 0,
+    "explanation": "HISTORIC = important, remembered in history. HISTORICAL = related to the past or to history as a subject (historical records, a historical novel).",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "v-actually",
+    "skills": [
+      "vocabulary",
+      "precision"
+    ],
+    "tags": [
+      "false friend",
+      "french interference"
+    ],
+    "context": "work",
+    "instruction": "Which sentence means “Currently, I'm working on the backend”?",
+    "prompt": "",
+    "options": [
+      "Actually, I'm working on the backend.",
+      "At the moment, I'm working on the backend.",
+      "Eventually, I'm working on the backend."
+    ],
+    "answer": 1,
+    "explanation": "“Actually” = en fait (correction or surprise). “Actuellement” = currently / at the moment. “Eventually” = finalement.",
+    "trap": {
+      "key": "actually-currently",
+      "wrong": "Actually, I work at a startup. (meaning: currently)",
+      "correct": "Currently, I work at a startup.",
+      "type": "vocabulary",
+      "cause": "false-friend",
+      "explanation": "“Actually” means “en fait”, not “actuellement” (= currently).",
+      "frenchHint": "Actuellement, je travaille dans une startup."
+    },
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "v-eventually",
+    "skills": [
+      "vocabulary",
+      "precision"
+    ],
+    "tags": [
+      "false friend",
+      "french interference"
+    ],
+    "context": "work",
+    "instruction": "Choose the best word.",
+    "prompt": "We could ___ add a dark mode later, if users ask for it.",
+    "options": [
+      "eventually",
+      "possibly",
+      "finally"
+    ],
+    "answer": 1,
+    "explanation": "“Eventually” means “in the end, after a long time”. French “éventuellement” = possibly / if necessary.",
+    "trap": {
+      "key": "eventually-possibly",
+      "wrong": "We could eventually add a dark mode, if needed.",
+      "correct": "We could possibly add a dark mode, if needed.",
+      "type": "vocabulary",
+      "cause": "false-friend",
+      "explanation": "“Eventually” = finalement; “éventuellement” = possibly.",
+      "frenchHint": "On pourrait éventuellement ajouter un mode sombre."
+    },
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "v-assist",
+    "skills": [
+      "vocabulary"
+    ],
+    "tags": [
+      "false friend",
+      "french interference"
+    ],
+    "context": "university",
+    "instruction": "Click the part that contains an error (or “No error”).",
+    "segments": [
+      "Last semester, ",
+      "I assisted to every lecture ",
+      "even though ",
+      "they started at 8 a.m."
+    ],
+    "wrongIndex": 1,
+    "correction": "I attended every lecture",
+    "explanation": "“Assist” = help. “Assister à” = attend (no preposition).",
+    "trap": {
+      "key": "assist-attend",
+      "wrong": "I assisted to the lecture.",
+      "correct": "I attended the lecture.",
+      "type": "false-friend",
+      "cause": "false-friend",
+      "explanation": "“To attend” = assister à. “To assist” = aider.",
+      "frenchHint": "J'ai assisté au cours."
+    },
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "spot-error"
+  },
+  {
+    "id": "v-sensible",
+    "skills": [
+      "vocabulary",
+      "precision"
+    ],
+    "tags": [
+      "false friend"
+    ],
+    "context": "relationships",
+    "instruction": "Your friend cries at every film. She is very…",
+    "prompt": "",
+    "options": [
+      "sensible",
+      "sensitive",
+      "sensitised"
+    ],
+    "answer": 1,
+    "explanation": "SENSITIVE = sensible (émotif, réactif). SENSIBLE = raisonnable, sensé.",
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "v-comprehensive",
+    "skills": [
+      "vocabulary",
+      "precision"
+    ],
+    "tags": [
+      "false friend"
+    ],
+    "context": "work",
+    "instruction": "What does “comprehensive” mean here?",
+    "prompt": "The audit gave us a comprehensive overview of our security risks.",
+    "options": [
+      "understanding, sympathetic",
+      "complete, covering everything",
+      "easy to understand"
+    ],
+    "answer": 1,
+    "explanation": "COMPREHENSIVE = complet, exhaustif. “Compréhensif” = understanding. “Compréhensible” = comprehensible / understandable.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "v-tr-realiser",
+    "skills": [
+      "vocabulary",
+      "precision"
+    ],
+    "tags": [
+      "false friend",
+      "french interference"
+    ],
+    "context": "university",
+    "instruction": "Translate into natural English.",
+    "prompt": "Nous avons réalisé ce projet en six semaines.",
+    "answers": [
+      "We carried out this project in six weeks.",
+      "We completed this project in six weeks.",
+      "We completed the project in six weeks.",
+      "We carried out the project in six weeks.",
+      "We did this project in six weeks.",
+      "We built this project in six weeks.",
+      "We delivered this project in six weeks."
+    ],
+    "mustInclude": [
+      [
+        "carried out|completed|built|delivered|did|developed|executed"
+      ],
+      [
+        "six weeks|6 weeks"
+      ]
+    ],
+    "mustAvoid": [
+      "realis|realiz"
+    ],
+    "model": "We completed this project in six weeks.",
+    "explanation": "“Realise” means “se rendre compte”. To “réaliser” a project: complete, carry out, build, deliver. On a CV: “Built…”, “Delivered…”.",
+    "trap": {
+      "key": "realise-project",
+      "wrong": "We realised this project in six weeks.",
+      "correct": "We completed this project in six weeks.",
+      "type": "false-friend",
+      "cause": "false-friend",
+      "explanation": "“Realise” = se rendre compte. A project is completed / carried out / delivered.",
+      "frenchHint": "Nous avons réalisé ce projet en six semaines."
+    },
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "translate"
+  },
+  {
+    "id": "v-tr-controle",
+    "skills": [
+      "vocabulary",
+      "precision"
+    ],
+    "tags": [
+      "false friend",
+      "french interference",
+      "university"
+    ],
+    "context": "university",
+    "instruction": "Translate into natural English.",
+    "prompt": "J'ai un contrôle de maths demain.",
+    "answers": [
+      "I have a maths test tomorrow.",
+      "I've got a maths test tomorrow.",
+      "I have a math test tomorrow.",
+      "I have a maths exam tomorrow.",
+      "I've got a maths exam tomorrow."
+    ],
+    "mustInclude": [
+      [
+        "test|exam|quiz"
+      ],
+      [
+        "tomorrow"
+      ]
+    ],
+    "mustAvoid": [
+      "control"
+    ],
+    "model": "I've got a maths test tomorrow.",
+    "explanation": "“Control” means power / regulation (quality control, control over). An exam at school is a test, exam or quiz.",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "translate"
+  },
+  {
+    "id": "v-raise-rise",
+    "skills": [
+      "vocabulary",
+      "grammar"
+    ],
+    "tags": [
+      "confusables",
+      "verbs"
+    ],
+    "context": "business",
+    "instruction": "Complete with raise or rise, in the correct form.",
+    "prompt": "Energy prices have ___ sharply since the beginning of the year.",
+    "answers": [
+      "risen"
+    ],
+    "explanation": "RISE is intransitive (prices rise, rose, have risen). RAISE takes an object (they raised prices, raised a question).",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "v-principle",
+    "skills": [
+      "vocabulary",
+      "precision"
+    ],
+    "tags": [
+      "confusables",
+      "spelling"
+    ],
+    "context": "tech",
+    "instruction": "principle or principal?",
+    "prompt": "The ___ of least privilege says each process should only get the permissions it needs.",
+    "answers": [
+      "principle"
+    ],
+    "explanation": "PRINCIPLE = a rule or belief. PRINCIPAL = main (adjective), or the head of a school.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "v-complement",
+    "skills": [
+      "vocabulary",
+      "precision"
+    ],
+    "tags": [
+      "confusables",
+      "spelling"
+    ],
+    "context": "work",
+    "instruction": "complement or compliment?",
+    "prompt": "Her design skills ___ his technical background perfectly.",
+    "answers": [
+      "complement"
+    ],
+    "explanation": "COMPLEMENT = complete / go well with (it completes). COMPLIMENT = praise.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "v-advices",
+    "skills": [
+      "grammar",
+      "vocabulary"
+    ],
+    "tags": [
+      "uncountable",
+      "french interference"
+    ],
+    "context": "everyday",
+    "instruction": "Correct the sentence.",
+    "prompt": "She gave me some good advices about the interview.",
+    "answers": [
+      "She gave me some good advice about the interview.",
+      "She gave me some good pieces of advice about the interview.",
+      "She gave me a good piece of advice about the interview."
+    ],
+    "mustAvoid": [
+      "advices"
+    ],
+    "model": "She gave me some good advice about the interview.",
+    "explanation": "“Advice” is uncountable. To count it: a piece of advice, two tips.",
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "correct"
+  }
+]

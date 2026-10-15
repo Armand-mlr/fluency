@@ -1,0 +1,575 @@
+[
+  {
+    "id": "parallel-structure",
+    "title": "Construire une phrase équilibrée",
+    "subtitle": "Mettre des éléments de même forme sur le même plan.",
+    "level": "C1",
+    "track": "writing",
+    "minutes": 12,
+    "tags": [
+      "parallel-structure",
+      "writing"
+    ],
+    "relatedListIds": [
+      "pack-connections",
+      "pack-work"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Le parallélisme rend une liste ou un contraste facile à suivre. Après un même verbe ou une même préposition, coordonnez des éléments de construction compatible : planning, booking and checking, ou to plan, book and check. Avec not only… but also, placez les marqueurs devant les éléments réellement parallèles. Neither… nor et either… or demandent la même attention. Le but n’est pas une symétrie décorative : une structure claire aide le lecteur à comprendre ce qui est comparé ou ajouté.",
+        "pattern": "V-ing, V-ing and V-ing · to V, V and V · not only X but also Y",
+        "examples": [
+          {
+            "en": "I enjoy meeting people, hearing their stories and exploring new places.",
+            "fr": "J’aime rencontrer des gens, écouter leurs histoires et découvrir de nouveaux endroits.",
+            "note": "Trois compléments en -ing après enjoy."
+          },
+          {
+            "en": "The course helped me not only to write clearly but also to argue fairly.",
+            "fr": "La formation m’a appris à écrire clairement mais aussi à argumenter avec équité.",
+            "note": "Les deux objectifs utilisent le même type de construction."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I enjoy reading, to travel and meeting people.",
+        "right": "I enjoy reading, travelling and meeting people.",
+        "why": "Enjoy impose -ing aux éléments coordonnés."
+      }
+    ],
+    "takeaway": "Repérez le mot qui gouverne la liste, puis vérifiez chaque élément.",
+    "recallPrompt": "Reformulez une liste de trois objectifs avec trois formes identiques.",
+    "exercises": [
+      {
+        "id": "parallel-structure-1",
+        "type": "mcq",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "parallel-structure",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Choisissez la liste la plus cohérente.",
+        "options": [
+          "The job involves planning, to organise and reporting.",
+          "The job involves planning, organising and reporting.",
+          "The job involves to plan, organising and report."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Construction mélangée après involves.",
+          "Trois compléments en -ing.",
+          "Constructions incompatibles."
+        ],
+        "explanation": "Involves est suivi de noms ou formes en -ing. Le parallélisme aide à voir trois responsabilités équivalentes."
+      },
+      {
+        "id": "parallel-structure-2",
+        "type": "cloze",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "parallel-structure",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "The course taught me to listen, question and ___ (respond).",
+        "answers": [
+          "respond"
+        ],
+        "hint": "La série partage le to initial.",
+        "explanation": "To listen, question and respond : le marqueur to peut être partagé entre les trois bases verbales."
+      },
+      {
+        "id": "parallel-structure-3",
+        "type": "rewrite",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "parallel-structure",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Rendez la liste parallèle après in.",
+        "prompt": "I am interested in reading, to write and debating.",
+        "model": "I am interested in reading, writing and debating.",
+        "answers": [
+          "I am interested in reading, writing and debating."
+        ],
+        "hint": "Rendez la liste parallèle après in.",
+        "explanation": "La préposition in gouverne les trois formes en -ing ; writing remplace to write."
+      },
+      {
+        "id": "parallel-structure-4",
+        "type": "free",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "parallel-structure",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Présentez trois objectifs personnels en une phrase, puis deux bénéfices avec not only… but also.",
+        "model": "I want to listen closely, speak clearly and ask better questions. Practice helps me not only to find words faster but also to notice subtle differences.",
+        "rubric": [
+          "Trois verbes parallèles.",
+          "Deux éléments équilibrés après not only et but also.",
+          "Les objectifs ont un contenu concret."
+        ],
+        "explanation": "Le parallélisme ne doit pas rendre artificiels des éléments qui n’ont pas le même rôle logique.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "cohesion",
+    "title": "Relier les phrases sans empiler les connecteurs",
+    "subtitle": "Référents clairs, progression et liens logiques.",
+    "level": "C1",
+    "track": "writing",
+    "minutes": 12,
+    "tags": [
+      "cohesion",
+      "writing"
+    ],
+    "relatedListIds": [
+      "pack-connections",
+      "pack-ideas"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Un texte cohérent ne dépend pas du nombre de connecteurs. Il progresse d’une information connue vers une nouvelle, garde des référents identifiables et explicite les liens nécessaires. This seul peut être ambigu après plusieurs idées : this delay, this concern ou this approach précise le référent. However contraste ; therefore conclut à une conséquence logique ; moreover ajoute un argument dans le même sens. Ces adverbes ne relient pas deux propositions indépendantes avec une simple virgule en anglais écrit standard : utilisez un point ou un point-virgule.",
+        "pattern": "Phrase. However, phrase. · Phrase; therefore, phrase. · This + nom précis + verbe",
+        "examples": [
+          {
+            "en": "The room was quiet. This made it easier to concentrate.",
+            "fr": "La pièce était calme. Cela facilitait la concentration.",
+            "note": "Un seul référent évident : le calme."
+          },
+          {
+            "en": "The bus was late and the venue had moved. This last-minute change confused several guests.",
+            "fr": "Le bus était en retard et le lieu avait changé. Ce changement de dernière minute a dérouté plusieurs invités.",
+            "note": "Le nom change précise que l’on reprend le déplacement du lieu."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "The room was small, however it was comfortable.",
+        "right": "The room was small; however, it was comfortable.",
+        "why": "However n’est pas une conjonction comme but : séparez correctement les propositions."
+      }
+    ],
+    "takeaway": "Choisissez un lien réel et un référent clair avant d’ajouter un connecteur.",
+    "recallPrompt": "Remplacez un this ambigu par this suivi d’un nom précis.",
+    "exercises": [
+      {
+        "id": "cohesion-1",
+        "type": "mcq",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "cohesion",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous ajoutez un avantage dans le même sens que le précédent.",
+        "options": [
+          "Moreover, the room has natural light.",
+          "Nevertheless, the room has natural light.",
+          "Despite, the room has natural light."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Ajout d’un argument.",
+          "Concession, pas simple ajout.",
+          "Despite est une préposition, pas un adverbe autonome ici."
+        ],
+        "explanation": "Moreover ajoute un avantage. Nevertheless serait pertinent si ce deuxième fait contrastait avec le premier."
+      },
+      {
+        "id": "cohesion-2",
+        "type": "cloze",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "cohesion",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "The train was cancelled. ___, we had to take a bus.",
+        "answers": [
+          "Therefore",
+          "Consequently",
+          "As a result"
+        ],
+        "hint": "Introduisez la conséquence, avec une majuscule.",
+        "explanation": "Ces connecteurs présentent le trajet en bus comme conséquence de l’annulation. La ponctuation sépare les deux phrases."
+      },
+      {
+        "id": "cohesion-3",
+        "type": "rewrite",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "cohesion",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Évitez la répétition dans la deuxième phrase avec un pronom clair.",
+        "prompt": "The delay worried us. The delay also increased the cost.",
+        "model": "The delay worried us. It also increased the cost.",
+        "answers": [
+          "The delay worried us. It also increased the cost."
+        ],
+        "hint": "Évitez la répétition dans la deuxième phrase avec un pronom clair.",
+        "explanation": "It reprend sans ambiguïté the delay. Une reprise nominale serait préférable si plusieurs référents rivalisaient."
+      },
+      {
+        "id": "cohesion-4",
+        "type": "free",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "cohesion",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Écrivez un mini-paragraphe de trois phrases : une situation, une conséquence, puis une réserve.",
+        "model": "The new route cut twenty minutes off my commute. This saving gave me more time in the morning. However, the last bus leaves earlier than I would like.",
+        "rubric": [
+          "La conséquence découle de la situation.",
+          "Une reprise précise comme this saving.",
+          "However introduit une vraie réserve et est bien ponctué."
+        ],
+        "explanation": "Mieux vaut trois phrases bien reliées qu’un connecteur recherché à chaque ligne.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "argument-paragraph",
+    "title": "Construire un paragraphe argumenté",
+    "subtitle": "Affirmation, raison, exemple et limite.",
+    "level": "C1",
+    "track": "writing",
+    "minutes": 12,
+    "tags": [
+      "argument-paragraph",
+      "writing"
+    ],
+    "relatedListIds": [
+      "pack-ideas",
+      "pack-connections"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Un paragraphe argumenté avance une idée identifiable, explique pourquoi elle mérite attention, puis apporte un exemple ou un élément d’appui. Une limite précise améliore la crédibilité sans annuler l’idée. Distinguez un exemple inventé pour illustrer d’une preuve empirique : ne présentez pas votre intuition comme une étude. Le dernier mouvement peut revenir à l’affirmation en la qualifiant. Un paragraphe n’a pas besoin de quatre connecteurs explicites ; les relations peuvent venir de la construction des phrases.",
+        "pattern": "affirmation → raison → exemple concret → limite ou conséquence",
+        "examples": [
+          {
+            "en": "Small study groups can make it easier to speak regularly because each learner gets more time.",
+            "fr": "Les petits groupes peuvent faciliter une pratique orale régulière car chacun dispose de plus de temps.",
+            "note": "Une affirmation limitée et sa raison."
+          },
+          {
+            "en": "This advantage depends on participants giving one another space to speak.",
+            "fr": "Cet avantage dépend du fait que les participants se laissent mutuellement parler.",
+            "note": "La limite précise la condition du bénéfice."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "Everyone learns better this way because it is the best method.",
+        "right": "This method may help learners who need regular speaking practice because it creates more opportunities to respond.",
+        "why": "Remplacez le raisonnement circulaire par un mécanisme précis et une portée limitée."
+      }
+    ],
+    "takeaway": "Une raison explique le mécanisme ; un exemple le rend concret ; une limite fixe le périmètre.",
+    "recallPrompt": "Pourquoi For example ne suffit-il pas à transformer une anecdote en preuve générale ?",
+    "exercises": [
+      {
+        "id": "argument-paragraph-1",
+        "type": "mcq",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "argument-paragraph",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Quelle phrase donne une raison explicative plutôt qu’une répétition ?",
+        "options": [
+          "It is useful because it helps.",
+          "Short daily sessions help me because I can revisit a word before forgetting its context.",
+          "This method is best because it is better."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Répète utile avec aide sans mécanisme.",
+          "Explique une relation concrète et personnelle.",
+          "Raisonnement circulaire."
+        ],
+        "explanation": "La deuxième phrase indique un mécanisme vérifiable dans l’expérience du locuteur, sans revendiquer une loi universelle."
+      },
+      {
+        "id": "argument-paragraph-2",
+        "type": "cloze",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "argument-paragraph",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "This approach may work well, ___ that learners have time to review.",
+        "answers": [
+          "provided",
+          "providing"
+        ],
+        "hint": "Ajoutez une condition avec … that.",
+        "explanation": "Provided/providing that introduit la condition du succès. L’affirmation devient plus précise, pas simplement plus hésitante."
+      },
+      {
+        "id": "argument-paragraph-3",
+        "type": "rewrite",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "argument-paragraph",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Limitez l’affirmation avec may help et un groupe de bénéficiaires.",
+        "prompt": "This always helps everyone.",
+        "model": "This may help learners who need more speaking practice.",
+        "answers": [
+          "This may help learners who need more speaking practice."
+        ],
+        "hint": "Limitez l’affirmation avec may help et un groupe de bénéficiaires.",
+        "explanation": "La reformulation identifie un public et un effet possible au lieu d’une efficacité universelle invérifiée."
+      },
+      {
+        "id": "argument-paragraph-4",
+        "type": "free",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "argument-paragraph",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Écrivez 60 à 90 mots sur une habitude qui vous aide à apprendre. Présentez une idée, sa raison, un exemple personnel et une limite.",
+        "model": "Retelling a short story helps me turn passive vocabulary into words I can use. I have to choose the expressions myself rather than recognise them on a page. Last week, I described a missed train and reused three phrases from my notes. The first attempt was hesitant, but the second felt easier. This approach works best for me when I keep the story short enough to repeat.",
+        "rubric": [
+          "Une idée centrale, pas une liste de conseils.",
+          "Une raison distincte de l’affirmation.",
+          "Un exemple présenté comme personnel.",
+          "Une limite ou condition réelle."
+        ],
+        "explanation": "Comparez surtout la logique du paragraphe au modèle. Les formulations et opinions peuvent différer.",
+        "estSeconds": 120,
+        "minWords": 60,
+        "maxWords": 90
+      }
+    ]
+  },
+  {
+    "id": "storytelling",
+    "title": "Raconter une anecdote qui tient debout",
+    "subtitle": "Repère, complication, réaction, dénouement.",
+    "level": "C1",
+    "track": "writing",
+    "minutes": 12,
+    "tags": [
+      "storytelling",
+      "writing"
+    ],
+    "relatedListIds": [
+      "pack-experiences",
+      "pack-emotions"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Un récit naturel donne d’abord assez de contexte pour situer l’événement, puis un changement qui justifie l’histoire. Les détails sont utiles s’ils expliquent une réaction ou créent une attente. Une courte réaction personnelle rend le récit vivant ; le dénouement répond à la complication. Les marqueurs as it happened, before I knew it ou to my relief ajoutent une fonction précise. Évitez une suite mécanique de then. Une histoire peut rester simple lexicalement tout en étant précise sur les causes, les émotions et la chronologie.",
+        "pattern": "repère → événement inattendu → réaction ou décision → dénouement",
+        "examples": [
+          {
+            "en": "I was on my way to an interview when I realised I had the wrong address.",
+            "fr": "J’allais à un entretien quand j’ai réalisé que je n’avais pas la bonne adresse.",
+            "note": "Décor, complication et enjeu sont posés rapidement."
+          },
+          {
+            "en": "As it happened, the receptionist knew the building and pointed me in the right direction.",
+            "fr": "Il se trouve que la réceptionniste connaissait le bâtiment et m’a orienté.",
+            "note": "La coïncidence fait avancer la résolution."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I went out. Then I walked. Then I saw a man. Then I asked him.",
+        "right": "On my way to the station, I stopped a passer-by to ask for directions.",
+        "why": "Regroupez les actions secondaires pour faire ressortir l’action utile au récit."
+      }
+    ],
+    "takeaway": "Choisissez les détails qui expliquent pourquoi l’événement mérite d’être raconté.",
+    "recallPrompt": "Résumez une anecdote en quatre lignes : contexte, problème, réaction, résolution.",
+    "exercises": [
+      {
+        "id": "storytelling-1",
+        "type": "mcq",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "storytelling",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Quel début donne le plus clairement un enjeu narratif ?",
+        "options": [
+          "There were things and people everywhere.",
+          "I was five minutes from my interview when the bus broke down.",
+          "I went somewhere and did something."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Description sans situation ni enjeu.",
+          "Temps limité, objectif et complication.",
+          "Trop vague pour suivre l’histoire."
+        ],
+        "explanation": "Le deuxième début explique immédiatement pourquoi la panne compte : l’entretien est proche et le temps manque."
+      },
+      {
+        "id": "storytelling-2",
+        "type": "cloze",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "storytelling",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "___ my relief, the interviewer agreed to wait.",
+        "answers": [
+          "To"
+        ],
+        "hint": "Introduisez votre réaction au dénouement.",
+        "explanation": "To my relief présente l’émotion causée par la bonne nouvelle. Ce n’est pas une traduction littérale de vers mon soulagement."
+      },
+      {
+        "id": "storytelling-3",
+        "type": "rewrite",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "storytelling",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "Reliez avec when pour opposer action en cours et événement.",
+        "prompt": "I was walking to the station. Suddenly, I noticed my bag was open.",
+        "model": "I was walking to the station when I noticed my bag was open.",
+        "answers": [
+          "I was walking to the station when I noticed my bag was open."
+        ],
+        "hint": "Reliez avec when pour opposer action en cours et événement.",
+        "explanation": "Le past continuous installe le décor ; when introduit ce qui attire l’attention."
+      },
+      {
+        "id": "storytelling-4",
+        "type": "free",
+        "skills": [
+          "writing",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "storytelling",
+          "writing"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Racontez une mésaventure en 60 à 100 mots. Incluez un enjeu, une réaction précise et une résolution, sans ajouter un idiome dans chaque phrase.",
+        "model": "I was heading to a birthday dinner when I realised I had left the present on the train. I felt mortified, especially as I had spent days choosing it. At the station, I explained what had happened to a member of staff. As it happened, the train had not left the platform. She called a colleague, who found the bag under my seat. I arrived late, but with the present and a story to tell.",
+        "rubric": [
+          "Le contexte et l’enjeu sont compréhensibles.",
+          "Les temps guident la chronologie.",
+          "Une émotion précise éclaire la réaction.",
+          "Le dénouement répond au problème initial."
+        ],
+        "explanation": "Ne jugez pas le récit au nombre d’expressions avancées : retenez celles qui servent l’histoire.",
+        "estSeconds": 120,
+        "minWords": 60,
+        "maxWords": 100
+      }
+    ]
+  }
+]

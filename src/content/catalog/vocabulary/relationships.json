@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "relationships",
+  "title": "Relations & comportements",
+  "description": "Liens, tensions, confiance et limites.",
+  "color": "#487b73",
+  "items": [
+    {
+      "id": "v-b492d14484e3",
+      "kind": "word",
+      "text": "thoughtful",
+      "translationFr": "attentionné",
+      "meaning": "showing care for another person's needs",
+      "example": "It was thoughtful of her to bring dinner when I was ill.",
+      "exampleFr": "C’était attentionné de sa part d’apporter le dîner quand j’étais malade.",
+      "notes": "Thoughtful of someone to ; peut aussi signifier pensif selon le contexte.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-6271c4b65000",
+      "kind": "word",
+      "text": "considerate",
+      "translationFr": "prévenant",
+      "meaning": "careful not to inconvenience or hurt others",
+      "example": "My flatmate is considerate about noise when I work late.",
+      "exampleFr": "Mon colocataire fait attention au bruit quand je travaille tard.",
+      "notes": "Considerate of others ; souci concret des autres.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-d9795973f9df",
+      "kind": "word",
+      "text": "dismissive",
+      "translationFr": "dédaigneux",
+      "meaning": "treating someone or something as unworthy of attention",
+      "example": "I found his response dismissive rather than helpful.",
+      "exampleFr": "J’ai trouvé sa réponse dédaigneuse plutôt qu’utile.",
+      "notes": "Dismissive of a concern ; écarte sans véritable examen.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-28d62aaea69d",
+      "kind": "word",
+      "text": "condescending",
+      "translationFr": "condescendant",
+      "meaning": "speaking as if one is superior",
+      "example": "Her explanation was useful, but the tone felt condescending.",
+      "exampleFr": "Son explication était utile, mais le ton me semblait condescendant.",
+      "notes": "Condescending towards someone ; attitude, pas complexité du propos.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-7d96d5094afa",
+      "kind": "word",
+      "text": "patronising",
+      "translationFr": "qui prend les autres de haut",
+      "meaning": "appearing kind while implying someone is less capable",
+      "example": "I found his exaggerated praise rather patronising.",
+      "exampleFr": "J’ai trouvé ses compliments exagérés assez infantilisants.",
+      "notes": "BrE patronising, AmE patronizing ; aide ou compliment rabaissant.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-fdd7e4978ad6",
+      "kind": "word",
+      "text": "aloof",
+      "translationFr": "distant",
+      "meaning": "not friendly or willing to become involved",
+      "example": "I thought he was aloof until I realised he was simply shy.",
+      "exampleFr": "Je le croyais distant avant de comprendre qu’il était simplement timide.",
+      "notes": "Remain aloof ; distance relationnelle, pas nécessairement hostilité.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-01f0f8cc8d1e",
+      "kind": "word",
+      "text": "approachable",
+      "translationFr": "abordable, facile à aborder",
+      "meaning": "friendly and easy to talk to",
+      "example": "My new manager is approachable even when she's busy.",
+      "exampleFr": "Ma nouvelle responsable reste facile à aborder même quand elle est occupée.",
+      "notes": "Approachable person ; différent d’affordable pour un prix.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-d60f71981f75",
+      "kind": "word",
+      "text": "forthcoming",
+      "translationFr": "disposé à parler ouvertement",
+      "meaning": "willing to give information",
+      "example": "He wasn't very forthcoming about why he had left.",
+      "exampleFr": "Il n’était pas très disposé à expliquer son départ.",
+      "notes": "Forthcoming about ; a forthcoming event signifie à venir.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-6eaffc1164a0",
+      "kind": "word",
+      "text": "guarded",
+      "translationFr": "sur la réserve",
+      "meaning": "careful not to reveal thoughts or information",
+      "example": "I gave a guarded answer because I didn't know whom to trust.",
+      "exampleFr": "J’ai répondu avec réserve car je ne savais pas à qui me fier.",
+      "notes": "Guarded response ; rétention volontaire d’informations.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-ef1fd99c507a",
+      "kind": "word",
+      "text": "outspoken",
+      "translationFr": "qui dit ouvertement ce qu’il pense",
+      "meaning": "willing to express strong opinions openly",
+      "example": "My sister is outspoken about unfair treatment at work.",
+      "exampleFr": "Ma sœur dénonce ouvertement les injustices au travail.",
+      "notes": "Outspoken about ; direct, parfois critique.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-cc1b4d4ca127",
+      "kind": "word",
+      "text": "tactful",
+      "translationFr": "plein de tact",
+      "meaning": "careful to avoid upsetting someone",
+      "example": "She found a tactful way to tell me the plan was unrealistic.",
+      "exampleFr": "Elle a trouvé une manière délicate de me dire que le projet était irréaliste.",
+      "notes": "Tactful way of saying ; franchise avec attention à la forme.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-30a83295a1f3",
+      "kind": "word",
+      "text": "blunt",
+      "translationFr": "direct au point de paraître brusque",
+      "meaning": "speaking without softening one's meaning",
+      "example": "I appreciated his honesty, although he was rather blunt.",
+      "exampleFr": "J’ai apprécié son honnêteté, même s’il était assez brusque.",
+      "notes": "To be blunt ; annonce souvent une vérité peu agréable.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-7057e50a376c",
+      "kind": "word",
+      "text": "overbearing",
+      "translationFr": "autoritaire et envahissant",
+      "meaning": "trying too strongly to control others",
+      "example": "I stopped asking him for advice because he was overbearing.",
+      "exampleFr": "J’ai cessé de lui demander conseil car il cherchait toujours à s’imposer.",
+      "notes": "Plus intrusif que simplement confident.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-00dc9023735d",
+      "kind": "word",
+      "text": "clingy",
+      "translationFr": "trop dépendant affectivement",
+      "meaning": "wanting too much attention or closeness",
+      "example": "I worried about seeming clingy if I called again.",
+      "exampleFr": "J’avais peur de paraître trop dépendant en appelant encore.",
+      "notes": "Informel et souvent critique ; à utiliser avec tact.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-7fed21ff0574",
+      "kind": "word",
+      "text": "selfless",
+      "translationFr": "désintéressé",
+      "meaning": "putting others' needs before one's own",
+      "example": "Her selfless support helped me through a difficult month.",
+      "exampleFr": "Son soutien désintéressé m’a aidé à traverser un mois difficile.",
+      "notes": "Selfless act ; contraire de selfish, pas de self-conscious.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-9ef7c92c551e",
+      "kind": "word",
+      "text": "level-headed",
+      "translationFr": "qui garde la tête froide",
+      "meaning": "calm and sensible in difficult situations",
+      "example": "I called my most level-headed friend before making a decision.",
+      "exampleFr": "J’ai appelé mon ami le plus posé avant de décider.",
+      "notes": "Level-headed approach ; jugement calme sous pression.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-a8b763fecb6e",
+      "kind": "word",
+      "text": "unreliable",
+      "translationFr": "sur qui on ne peut pas compter",
+      "meaning": "not consistently doing what is expected",
+      "example": "I liked him, but he was unreliable when we made plans.",
+      "exampleFr": "Je l’aimais bien, mais je ne pouvais pas compter sur lui pour nos sorties.",
+      "notes": "Décrit aussi une information ou un appareil peu fiable.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-e56b0e1fb324",
+      "kind": "word",
+      "text": "disingenuous",
+      "translationFr": "faussement sincère",
+      "meaning": "not fully honest while appearing sincere",
+      "example": "I thought it was disingenuous to pretend nobody had warned us.",
+      "exampleFr": "J’ai trouvé peu sincère de prétendre que personne ne nous avait avertis.",
+      "notes": "Plus précis que dishonest : une sincérité de façade.",
+      "level": "C2",
+      "register": "formal",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-b4c242714f1d",
+      "kind": "collocation",
+      "text": "a strained relationship",
+      "translationFr": "une relation tendue",
+      "meaning": "a relationship made difficult by tension",
+      "example": "I had a strained relationship with my neighbour after the dispute.",
+      "exampleFr": "Mes relations avec mon voisin étaient tendues après le différend.",
+      "notes": "Strained relations ; tension qui dure, même sans dispute ouverte.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-35a31bc5a042",
+      "kind": "collocation",
+      "text": "mutual respect",
+      "translationFr": "un respect réciproque",
+      "meaning": "respect felt by both people or groups",
+      "example": "We disagree often, but there is mutual respect between us.",
+      "exampleFr": "Nous sommes souvent en désaccord, mais nous nous respectons mutuellement.",
+      "notes": "Mutual suppose les deux sens ; pas un respect unilatéral.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-b9cfc985d695",
+      "kind": "collocation",
+      "text": "hold a grudge",
+      "translationFr": "garder rancune",
+      "meaning": "to remain angry about an earlier wrong",
+      "example": "I apologised, but I could tell he still held a grudge.",
+      "exampleFr": "Je me suis excusé, mais je sentais qu’il gardait rancune.",
+      "notes": "Hold a grudge against someone ; ressentiment durable.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-ba6c6ed4a20c",
+      "kind": "collocation",
+      "text": "make amends",
+      "translationFr": "réparer ses torts",
+      "meaning": "to do something to compensate for a wrong",
+      "example": "I offered to help her move as a way of making amends.",
+      "exampleFr": "J’ai proposé de l’aider à déménager pour réparer mes torts.",
+      "notes": "Make amends for something ; passe par des actes.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-7aeeef5da5a6",
+      "kind": "collocation",
+      "text": "set boundaries",
+      "translationFr": "poser des limites",
+      "meaning": "to establish limits on acceptable behaviour",
+      "example": "I had to set boundaries about calls late at night.",
+      "exampleFr": "J’ai dû poser des limites concernant les appels tardifs.",
+      "notes": "Set boundaries with someone ; limites relationnelles explicites.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-8512b4fb75e0",
+      "kind": "collocation",
+      "text": "earn someone's trust",
+      "translationFr": "gagner la confiance de quelqu’un",
+      "meaning": "to become trusted through one's behaviour",
+      "example": "I knew I would have to earn her trust over time.",
+      "exampleFr": "Je savais qu’il me faudrait gagner sa confiance avec le temps.",
+      "notes": "Earn implique des actes, pas seulement une demande.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-10a1be714a60",
+      "kind": "collocation",
+      "text": "breach of trust",
+      "translationFr": "rupture de confiance",
+      "meaning": "an action that breaks someone's trust",
+      "example": "Sharing my private message felt like a breach of trust.",
+      "exampleFr": "Le partage de mon message privé m’a semblé trahir ma confiance.",
+      "notes": "A breach of trust ; peut être relationnel ou professionnel.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-e2ebaf57719f",
+      "kind": "collocation",
+      "text": "give someone the benefit of the doubt",
+      "translationFr": "accorder le bénéfice du doute",
+      "meaning": "to assume good intentions when unsure",
+      "example": "I gave him the benefit of the doubt and waited for his explanation.",
+      "exampleFr": "Je lui ai accordé le bénéfice du doute et attendu son explication.",
+      "notes": "Suppose une incertitude ; ne signifie pas croire sans réserve.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-c3b7f456e6d0",
+      "kind": "phrasal-verb",
+      "text": "fall out with",
+      "translationFr": "se brouiller avec",
+      "meaning": "to stop being friendly after an argument",
+      "example": "I fell out with a close friend over a misunderstanding.",
+      "exampleFr": "Je me suis brouillé avec un ami proche à cause d’un malentendu.",
+      "notes": "Fall out with someone over something ; passé fell out.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-9bb55ee33573",
+      "kind": "phrasal-verb",
+      "text": "drift apart",
+      "translationFr": "s’éloigner progressivement",
+      "meaning": "to become less close over time",
+      "example": "We drifted apart after moving to different cities.",
+      "exampleFr": "Nous nous sommes progressivement éloignés après avoir déménagé dans des villes différentes.",
+      "notes": "Sans rupture ou conflit nécessaire, contrairement à fall out.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-65dbf203882b",
+      "kind": "phrasal-verb",
+      "text": "let someone down",
+      "translationFr": "décevoir quelqu’un",
+      "meaning": "to fail to provide expected support",
+      "example": "I felt I had let her down by cancelling at the last minute.",
+      "exampleFr": "J’avais l’impression de l’avoir déçue en annulant au dernier moment.",
+      "notes": "Let someone down ; ne pas respecter une attente.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-7fd3b88b96d6",
+      "kind": "phrasal-verb",
+      "text": "stand by someone",
+      "translationFr": "soutenir quelqu’un dans l’épreuve",
+      "meaning": "to remain loyal and supportive",
+      "example": "My friends stood by me when I lost my job.",
+      "exampleFr": "Mes amis m’ont soutenu quand j’ai perdu mon emploi.",
+      "notes": "Stand by someone ; différent de stand someone up.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-3276c99a9759",
+      "kind": "phrasal-verb",
+      "text": "stand someone up",
+      "translationFr": "poser un lapin à quelqu’un",
+      "meaning": "to fail to arrive for an arranged meeting without warning",
+      "example": "I thought she'd stood me up, but her train was delayed.",
+      "exampleFr": "Je pensais qu’elle m’avait posé un lapin, mais son train était en retard.",
+      "notes": "Objet obligatoire entre stand et up : stood me up.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-befa17c5705f",
+      "kind": "phrasal-verb",
+      "text": "open up to someone",
+      "translationFr": "se confier à quelqu’un",
+      "meaning": "to begin sharing personal feelings",
+      "example": "I finally opened up to a friend about how lonely I felt.",
+      "exampleFr": "J’ai fini par me confier à un ami sur ma solitude.",
+      "notes": "Open up to someone about something ; confiance personnelle.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-672335868491",
+      "kind": "phrasal-verb",
+      "text": "put up with",
+      "translationFr": "supporter, tolérer",
+      "meaning": "to tolerate something unpleasant",
+      "example": "I couldn't put up with the constant criticism any longer.",
+      "exampleFr": "Je ne supportais plus les critiques incessantes.",
+      "notes": "Put up with + nom ou -ing ; locution inséparable.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-56372d2f1e20",
+      "kind": "phrasal-verb",
+      "text": "talk down to someone",
+      "translationFr": "parler à quelqu’un de haut",
+      "meaning": "to speak as if someone is less intelligent",
+      "example": "I disliked being talked down to just because I was new.",
+      "exampleFr": "Je détestais qu’on me parle de haut simplement parce que j’étais nouveau.",
+      "notes": "Talk down to ; attitude condescendante, pas voix basse.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-16df66623f03",
+      "kind": "phrasal-verb",
+      "text": "reach out to someone",
+      "translationFr": "prendre contact pour aider ou demander de l’aide",
+      "meaning": "to contact someone to offer or seek support",
+      "example": "I reached out to an old colleague when I needed advice.",
+      "exampleFr": "J’ai contacté un ancien collègue lorsque j’ai eu besoin de conseils.",
+      "notes": "Connotation de soutien ; parfois formule professionnelle routinière.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-d44d30fa19ce",
+      "kind": "phrasal-verb",
+      "text": "patch things up",
+      "translationFr": "se réconcilier",
+      "meaning": "to repair a relationship after a disagreement",
+      "example": "We met for coffee and managed to patch things up.",
+      "exampleFr": "Nous avons pris un café et réussi à nous réconcilier.",
+      "notes": "Informel ; suggère la réparation d’un conflit concret.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "relationships",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-8f7e964e91d8",
+      "kind": "idiom",
+      "text": "rub someone the wrong way",
+      "translationFr": "agacer instinctivement quelqu’un",
+      "meaning": "to annoy someone through one's manner",
+      "example": "His constant joking rubbed me the wrong way that evening.",
+      "exampleFr": "Ses plaisanteries incessantes m’ont agacé ce soir-là.",
+      "notes": "AmE courant ; BrE aussi rub someone up the wrong way.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "relationships",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-c92a8af4ed3b",
+      "kind": "idiom",
+      "text": "keep someone at arm's length",
+      "translationFr": "tenir quelqu’un à distance",
+      "meaning": "to avoid becoming emotionally close to someone",
+      "example": "I kept him at arm's length until I knew him better.",
+      "exampleFr": "Je l’ai tenu à distance jusqu’à mieux le connaître.",
+      "notes": "Distance affective ou relationnelle, pas forcément physique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-133f2b233898",
+      "kind": "expression",
+      "text": "be on good terms with",
+      "translationFr": "être en bons termes avec",
+      "meaning": "to have a friendly relationship with",
+      "example": "I'm still on good terms with my former housemates.",
+      "exampleFr": "Je suis toujours en bons termes avec mes anciens colocataires.",
+      "notes": "On good terms with ; terms est au pluriel.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "expression"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-dc211c094362",
+      "kind": "idiom",
+      "text": "take someone for granted",
+      "translationFr": "considérer quelqu’un comme acquis",
+      "meaning": "to fail to appreciate someone because they are always there",
+      "example": "I realised I had been taking my parents for granted.",
+      "exampleFr": "J’ai réalisé que je tenais la présence de mes parents pour acquise.",
+      "notes": "Take someone's support for granted est également naturel.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-71debaa16bb3",
+      "kind": "idiom",
+      "text": "meet someone halfway",
+      "translationFr": "faire un compromis avec quelqu’un",
+      "meaning": "to accept part of another person's wishes",
+      "example": "I was willing to meet her halfway about the holiday plans.",
+      "exampleFr": "J’étais prêt à faire un compromis sur le programme des vacances.",
+      "notes": "Au figuré : chacun fait une partie du chemin.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    },
+    {
+      "id": "v-d6f772f88778",
+      "kind": "word",
+      "text": "rapport",
+      "translationFr": "bonne entente spontanée",
+      "meaning": "a friendly connection that makes communication easy",
+      "example": "I built a good rapport with the people in my evening class.",
+      "exampleFr": "J’ai noué de bonnes relations avec les gens de mon cours du soir.",
+      "notes": "Build rapport with ; ne signifie pas un document écrit.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "relationships",
+        "word"
+      ],
+      "listIds": [
+        "pack-relationships"
+      ]
+    }
+  ]
+}

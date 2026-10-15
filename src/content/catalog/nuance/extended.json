@@ -1,0 +1,368 @@
+[
+  {
+    "id": "ns-hesitation",
+    "title": "reluctant · hesitant · wary",
+    "idea": "Hésiter pour des raisons différentes",
+    "takeaway": "Reluctant : peu envie. Hesitant : incertain. Wary : prudent face à un risque.",
+    "words": [
+      {
+        "word": "reluctant",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "On n’a pas vraiment envie de faire l’action, même si elle est possible.",
+        "collocations": [
+          "reluctant to agree",
+          "reluctant to leave"
+        ],
+        "example": "I was reluctant to leave the conversation unfinished."
+      },
+      {
+        "word": "hesitant",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "On hésite faute de certitude ou d’assurance.",
+        "collocations": [
+          "hesitant to commit",
+          "a hesitant reply"
+        ],
+        "example": "I was hesitant to answer before checking the date."
+      },
+      {
+        "word": "wary",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "On se méfie d’un danger ou d’un risque possible.",
+        "collocations": [
+          "wary of promises",
+          "wary of strangers"
+        ],
+        "example": "I am wary of offers that require payment immediately."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "Vous soupçonnez un risque : “I am ___ of offers that sound too good to be true.”",
+        "answer": "wary",
+        "why": "Wary of exprime la prudence devant un risque."
+      },
+      {
+        "prompt": "Vous ne voulez pas encore partir : “I was ___ to leave such good company.”",
+        "answer": "reluctant",
+        "why": "Reluctant porte sur le manque d’envie de partir."
+      },
+      {
+        "prompt": "Vous cherchez vos mots : “She gave a ___ reply, unsure of the facts.”",
+        "answer": "hesitant",
+        "why": "Le manque de certitude explique l’hésitation."
+      }
+    ]
+  },
+  {
+    "id": "ns-feasibility",
+    "title": "feasible · viable · workable",
+    "idea": "Dire qu’une solution peut fonctionner",
+    "takeaway": "Feasible : possible avec les moyens. Viable : capable de fonctionner durablement. Workable : applicable en pratique.",
+    "words": [
+      {
+        "word": "feasible",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Met l’accent sur les contraintes de réalisation.",
+        "collocations": [
+          "technically feasible",
+          "a feasible timetable"
+        ],
+        "example": "Finishing before noon is feasible if we start now."
+      },
+      {
+        "word": "viable",
+        "register": "professional",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Porte souvent sur la capacité à fonctionner ou à se maintenir.",
+        "collocations": [
+          "financially viable",
+          "a viable business"
+        ],
+        "example": "The service is only viable if enough people use it."
+      },
+      {
+        "word": "workable",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Assez pratique pour être mis en œuvre, même imparfait.",
+        "collocations": [
+          "a workable compromise",
+          "a workable solution"
+        ],
+        "example": "We need a workable compromise that both teams can use."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "Contrainte de temps : “Completing it in an hour is technically ___.”",
+        "answer": "feasible",
+        "why": "Feasible met l’accent sur la possibilité pratique."
+      },
+      {
+        "prompt": "Durée économique : “The shop needs more customers to remain financially ___.”",
+        "answer": "viable",
+        "why": "Financially viable est la collocation ciblée."
+      },
+      {
+        "prompt": "Compromis applicable : “It is not ideal, but it is a ___ compromise.”",
+        "answer": "workable",
+        "why": "Workable souligne qu’on peut l’utiliser malgré ses imperfections."
+      }
+    ]
+  },
+  {
+    "id": "ns-small-differences",
+    "title": "subtle · slight · faint",
+    "idea": "Trois façons de dire « peu marqué »",
+    "takeaway": "Subtle : difficile à remarquer ou fin. Slight : petit en degré. Faint : peu intense pour les sens.",
+    "words": [
+      {
+        "word": "subtle",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Une différence peut être importante malgré sa discrétion.",
+        "collocations": [
+          "a subtle distinction",
+          "subtle humour"
+        ],
+        "example": "There is a subtle distinction between the two promises."
+      },
+      {
+        "word": "slight",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Décrit simplement une faible ampleur.",
+        "collocations": [
+          "a slight delay",
+          "a slight increase"
+        ],
+        "example": "A slight delay would not affect the rest of the journey."
+      },
+      {
+        "word": "faint",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "S’applique souvent à une odeur, un son, une lumière ou une trace.",
+        "collocations": [
+          "a faint smell",
+          "a faint sound"
+        ],
+        "example": "I could hear a faint sound from the room next door."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "Différence difficile à saisir : “The two remarks have a ___ difference in tone.”",
+        "answer": "subtle",
+        "why": "Subtle souligne la finesse de la distinction."
+      },
+      {
+        "prompt": "Retard de quelques minutes : “There was only a ___ delay.”",
+        "answer": "slight",
+        "why": "Slight mesure la faible ampleur du retard."
+      },
+      {
+        "prompt": "Odeur à peine perceptible : “There was a ___ smell of smoke.”",
+        "answer": "faint",
+        "why": "Faint convient à une sensation de faible intensité."
+      }
+    ]
+  },
+  {
+    "id": "ns-directness",
+    "title": "candid · blunt · tactful",
+    "idea": "Choisir sa manière d’être franc",
+    "takeaway": "Candid met en avant la sincérité. Blunt, l’absence d’atténuation. Tactful, l’attention à l’effet sur l’autre.",
+    "words": [
+      {
+        "word": "candid",
+        "register": "neutral",
+        "connotation": "positive",
+        "frequency": "common",
+        "note": "Une franchise ouverte, y compris sur ses propres limites.",
+        "collocations": [
+          "a candid account",
+          "candid about mistakes"
+        ],
+        "example": "She was candid about the mistakes she had made."
+      },
+      {
+        "word": "blunt",
+        "register": "neutral",
+        "connotation": "negative",
+        "frequency": "common",
+        "note": "Peut paraître brusque ; le ton privilégie la netteté.",
+        "collocations": [
+          "a blunt refusal",
+          "to be blunt"
+        ],
+        "example": "His blunt refusal left little room for discussion."
+      },
+      {
+        "word": "tactful",
+        "register": "neutral",
+        "connotation": "positive",
+        "frequency": "common",
+        "note": "Choisit une forme délicate sans devoir cacher la vérité.",
+        "collocations": [
+          "a tactful response",
+          "a tactful suggestion"
+        ],
+        "example": "Her tactful suggestion helped me see the problem without feeling attacked."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "Reconnaissance sincère de ses erreurs : “She gave a ___ account of her own mistakes.”",
+        "answer": "candid",
+        "why": "Candid souligne l’ouverture et l’honnêteté."
+      },
+      {
+        "prompt": "Refus sans ménagement : “No, that is a terrible idea” was a ___ response.",
+        "answer": "blunt",
+        "why": "Blunt décrit une parole sans atténuation."
+      },
+      {
+        "prompt": "Délicatesse envers l’autre : “He found a ___ way to raise the issue.”",
+        "answer": "tactful",
+        "why": "Tactful met l’accent sur la forme attentive."
+      }
+    ]
+  },
+  {
+    "id": "ns-message",
+    "title": "imply · infer · assume",
+    "idea": "Qui sous-entend, qui déduit, qui suppose ?",
+    "takeaway": "Le locuteur implies. L’auditeur infers. Celui qui tient une idée pour acquise assumes.",
+    "words": [
+      {
+        "word": "imply",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Transmettre un sens sans l’énoncer directement.",
+        "collocations": [
+          "imply that",
+          "seem to imply"
+        ],
+        "example": "Her comment seemed to imply that I had not prepared."
+      },
+      {
+        "word": "infer",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Construire une conclusion à partir d’indices.",
+        "collocations": [
+          "infer from",
+          "infer that"
+        ],
+        "example": "I inferred from the silence that nobody wanted to answer."
+      },
+      {
+        "word": "assume",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Adopter une idée comme point de départ sans la vérifier.",
+        "collocations": [
+          "assume that",
+          "wrongly assume"
+        ],
+        "example": "I wrongly assumed that the ticket included lunch."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "Le message laisse entendre : “Your words ___ that the decision is already made.”",
+        "answer": "imply",
+        "why": "Le sens implicite vient des mots du locuteur."
+      },
+      {
+        "prompt": "Le récepteur tire une conclusion : “What can we ___ from these clues?”",
+        "answer": "infer",
+        "why": "Infer décrit le raisonnement à partir d’indices."
+      },
+      {
+        "prompt": "Sans vérification : “Do not ___ that everyone has a car.”",
+        "answer": "assume",
+        "why": "Assume signifie tenir quelque chose pour acquis."
+      }
+    ]
+  },
+  {
+    "id": "ns-fatigue",
+    "title": "tired · weary · drained",
+    "idea": "Préciser la fatigue",
+    "takeaway": "Tired est général. Weary évoque une lassitude prolongée. Drained suggère des ressources presque épuisées.",
+    "words": [
+      {
+        "word": "tired",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Mot courant pour un besoin de repos physique ou mental.",
+        "collocations": [
+          "feel tired",
+          "tired after work"
+        ],
+        "example": "I was tired after the long walk."
+      },
+      {
+        "word": "weary",
+        "register": "neutral",
+        "connotation": "negative",
+        "frequency": "common",
+        "note": "Fatigue liée à la durée ou à la répétition ; weary of signifie las de.",
+        "collocations": [
+          "weary of excuses",
+          "a weary smile"
+        ],
+        "example": "I grew weary of having the same argument every week."
+      },
+      {
+        "word": "drained",
+        "register": "neutral",
+        "connotation": "negative",
+        "frequency": "common",
+        "note": "Épuisement, souvent après une expérience émotionnelle exigeante.",
+        "collocations": [
+          "emotionally drained",
+          "feel completely drained"
+        ],
+        "example": "I felt emotionally drained after the difficult conversation."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "Fatigue ordinaire : “I went to bed early because I was ___.”",
+        "answer": "tired",
+        "why": "Le mot général suffit ; pas besoin d’intensifier."
+      },
+      {
+        "prompt": "Lassitude devant la répétition : “I am ___ of hearing the same excuses.”",
+        "answer": "weary",
+        "why": "Weary of exprime cette lassitude ; wary of serait méfiant."
+      },
+      {
+        "prompt": "Épuisement émotionnel : “I felt emotionally ___ after the argument.”",
+        "answer": "drained",
+        "why": "Emotionally drained est la collocation ciblée."
+      }
+    ]
+  }
+]

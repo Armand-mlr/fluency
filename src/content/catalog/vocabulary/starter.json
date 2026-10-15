@@ -1,0 +1,1006 @@
+{
+  "version": 1,
+  "lists": [
+    {
+      "id": "l-academic",
+      "name": "Academic vocabulary",
+      "color": "#4f6bed",
+      "description": "Essays, papers, reports."
+    },
+    {
+      "id": "l-advanced",
+      "name": "Advanced vocabulary",
+      "color": "#8b5cf6",
+      "description": "Precise C1–C2 words."
+    },
+    {
+      "id": "l-business",
+      "name": "Business English",
+      "color": "#0ea5a4",
+      "description": "Work, meetings, emails."
+    },
+    {
+      "id": "l-idioms",
+      "name": "Idioms",
+      "color": "#e8793b",
+      "description": "Fixed expressions fluent speakers use."
+    },
+    {
+      "id": "l-phrasal",
+      "name": "Phrasal verbs",
+      "color": "#d9467a",
+      "description": "Verb + particle, often non-literal."
+    },
+    {
+      "id": "l-forgetting",
+      "name": "Words I keep forgetting",
+      "color": "#ef4444",
+      "description": "Add anything that won't stick."
+    },
+    {
+      "id": "l-french",
+      "name": "French mistakes",
+      "color": "#2563eb",
+      "description": "False friends and French-shaped traps."
+    },
+    {
+      "id": "l-useful",
+      "name": "Useful expressions",
+      "color": "#16a34a",
+      "description": "Conversation glue."
+    },
+    {
+      "id": "l-formal",
+      "name": "Formal writing",
+      "color": "#475569",
+      "description": "Connectors and formulas for formal texts."
+    }
+  ],
+  "items": [
+    {
+      "id": "s-come-across",
+      "kind": "phrasal-verb",
+      "text": "to come across",
+      "meaning": "to find by chance; to give a particular impression",
+      "translationFr": "tomber sur ; donner l'impression d'être",
+      "example": "He came across as extremely confident during the interview.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "phrasal verb",
+        "personality"
+      ],
+      "listIds": [
+        "l-phrasal"
+      ]
+    },
+    {
+      "id": "s-put-off",
+      "kind": "phrasal-verb",
+      "text": "to put off",
+      "meaning": "to postpone; to discourage or repel",
+      "translationFr": "repousser ; rebuter",
+      "example": "We've put off the launch until the bugs are fixed.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "phrasal verb",
+        "work"
+      ],
+      "listIds": [
+        "l-phrasal"
+      ]
+    },
+    {
+      "id": "s-rule-out",
+      "kind": "phrasal-verb",
+      "text": "to rule out",
+      "meaning": "to exclude a possibility",
+      "translationFr": "écarter, exclure",
+      "example": "The team hasn't ruled out a second round of funding.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "phrasal verb",
+        "reasoning"
+      ],
+      "listIds": [
+        "l-phrasal"
+      ]
+    },
+    {
+      "id": "s-come-up-with",
+      "kind": "phrasal-verb",
+      "text": "to come up with",
+      "meaning": "to think of an idea or solution",
+      "translationFr": "trouver (une idée), imaginer",
+      "example": "She came up with a far simpler way to cache the results.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "phrasal verb",
+        "ideas"
+      ],
+      "listIds": [
+        "l-phrasal"
+      ]
+    },
+    {
+      "id": "s-fall-through",
+      "kind": "phrasal-verb",
+      "text": "to fall through",
+      "meaning": "(of a plan or deal) to fail to happen",
+      "translationFr": "tomber à l'eau",
+      "example": "The partnership fell through at the last minute.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "phrasal verb",
+        "business"
+      ],
+      "listIds": [
+        "l-phrasal",
+        "l-business"
+      ]
+    },
+    {
+      "id": "s-iron-out",
+      "kind": "phrasal-verb",
+      "text": "to iron out",
+      "meaning": "to resolve small remaining problems",
+      "translationFr": "régler, aplanir (des détails)",
+      "example": "We still need to iron out a few issues before the release.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "phrasal verb",
+        "work"
+      ],
+      "listIds": [
+        "l-phrasal",
+        "l-business"
+      ]
+    },
+    {
+      "id": "s-play-down",
+      "kind": "phrasal-verb",
+      "text": "to play down",
+      "meaning": "to make something seem less important than it is",
+      "translationFr": "minimiser",
+      "example": "The minister tried to play down the scale of the data breach.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "phrasal verb",
+        "news"
+      ],
+      "listIds": [
+        "l-phrasal"
+      ]
+    },
+    {
+      "id": "s-stem-from",
+      "kind": "phrasal-verb",
+      "text": "to stem from",
+      "meaning": "to be caused by; to originate in",
+      "translationFr": "provenir de, découler de",
+      "example": "Most of these bugs stem from a single design flaw.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "phrasal verb",
+        "cause"
+      ],
+      "listIds": [
+        "l-phrasal",
+        "l-academic"
+      ]
+    },
+    {
+      "id": "s-bring-up",
+      "kind": "phrasal-verb",
+      "text": "to bring up",
+      "meaning": "to mention a topic; to raise a child",
+      "translationFr": "aborder (un sujet) ; élever",
+      "example": "I didn't want to bring up the budget in front of the client.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "phrasal verb",
+        "conversation"
+      ],
+      "listIds": [
+        "l-phrasal"
+      ]
+    },
+    {
+      "id": "s-carry-out",
+      "kind": "phrasal-verb",
+      "text": "to carry out",
+      "meaning": "to perform or conduct (a task, study, test)",
+      "translationFr": "effectuer, mener",
+      "example": "The survey was carried out among 2,000 students.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "phrasal verb",
+        "academic"
+      ],
+      "listIds": [
+        "l-phrasal",
+        "l-academic"
+      ]
+    },
+    {
+      "id": "s-elephant",
+      "kind": "idiom",
+      "text": "the elephant in the room",
+      "meaning": "an obvious problem nobody wants to talk about",
+      "translationFr": "le sujet qui fâche, que tout le monde évite",
+      "example": "The elephant in the room is that nobody has actually tested the product.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "idiom",
+        "work"
+      ],
+      "listIds": [
+        "l-idioms"
+      ]
+    },
+    {
+      "id": "s-blessing",
+      "kind": "idiom",
+      "text": "a blessing in disguise",
+      "meaning": "something that seems bad but turns out to be good",
+      "translationFr": "un mal pour un bien",
+      "example": "Failing that exam was a blessing in disguise: I switched to computer science.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "idiom"
+      ],
+      "listIds": [
+        "l-idioms"
+      ]
+    },
+    {
+      "id": "s-cut-corners",
+      "kind": "idiom",
+      "text": "to cut corners",
+      "meaning": "to do something badly or cheaply to save time or money",
+      "translationFr": "bâcler, rogner sur la qualité",
+      "example": "If we cut corners on security now, we'll pay for it later.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "idiom",
+        "work"
+      ],
+      "listIds": [
+        "l-idioms"
+      ]
+    },
+    {
+      "id": "s-on-the-fence",
+      "kind": "idiom",
+      "text": "to be on the fence",
+      "meaning": "to be undecided",
+      "translationFr": "hésiter, ne pas avoir tranché",
+      "example": "I'm still on the fence about whether to accept the offer.",
+      "register": "casual",
+      "level": "C1",
+      "tags": [
+        "idiom",
+        "opinion"
+      ],
+      "listIds": [
+        "l-idioms"
+      ]
+    },
+    {
+      "id": "s-double-edged",
+      "kind": "idiom",
+      "text": "a double-edged sword",
+      "meaning": "something with both advantages and disadvantages",
+      "translationFr": "une arme à double tranchant",
+      "example": "Remote work is a double-edged sword: more freedom, less structure.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "idiom",
+        "argument"
+      ],
+      "listIds": [
+        "l-idioms"
+      ]
+    },
+    {
+      "id": "s-hang-of",
+      "kind": "idiom",
+      "text": "to get the hang of sth",
+      "meaning": "to learn how to do something, after some practice",
+      "translationFr": "prendre le coup de main",
+      "example": "It took me a week to get the hang of TypeScript generics.",
+      "register": "casual",
+      "level": "B2",
+      "tags": [
+        "idiom",
+        "learning"
+      ],
+      "listIds": [
+        "l-idioms"
+      ]
+    },
+    {
+      "id": "s-pull-weight",
+      "kind": "idiom",
+      "text": "to pull one's weight",
+      "meaning": "to do one's fair share of the work",
+      "translationFr": "faire sa part du travail",
+      "example": "Two people in the group project simply weren't pulling their weight.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "idiom",
+        "work"
+      ],
+      "listIds": [
+        "l-idioms"
+      ]
+    },
+    {
+      "id": "s-ball-court",
+      "kind": "idiom",
+      "text": "the ball is in your court",
+      "meaning": "it's your turn to act or decide",
+      "translationFr": "la balle est dans ton camp",
+      "example": "I've sent them the proposal, so the ball is in their court now.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "idiom"
+      ],
+      "listIds": [
+        "l-idioms"
+      ]
+    },
+    {
+      "id": "s-pinch-salt",
+      "kind": "idiom",
+      "text": "to take sth with a pinch of salt",
+      "meaning": "to be sceptical about something",
+      "translationFr": "prendre avec des pincettes",
+      "example": "Take those benchmark figures with a pinch of salt.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "idiom",
+        "news"
+      ],
+      "listIds": [
+        "l-idioms"
+      ]
+    },
+    {
+      "id": "s-underpin",
+      "kind": "word",
+      "text": "to underpin",
+      "meaning": "to form the basis or foundation of something",
+      "translationFr": "sous-tendre, étayer",
+      "example": "The theory that underpins this model is surprisingly simple.",
+      "register": "academic",
+      "level": "C1",
+      "tags": [
+        "academic",
+        "verb"
+      ],
+      "listIds": [
+        "l-academic"
+      ]
+    },
+    {
+      "id": "s-albeit",
+      "kind": "word",
+      "text": "albeit",
+      "meaning": "although (introducing a concession, often before an adjective or phrase)",
+      "translationFr": "bien que, quoique",
+      "example": "The results were encouraging, albeit based on a small sample.",
+      "register": "formal",
+      "level": "C1",
+      "tags": [
+        "academic",
+        "connector"
+      ],
+      "listIds": [
+        "l-academic",
+        "l-formal"
+      ]
+    },
+    {
+      "id": "s-hinge-on",
+      "kind": "phrasal-verb",
+      "text": "to hinge on",
+      "meaning": "to depend entirely on",
+      "translationFr": "dépendre entièrement de",
+      "example": "The whole argument hinges on a single disputed statistic.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "academic",
+        "reasoning"
+      ],
+      "listIds": [
+        "l-academic"
+      ]
+    },
+    {
+      "id": "s-shed-light",
+      "kind": "collocation",
+      "text": "to shed light on",
+      "meaning": "to help explain or clarify",
+      "translationFr": "éclairer, faire la lumière sur",
+      "example": "This study sheds light on how students actually use AI tools.",
+      "register": "formal",
+      "level": "C1",
+      "tags": [
+        "academic",
+        "collocation"
+      ],
+      "listIds": [
+        "l-academic"
+      ]
+    },
+    {
+      "id": "s-corroborate",
+      "kind": "word",
+      "text": "to corroborate",
+      "meaning": "to confirm or support with evidence",
+      "translationFr": "corroborer",
+      "example": "No other source corroborates his version of events.",
+      "register": "formal",
+      "level": "C2",
+      "tags": [
+        "academic",
+        "evidence"
+      ],
+      "listIds": [
+        "l-academic",
+        "l-advanced"
+      ]
+    },
+    {
+      "id": "s-preclude",
+      "kind": "word",
+      "text": "to preclude",
+      "meaning": "to prevent something from happening; to make impossible",
+      "translationFr": "exclure, empêcher",
+      "example": "A lack of funding precluded any further research.",
+      "register": "formal",
+      "level": "C2",
+      "tags": [
+        "academic",
+        "verb"
+      ],
+      "listIds": [
+        "l-academic",
+        "l-advanced"
+      ]
+    },
+    {
+      "id": "s-discrepancy",
+      "kind": "word",
+      "text": "a discrepancy",
+      "meaning": "a difference between things that should be the same",
+      "translationFr": "un écart, une divergence",
+      "example": "There is a discrepancy between the two sets of figures.",
+      "register": "formal",
+      "level": "C1",
+      "tags": [
+        "academic",
+        "data"
+      ],
+      "listIds": [
+        "l-academic"
+      ]
+    },
+    {
+      "id": "s-large-extent",
+      "kind": "expression",
+      "text": "to a large extent",
+      "meaning": "mostly; in many ways",
+      "translationFr": "dans une large mesure",
+      "example": "The project's success depends, to a large extent, on user adoption.",
+      "register": "formal",
+      "level": "B2",
+      "tags": [
+        "academic",
+        "hedging"
+      ],
+      "listIds": [
+        "l-academic",
+        "l-formal"
+      ]
+    },
+    {
+      "id": "s-detrimental",
+      "kind": "word",
+      "text": "detrimental (to)",
+      "meaning": "harmful, causing damage",
+      "translationFr": "nuisible, préjudiciable",
+      "example": "Constant notifications are detrimental to deep work.",
+      "register": "formal",
+      "level": "C1",
+      "tags": [
+        "adjective"
+      ],
+      "listIds": [
+        "l-advanced"
+      ]
+    },
+    {
+      "id": "s-commensurate",
+      "kind": "word",
+      "text": "commensurate with",
+      "meaning": "in proportion to; matching in size or degree",
+      "translationFr": "proportionnel à, en rapport avec",
+      "example": "Salary will be commensurate with experience.",
+      "register": "formal",
+      "level": "C2",
+      "tags": [
+        "adjective",
+        "business"
+      ],
+      "listIds": [
+        "l-advanced",
+        "l-business"
+      ]
+    },
+    {
+      "id": "s-convoluted",
+      "kind": "word",
+      "text": "convoluted",
+      "meaning": "unnecessarily complicated and hard to follow",
+      "translationFr": "alambiqué",
+      "example": "The documentation is so convoluted that nobody reads it.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "adjective"
+      ],
+      "listIds": [
+        "l-advanced"
+      ]
+    },
+    {
+      "id": "s-pervasive",
+      "kind": "word",
+      "text": "pervasive",
+      "meaning": "spreading widely through a group or area",
+      "translationFr": "omniprésent, envahissant",
+      "example": "There is a pervasive sense of uncertainty in the industry.",
+      "register": "formal",
+      "level": "C1",
+      "tags": [
+        "adjective"
+      ],
+      "listIds": [
+        "l-advanced"
+      ]
+    },
+    {
+      "id": "s-tentative",
+      "kind": "word",
+      "text": "tentative",
+      "meaning": "not certain or fixed; hesitant",
+      "translationFr": "provisoire ; hésitant",
+      "example": "We've reached a tentative agreement, pending legal review.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "adjective",
+        "business"
+      ],
+      "listIds": [
+        "l-advanced"
+      ]
+    },
+    {
+      "id": "s-candid",
+      "kind": "word",
+      "text": "candid",
+      "meaning": "truthful and direct, even when it's uncomfortable",
+      "translationFr": "franc, sincère",
+      "example": "Thanks for being so candid about what went wrong.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "adjective",
+        "personality"
+      ],
+      "listIds": [
+        "l-advanced"
+      ]
+    },
+    {
+      "id": "s-meticulous",
+      "kind": "word",
+      "text": "meticulous",
+      "meaning": "showing great attention to detail",
+      "translationFr": "méticuleux",
+      "example": "Her code reviews are meticulous but never pedantic.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "adjective",
+        "personality"
+      ],
+      "listIds": [
+        "l-advanced"
+      ]
+    },
+    {
+      "id": "s-leverage",
+      "kind": "word",
+      "text": "to leverage",
+      "meaning": "to use something to maximum advantage (business jargon)",
+      "translationFr": "tirer parti de, exploiter",
+      "example": "We can leverage our existing user base to test the feature.",
+      "register": "professional",
+      "level": "C1",
+      "tags": [
+        "business",
+        "jargon"
+      ],
+      "listIds": [
+        "l-business"
+      ]
+    },
+    {
+      "id": "s-bottleneck",
+      "kind": "word",
+      "text": "a bottleneck",
+      "meaning": "a point where progress slows down because of a limitation",
+      "translationFr": "un goulot d'étranglement",
+      "example": "Code review has become the main bottleneck in our workflow.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "business",
+        "tech"
+      ],
+      "listIds": [
+        "l-business"
+      ]
+    },
+    {
+      "id": "s-touch-base",
+      "kind": "expression",
+      "text": "to touch base (with)",
+      "meaning": "to briefly contact someone to catch up",
+      "translationFr": "faire un point rapide avec",
+      "example": "Let's touch base on Friday to see where we are.",
+      "register": "professional",
+      "level": "B2",
+      "tags": [
+        "business",
+        "email"
+      ],
+      "listIds": [
+        "l-business"
+      ]
+    },
+    {
+      "id": "s-streamline",
+      "kind": "word",
+      "text": "to streamline",
+      "meaning": "to make a process simpler and more efficient",
+      "translationFr": "rationaliser, simplifier",
+      "example": "We streamlined the onboarding process from five steps to two.",
+      "register": "professional",
+      "level": "C1",
+      "tags": [
+        "business",
+        "process"
+      ],
+      "listIds": [
+        "l-business"
+      ]
+    },
+    {
+      "id": "s-follow-up",
+      "kind": "phrasal-verb",
+      "text": "to follow up on",
+      "meaning": "to take further action about something already started",
+      "translationFr": "donner suite à, relancer",
+      "example": "I'm just following up on my email from last week.",
+      "register": "professional",
+      "level": "B2",
+      "tags": [
+        "business",
+        "email"
+      ],
+      "listIds": [
+        "l-business"
+      ]
+    },
+    {
+      "id": "s-in-light-of",
+      "kind": "expression",
+      "text": "in light of",
+      "meaning": "considering; because of (new information)",
+      "translationFr": "à la lumière de, compte tenu de",
+      "example": "In light of recent events, the conference has been postponed.",
+      "register": "formal",
+      "level": "C1",
+      "tags": [
+        "connector"
+      ],
+      "listIds": [
+        "l-formal"
+      ]
+    },
+    {
+      "id": "s-worth-noting",
+      "kind": "expression",
+      "text": "it is worth noting that",
+      "meaning": "introduces an important additional point",
+      "translationFr": "il convient de noter que",
+      "example": "It is worth noting that the sample excluded part-time students.",
+      "register": "formal",
+      "level": "C1",
+      "tags": [
+        "connector",
+        "academic"
+      ],
+      "listIds": [
+        "l-formal"
+      ]
+    },
+    {
+      "id": "s-thereby",
+      "kind": "word",
+      "text": "thereby",
+      "meaning": "as a result of this action",
+      "translationFr": "de ce fait, ainsi",
+      "example": "The update removes the cache, thereby reducing memory usage.",
+      "register": "formal",
+      "level": "C1",
+      "tags": [
+        "connector"
+      ],
+      "listIds": [
+        "l-formal"
+      ]
+    },
+    {
+      "id": "s-not-least",
+      "kind": "expression",
+      "text": "not least because",
+      "meaning": "an important reason being that",
+      "translationFr": "notamment parce que",
+      "example": "The plan is risky, not least because it relies on a single supplier.",
+      "register": "formal",
+      "level": "C2",
+      "tags": [
+        "connector",
+        "argument"
+      ],
+      "listIds": [
+        "l-formal"
+      ]
+    },
+    {
+      "id": "s-to-that-end",
+      "kind": "expression",
+      "text": "to that end",
+      "meaning": "in order to achieve that goal",
+      "translationFr": "à cette fin",
+      "example": "We aim to cut costs by 10%. To that end, we will renegotiate contracts.",
+      "register": "formal",
+      "level": "C1",
+      "tags": [
+        "connector"
+      ],
+      "listIds": [
+        "l-formal"
+      ]
+    },
+    {
+      "id": "s-that-said",
+      "kind": "expression",
+      "text": "that being said",
+      "meaning": "despite what I just said (introduces a contrast)",
+      "translationFr": "cela dit",
+      "example": "The plan is ambitious. That being said, it's not unrealistic.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "connector",
+        "conversation"
+      ],
+      "listIds": [
+        "l-useful"
+      ]
+    },
+    {
+      "id": "s-for-what-worth",
+      "kind": "expression",
+      "text": "for what it's worth",
+      "meaning": "a modest way to offer an opinion",
+      "translationFr": "si ça peut aider, pour ce que ça vaut",
+      "example": "For what it's worth, I think you made the right call.",
+      "register": "casual",
+      "level": "C1",
+      "tags": [
+        "conversation",
+        "hedging"
+      ],
+      "listIds": [
+        "l-useful"
+      ]
+    },
+    {
+      "id": "s-inclined",
+      "kind": "expression",
+      "text": "I'd be inclined to",
+      "meaning": "a soft, diplomatic way of giving an opinion or suggestion",
+      "translationFr": "j'aurais tendance à",
+      "example": "I'd be inclined to wait until we have more data.",
+      "register": "neutral",
+      "level": "C1",
+      "tags": [
+        "hedging",
+        "diplomacy"
+      ],
+      "listIds": [
+        "l-useful"
+      ]
+    },
+    {
+      "id": "s-goes-without",
+      "kind": "expression",
+      "text": "it goes without saying (that)",
+      "meaning": "it is obvious",
+      "translationFr": "il va sans dire",
+      "example": "It goes without saying that the data will remain confidential.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "conversation"
+      ],
+      "listIds": [
+        "l-useful"
+      ]
+    },
+    {
+      "id": "s-actually",
+      "kind": "word",
+      "text": "actually",
+      "meaning": "in fact, really (NOT 'currently')",
+      "translationFr": "en fait (≠ actuellement = currently)",
+      "example": "I thought the meeting was today, but it's actually tomorrow.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "false friend"
+      ],
+      "listIds": [
+        "l-french"
+      ]
+    },
+    {
+      "id": "s-eventually",
+      "kind": "word",
+      "text": "eventually",
+      "meaning": "in the end, after a long time (NOT 'possibly')",
+      "translationFr": "finalement (≠ éventuellement = possibly)",
+      "example": "After three failed attempts, the build eventually passed.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "false friend"
+      ],
+      "listIds": [
+        "l-french"
+      ]
+    },
+    {
+      "id": "s-sensible",
+      "kind": "word",
+      "text": "sensible",
+      "meaning": "reasonable, showing good judgement (NOT 'sensitive')",
+      "translationFr": "raisonnable, sensé (≠ sensible = sensitive)",
+      "example": "Backing up your data before the update is the sensible thing to do.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "false friend"
+      ],
+      "listIds": [
+        "l-french"
+      ]
+    },
+    {
+      "id": "s-attend",
+      "kind": "word",
+      "text": "to attend",
+      "meaning": "to be present at (a lecture, meeting, event)",
+      "translationFr": "assister à (≠ to assist = aider)",
+      "example": "Over 300 people attended the conference.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "false friend"
+      ],
+      "listIds": [
+        "l-french"
+      ]
+    },
+    {
+      "id": "s-realise",
+      "kind": "word",
+      "text": "to realise",
+      "meaning": "to become aware of (NOT 'to carry out a project')",
+      "translationFr": "se rendre compte (≠ réaliser un projet = to carry out)",
+      "example": "I only realised my mistake after I'd pushed the code.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "false friend"
+      ],
+      "listIds": [
+        "l-french"
+      ]
+    },
+    {
+      "id": "s-disappointment",
+      "kind": "word",
+      "text": "a disappointment",
+      "meaning": "the feeling when something is worse than expected (a 'deception' is a lie)",
+      "translationFr": "une déception (≠ deception = tromperie)",
+      "example": "The final season was a huge disappointment.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "false friend"
+      ],
+      "listIds": [
+        "l-french"
+      ]
+    },
+    {
+      "id": "s-pretend",
+      "kind": "word",
+      "text": "to pretend",
+      "meaning": "to act as if something is true when it isn't",
+      "translationFr": "faire semblant (≠ prétendre = to claim)",
+      "example": "He pretended not to notice the error in the report.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "false friend"
+      ],
+      "listIds": [
+        "l-french"
+      ]
+    },
+    {
+      "id": "s-claim",
+      "kind": "word",
+      "text": "to claim",
+      "meaning": "to say that something is true, without proof",
+      "translationFr": "prétendre, affirmer",
+      "example": "The company claims its model is twice as fast.",
+      "register": "neutral",
+      "level": "B2",
+      "tags": [
+        "false friend",
+        "reporting verb"
+      ],
+      "listIds": [
+        "l-french"
+      ]
+    }
+  ]
+}

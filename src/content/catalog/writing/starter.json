@@ -1,0 +1,317 @@
+[
+  {
+    "id": "wl-opinion",
+    "title": "Giving an opinion",
+    "context": "Essay / argument",
+    "goal": "Make the opinion sound considered, and the reason precise.",
+    "base": "My opinion is that this solution is good because it has many advantages.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "I believe this solution is particularly effective, largely because it offers several tangible benefits.",
+        "moves": [
+          "“My opinion is that” → “I believe”",
+          "vague “good” → evaluative “effective”",
+          "“has many advantages” → “offers several tangible benefits”",
+          "hedged cause: “largely because”"
+        ],
+        "why": "Stronger verbs (offers) and precise adjectives (tangible) do the work that “good” and “many” couldn't. “Largely” shows you've weighed other factors."
+      },
+      {
+        "level": "C2",
+        "text": "I would argue that this solution is particularly compelling, given the range of advantages it offers.",
+        "moves": [
+          "“I would argue that”: positions you in a debate",
+          "“compelling”: persuasive, not just good",
+          "“given…”: compact causal link replacing “because”",
+          "end-weight: the reason closes the sentence"
+        ],
+        "why": "“I would argue” signals an arguable claim, which sounds more intellectually honest than “I believe”. “Given + noun phrase” packs the reason into a phrase instead of a whole clause."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "To my mind, this is by far the strongest option on the table.",
+        "when": "Spoken, confident, meetings."
+      },
+      {
+        "text": "There is a strong case for adopting this solution.",
+        "when": "Impersonal, reports."
+      },
+      {
+        "text": "Honestly, I think this is our best bet.",
+        "when": "Casual, with colleagues."
+      }
+    ],
+    "register": "Neutral → formal/academic"
+  },
+  {
+    "id": "wl-problem",
+    "title": "Describing a problem",
+    "context": "Report / work email",
+    "goal": "Replace vague size words and make the consequence explicit.",
+    "base": "There is a big problem with the app because a lot of users can't log in.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "We are facing a significant issue with the app, as a large number of users are unable to log in.",
+        "moves": [
+          "“there is a big problem” → “we are facing a significant issue”",
+          "“a lot of” → “a large number of”",
+          "“can't” → “are unable to” (formal)"
+        ],
+        "why": "An active verb (facing) and a measured adjective (significant) sound more professional than “big”. “Issue” is the standard professional softener."
+      },
+      {
+        "level": "C2",
+        "text": "A login failure affecting a substantial proportion of our users is currently our most pressing concern.",
+        "moves": [
+          "nominalisation: “users can't log in” → “a login failure”",
+          "participle clause: “affecting…”",
+          "“substantial proportion”: precise quantity",
+          "prioritising: “our most pressing concern”"
+        ],
+        "why": "The whole problem becomes a single noun phrase subject, which lets you add a judgement at the end (most pressing concern). This is the backbone of formal reporting."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "Loads of people can't log in, so that's the big one right now.",
+        "when": "Casual Slack message."
+      },
+      {
+        "text": "We've identified a login issue affecting a number of users and are working on a fix.",
+        "when": "Client-facing status update: calm, reassuring."
+      }
+    ],
+    "register": "Casual → professional → formal"
+  },
+  {
+    "id": "wl-contrast",
+    "title": "Contrasting two ideas",
+    "context": "Essay",
+    "goal": "Link the two ideas with a single, well-built sentence.",
+    "base": "Online courses are cheap. But they are not very good for motivation.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "While online courses are relatively inexpensive, they tend to do little to sustain students' motivation.",
+        "moves": [
+          "subordination with “While”",
+          "“cheap” → “relatively inexpensive” (neutral, no negative nuance)",
+          "“not very good for” → “do little to sustain”",
+          "hedge: “tend to”"
+        ],
+        "why": "“Cheap” can imply poor quality: “inexpensive” is neutral. “Do little to + verb” is an elegant, natural negative."
+      },
+      {
+        "level": "C2",
+        "text": "Whatever online courses gain in affordability, they often lose in their capacity to keep students motivated.",
+        "moves": [
+          "parallel structure: gain in X / lose in Y",
+          "nominalisation: affordability, capacity",
+          "balanced rhythm"
+        ],
+        "why": "Parallelism makes the contrast feel inevitable. It's memorable and persuasive, but use it once per text, not in every paragraph."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "Online courses may be affordable, but motivation is another matter.",
+        "when": "Concise, slightly informal essay style."
+      },
+      {
+        "text": "Admittedly, online courses are affordable; however, they struggle to keep learners engaged.",
+        "when": "Formal, clear concession structure."
+      }
+    ],
+    "register": "Neutral → formal"
+  },
+  {
+    "id": "wl-important",
+    "title": "Saying something is important",
+    "context": "Academic writing",
+    "goal": "Avoid the overused “very important”.",
+    "base": "It is very important to protect personal data.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "Protecting personal data is essential.",
+        "moves": [
+          "gerund subject replaces “It is… to”",
+          "“very important” → “essential”"
+        ],
+        "why": "Shorter and stronger. Gradable adjectives with “very” are often a sign of a missing precise word (very important → essential, crucial, vital)."
+      },
+      {
+        "level": "C2",
+        "text": "The protection of personal data is not merely desirable but a fundamental prerequisite for public trust.",
+        "moves": [
+          "nominalisation: “the protection of”",
+          "“not merely X but Y”: gradation",
+          "specifying WHY it matters: “for public trust”"
+        ],
+        "why": "C2 writing doesn't just say something is important: it says for what, and how much. The “not merely… but” pattern escalates the claim."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "Data protection is non-negotiable.",
+        "when": "Punchy, business or opinion piece."
+      },
+      {
+        "text": "Personal data must be protected at all costs.",
+        "when": "Emphatic, speeches."
+      }
+    ],
+    "register": "Neutral → academic"
+  },
+  {
+    "id": "wl-result",
+    "title": "Expressing a result",
+    "context": "Report",
+    "goal": "Replace “so” and make the causal chain elegant.",
+    "base": "We changed the algorithm, so the app is faster now.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "Following changes to the algorithm, the app now runs significantly faster.",
+        "moves": [
+          "“Following + noun”: time + cause",
+          "“is faster” → “runs significantly faster”"
+        ],
+        "why": "“Following” moves the cause into a phrase and lets the result take the main clause, where the reader's attention is."
+      },
+      {
+        "level": "C2",
+        "text": "A redesign of the core algorithm has substantially reduced load times, thereby improving the overall user experience.",
+        "moves": [
+          "nominalisation: “a redesign of”",
+          "measurable result: “reduced load times”",
+          "“thereby + -ing”: a second consequence"
+        ],
+        "why": "“Thereby” chains a consequence of the consequence without starting a new sentence. It's formal: avoid it in speech."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "We reworked the algorithm and the app's noticeably quicker now.",
+        "when": "Casual update to your team."
+      },
+      {
+        "text": "As a result of the algorithm changes, performance has improved considerably.",
+        "when": "Neutral-formal, safe everywhere."
+      }
+    ],
+    "register": "Casual → formal"
+  },
+  {
+    "id": "wl-disagree",
+    "title": "Disagreeing politely",
+    "context": "Meeting / email",
+    "goal": "Disagree clearly without sounding aggressive.",
+    "base": "You are wrong, this plan will not work.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "I see where you're coming from, but I'm not convinced this plan will work.",
+        "moves": [
+          "acknowledge first: “I see where you're coming from”",
+          "“you are wrong” → “I'm not convinced” (shift the focus to yourself)"
+        ],
+        "why": "In English, disagreement is framed as your perception, not the other person's failure. This keeps the discussion on the idea."
+      },
+      {
+        "level": "C2",
+        "text": "I take your point, but I have some reservations about whether the plan is workable in its current form.",
+        "moves": [
+          "“I take your point”: concise acknowledgement",
+          "“I have some reservations”: diplomatic, still clear",
+          "“in its current form”: leaves room for improvement"
+        ],
+        "why": "“In its current form” turns a rejection into an invitation to revise it. Diplomacy is precision about what exactly you disagree with."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "I'm not sure that's going to fly, to be honest.",
+        "when": "Casual, with a colleague you know well."
+      },
+      {
+        "text": "With respect, I'd question some of the assumptions behind this plan.",
+        "when": "Formal meeting; note that “with respect” signals firm disagreement."
+      }
+    ],
+    "register": "Blunt → diplomatic"
+  },
+  {
+    "id": "wl-increase",
+    "title": "Describing a trend",
+    "context": "Data / report",
+    "goal": "Describe change with precise verbs and adverbs.",
+    "base": "The number of users went up a lot last year.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "The number of users rose sharply last year.",
+        "moves": [
+          "“went up” → “rose”",
+          "“a lot” → “sharply”"
+        ],
+        "why": "Trend verbs + adverbs: rose sharply / steadily / marginally; fell dramatically / slightly. They describe both direction and speed."
+      },
+      {
+        "level": "C2",
+        "text": "Last year saw a threefold increase in the number of users, far outpacing initial projections.",
+        "moves": [
+          "time as subject: “Last year saw…”",
+          "precise quantity: “a threefold increase”",
+          "comparison with expectations: “far outpacing initial projections”"
+        ],
+        "why": "“[Time period] saw + noun” is a typical report structure. Adding a reference point (projections) gives the number meaning."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "User numbers tripled last year.",
+        "when": "Concise and powerful: often the best choice."
+      }
+    ],
+    "register": "Neutral → formal"
+  },
+  {
+    "id": "wl-conclusion",
+    "title": "Concluding",
+    "context": "Essay",
+    "goal": "Avoid “In conclusion, I think…” and end with a real synthesis.",
+    "base": "In conclusion, I think social media has good and bad sides.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "Ultimately, social media is neither inherently good nor bad; its impact depends largely on how it is used.",
+        "moves": [
+          "“Ultimately” instead of “In conclusion”",
+          "“neither… nor” balances the view",
+          "“its impact depends on…”: a real claim"
+        ],
+        "why": "A good conclusion doesn't restate that there are two sides: it says what decides between them."
+      },
+      {
+        "level": "C2",
+        "text": "The question, then, is not whether social media is harmful, but under what conditions it becomes so, and who should be responsible for setting them.",
+        "moves": [
+          "reframing: “The question, then, is not… but…”",
+          "opens a wider perspective (responsibility)"
+        ],
+        "why": "Reframing the question is the hallmark of a mature conclusion: it shows you've understood what the debate is really about."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "On balance, the benefits seem to outweigh the drawbacks, provided that…",
+        "when": "When you want to take a side, with a condition."
+      }
+    ],
+    "register": "Neutral → academic"
+  }
+]

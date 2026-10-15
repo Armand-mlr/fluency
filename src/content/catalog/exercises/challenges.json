@@ -1,0 +1,311 @@
+[
+  {
+    "id": "ch-argue-against",
+    "skills": [
+      "writing",
+      "structure"
+    ],
+    "tags": [
+      "argument",
+      "counter-argument"
+    ],
+    "context": "tech",
+    "instruction": "Argue AGAINST the statement in about 150 words.",
+    "prompt": "“Learning foreign languages will soon be pointless because real-time AI translation is good enough.”",
+    "model": "The claim that AI translation will make language learning obsolete rests on a narrow view of what languages are for. Translation tools are undeniably impressive at conveying literal meaning, yet communication is rarely just literal. Humour, irony, tact and the ability to read a room all depend on a feel for the language that no earpiece can supply in real time. Moreover, learning a language reshapes how one thinks: it forces us to notice distinctions our mother tongue ignores. There is also a practical point: relationships, whether professional or personal, are built on the effort of meeting someone in their own language, and that effort is precisely what a machine removes. AI will certainly lower the barrier to basic exchanges, but it is more likely to raise the value of genuine fluency than to eliminate it.",
+    "rubric": [
+      "Clear rejection of the claim early on",
+      "At least two distinct arguments, each developed",
+      "Acknowledges what is true in the claim (concession)",
+      "Uses cohesive devices beyond “firstly / secondly” (Moreover, yet, precisely…)",
+      "Strong closing sentence that reframes the issue",
+      "About 130–170 words"
+    ],
+    "minWords": 120,
+    "maxWords": 190,
+    "estSeconds": 600,
+    "difficulty": 76,
+    "origin": "bank",
+    "type": "free"
+  },
+  {
+    "id": "ch-native-pro",
+    "skills": [
+      "writing",
+      "register"
+    ],
+    "tags": [
+      "rewriting",
+      "professional register",
+      "style"
+    ],
+    "context": "work",
+    "instruction": "Rewrite this paragraph so it sounds like a well-educated native speaker writing in a professional context.",
+    "prompt": "In this project, we have made a lot of efforts to ameliorate the performances of the application. Actually, the time of loading is reduced of 40%. However, it rests some problems that we must to resolve before the end of the month.",
+    "answers": [],
+    "mustInclude": [
+      [
+        "improve"
+      ],
+      [
+        "performance\\b"
+      ],
+      [
+        "load(ing)? time"
+      ],
+      [
+        "by 40"
+      ],
+      [
+        "remain|outstanding|still"
+      ]
+    ],
+    "mustAvoid": [
+      "ameliorate",
+      "performances",
+      "actually",
+      "time of loading",
+      "reduced of",
+      "it rests",
+      "must to"
+    ],
+    "model": "Over the course of this project, we have worked hard to improve the application's performance. Load times are now 40% shorter. A few issues remain, however, and we aim to resolve them by the end of the month.",
+    "explanation": "Fixes: “make efforts” → “work hard / put a lot of effort into”; “ameliorate” (rare, formal, about bad situations) → “improve”; “performance” is uncountable here; “actually” ≠ “currently”; “time of loading” → “load time”; “reduced BY 40%”; “it rests” (il reste) → “a few issues remain”; modal + base verb (must resolve).",
+    "difficulty": 86,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "ch-economic-set",
+    "skills": [
+      "nuance",
+      "precision"
+    ],
+    "tags": [
+      "confusables",
+      "economics",
+      "explain"
+    ],
+    "context": "news",
+    "instruction": "Explain the difference and use each word in an appropriate sentence.",
+    "prompt": "economic  /  economical  /  financial  /  fiscal",
+    "model": "Economic = relating to the economy (The country is in an economic slump). Economical = not wasteful, cheap to run (Small cars are more economical). Financial = relating to money and its management, for people or organisations (She had financial difficulties at university). Fiscal = relating to government revenue, taxes and public spending (The government announced new fiscal rules).",
+    "rubric": [
+      "All four meanings correct",
+      "Economic vs economical clearly distinguished",
+      "Fiscal linked to government/taxation",
+      "Four natural example sentences"
+    ],
+    "estSeconds": 300,
+    "difficulty": 76,
+    "origin": "bank",
+    "type": "explain"
+  },
+  {
+    "id": "ch-diplomatic",
+    "skills": [
+      "register",
+      "nuance"
+    ],
+    "tags": [
+      "diplomacy",
+      "feedback",
+      "hedging"
+    ],
+    "context": "work",
+    "instruction": "Turn this blunt feedback into diplomatic but still clear feedback to a colleague.",
+    "prompt": "Your code is messy and nobody can understand it. Rewrite it.",
+    "answers": [],
+    "mustInclude": [
+      [
+        "might|could|would|perhaps|wonder|worth"
+      ],
+      [
+        "read|understand|follow|clear|maintain"
+      ]
+    ],
+    "mustAvoid": [
+      "messy",
+      "nobody can",
+      "^rewrite it"
+    ],
+    "model": "I think the logic here is sound, but some parts are quite hard to follow. Would it be worth refactoring the main function and adding a few comments so the rest of the team can maintain it more easily?",
+    "explanation": "Diplomatic English: acknowledge something positive, soften the criticism (quite hard to follow, rather than messy), make the request a question (Would it be worth…?), and give a reason focused on the shared goal (the team can maintain it). Softened ≠ vague: the request is still clear.",
+    "difficulty": 76,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "ch-hedge-academic",
+    "skills": [
+      "register",
+      "precision"
+    ],
+    "tags": [
+      "hedging",
+      "academic"
+    ],
+    "context": "academic",
+    "instruction": "Rewrite this claim with appropriate academic hedging (it's based on one small study).",
+    "prompt": "Social media causes depression in teenagers.",
+    "answers": [],
+    "mustInclude": [
+      [
+        "may|might|could|appear|suggest|associated|linked|correlat"
+      ]
+    ],
+    "mustAvoid": [
+      "^social media causes depression"
+    ],
+    "model": "Heavy social media use appears to be associated with a higher risk of depressive symptoms among adolescents, although a causal link has yet to be established.",
+    "explanation": "Hedging calibrates a claim to the evidence: “appears to be associated” (correlation, not causation), “higher risk of depressive symptoms” (more precise than “depression”), “has yet to be established”. Over-hedging is also a flaw: one or two hedges per claim is enough.",
+    "difficulty": 76,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "ch-tr-nuance",
+    "skills": [
+      "paraphrase",
+      "idioms"
+    ],
+    "tags": [
+      "translation",
+      "idiomatic"
+    ],
+    "context": "work",
+    "instruction": "Translate idiomatically: don't translate word for word.",
+    "prompt": "On ne va pas se mentir : ce projet a été un vrai casse-tête, mais on s'en est plutôt bien sortis.",
+    "answers": [],
+    "mustInclude": [
+      [
+        "let's (be honest|face it)|not going to lie|to be honest|admittedly"
+      ],
+      [
+        "headache|nightmare|pain|struggle"
+      ],
+      [
+        "pretty well|fairly well|quite well|not too badly|all right|okay|ok"
+      ]
+    ],
+    "mustAvoid": [
+      "we will not lie",
+      "we won't lie to ourselves",
+      "head.?breaker"
+    ],
+    "model": "Let's be honest: this project was a real headache, but we came out of it pretty well.",
+    "explanation": "“On ne va pas se mentir” → “Let's be honest / Let's face it”. “Casse-tête” → “headache” (or “nightmare” if it was worse). “S'en sortir plutôt bien” → “come out of it pretty well / do pretty well”. Idiomatic translation = same function, not same words.",
+    "difficulty": 86,
+    "origin": "bank",
+    "type": "translate"
+  },
+  {
+    "id": "ch-reformulate-3",
+    "skills": [
+      "paraphrase",
+      "register"
+    ],
+    "tags": [
+      "register ladder",
+      "reformulation"
+    ],
+    "context": "work",
+    "instruction": "Express the same idea three ways: casual (to a friend), professional (email to your manager), formal (report).",
+    "prompt": "Idea: the new tool is much faster but a lot of people on the team don't like it.",
+    "model": "Casual: “The new tool's way faster, but loads of people on the team hate it.”\nProfessional: “The new tool is significantly faster, although quite a few team members aren't keen on it yet.”\nFormal: “While the new tool offers a substantial improvement in speed, its adoption has met with considerable resistance within the team.”",
+    "rubric": [
+      "Three distinct registers, each consistent",
+      "Casual uses contractions and informal words",
+      "Professional stays polite and softened",
+      "Formal uses nominalisation / impersonal structure"
+    ],
+    "estSeconds": 300,
+    "difficulty": 76,
+    "origin": "bank",
+    "type": "free"
+  },
+  {
+    "id": "ch-intro",
+    "skills": [
+      "writing",
+      "structure"
+    ],
+    "tags": [
+      "essay",
+      "introduction"
+    ],
+    "context": "academic",
+    "instruction": "Write the introduction (70–100 words) of an essay on this question.",
+    "prompt": "“To what extent should governments regulate artificial intelligence?”",
+    "model": "Few technologies have moved from research labs into everyday life as quickly as artificial intelligence. Its potential benefits, from faster medical diagnoses to more efficient public services, are considerable; so too are the risks, including large-scale misinformation and opaque decision-making. The question, then, is not whether AI should be regulated, but how far regulation can go without stifling innovation. This essay argues that governments should impose strict rules on high-risk applications while leaving low-risk uses largely to industry standards.",
+    "rubric": [
+      "A hook that isn't a cliché (“Nowadays…”, “Since the dawn of time…”)",
+      "Context: why the question matters",
+      "Reframes the question",
+      "A clear thesis statement at the end"
+    ],
+    "minWords": 60,
+    "maxWords": 120,
+    "estSeconds": 420,
+    "difficulty": 76,
+    "origin": "bank",
+    "type": "free"
+  },
+  {
+    "id": "ch-nuance-imply",
+    "skills": [
+      "nuance",
+      "reading"
+    ],
+    "tags": [
+      "implied meaning",
+      "explain"
+    ],
+    "context": "work",
+    "instruction": "What does each version imply about the speaker's attitude? Explain briefly.",
+    "prompt": "A: “She's quite good at her job.”\nB: “She's rather good at her job.”\nC: “She's pretty good at her job.”",
+    "model": "In British English, “quite good” is often lukewarm (fairly good, not great). “Rather good” tends to express mild, understated approval or even surprise at how good she is. “Pretty good” is informal and generally positive. In American English, “quite good” leans more positive. Intonation matters a lot.",
+    "rubric": [
+      "Notices that “quite” can be lukewarm in British English",
+      "Notes “rather” as understated approval",
+      "Notes the register of “pretty”"
+    ],
+    "estSeconds": 180,
+    "difficulty": 86,
+    "origin": "bank",
+    "type": "explain"
+  },
+  {
+    "id": "ch-concise",
+    "skills": [
+      "precision",
+      "writing"
+    ],
+    "tags": [
+      "concision",
+      "style"
+    ],
+    "context": "work",
+    "instruction": "Cut this sentence to 15 words or fewer without losing information.",
+    "prompt": "Due to the fact that there are a large number of users who are not able to log in at the present time, we have made the decision to postpone the update.",
+    "answers": [],
+    "mustInclude": [
+      [
+        "because|as|since|with"
+      ],
+      [
+        "postpon|delay"
+      ]
+    ],
+    "mustAvoid": [
+      "due to the fact",
+      "at the present time",
+      "made the decision"
+    ],
+    "model": "Because many users currently can't log in, we've decided to postpone the update.",
+    "explanation": "Precision is often subtraction: “due to the fact that” → because; “a large number of” → many; “at the present time” → currently; “made the decision to” → decided to. Nominal padding hides the verb.",
+    "difficulty": 76,
+    "origin": "bank",
+    "type": "rewrite"
+  }
+]

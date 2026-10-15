@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "actions",
+  "title": "Actions & phrasal verbs",
+  "description": "Des constructions utiles à réemployer spontanément.",
+  "color": "#ac7840",
+  "items": [
+    {
+      "id": "v-5665c5e4c077",
+      "kind": "phrasal-verb",
+      "text": "brush up on",
+      "translationFr": "rafraîchir ses connaissances en",
+      "meaning": "to improve knowledge or skill already partly learned",
+      "example": "I brushed up on my Spanish before visiting my aunt.",
+      "exampleFr": "J’ai révisé mon espagnol avant de rendre visite à ma tante.",
+      "notes": "Brush up on ; réactivation, pas apprentissage de zéro.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-1d80d445b808",
+      "kind": "phrasal-verb",
+      "text": "catch on",
+      "translationFr": "comprendre enfin",
+      "meaning": "to begin understanding something",
+      "example": "I was confused at first, but I soon caught on.",
+      "exampleFr": "J’étais perdu au départ, mais j’ai vite compris.",
+      "notes": "Catch on ; peut aussi signifier devenir populaire.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-3ebd55820ebd",
+      "kind": "phrasal-verb",
+      "text": "catch up with",
+      "translationFr": "rattraper un retard sur",
+      "meaning": "to reach the same stage as someone else",
+      "example": "I worked through the notes to catch up with the rest of the class.",
+      "exampleFr": "J’ai étudié les notes pour rattraper le reste de la classe.",
+      "notes": "Catch up with someone ; aussi échanger des nouvelles selon le contexte.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-a84a04d14ae6",
+      "kind": "phrasal-verb",
+      "text": "keep up with",
+      "translationFr": "suivre le rythme de",
+      "meaning": "to progress at the same speed as something",
+      "example": "I found it hard to keep up with the fast conversation.",
+      "exampleFr": "J’avais du mal à suivre la conversation rapide.",
+      "notes": "Keep up with ; maintenir le rythme, sans retard préalable nécessaire.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-ef2f5a1797c1",
+      "kind": "phrasal-verb",
+      "text": "get around to",
+      "translationFr": "trouver enfin le temps de",
+      "meaning": "to finally do something after a delay",
+      "example": "I finally got around to sorting the photos from our trip.",
+      "exampleFr": "J’ai enfin trouvé le temps de trier les photos du voyage.",
+      "notes": "Get around to + -ing ; to est une préposition.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-37e8320b5e88",
+      "kind": "phrasal-verb",
+      "text": "knuckle down",
+      "translationFr": "se mettre sérieusement au travail",
+      "meaning": "to begin working with serious effort",
+      "example": "I knuckled down after lunch and finished the application.",
+      "exampleFr": "Je me suis mis sérieusement au travail après le déjeuner et j’ai terminé le dossier.",
+      "notes": "Knuckle down to work ; surtout BrE, informel.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-2ddcfdeedde6",
+      "kind": "phrasal-verb",
+      "text": "plough through",
+      "translationFr": "venir à bout de laborieusement",
+      "meaning": "to work through a large or difficult amount",
+      "example": "I ploughed through the paperwork before opening my emails.",
+      "exampleFr": "Je suis venu à bout des démarches avant d’ouvrir mes courriels.",
+      "notes": "BrE plough, AmE plow ; effort face à un volume important.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-8dcf5c6bb900",
+      "kind": "phrasal-verb",
+      "text": "muddle through",
+      "translationFr": "se débrouiller tant bien que mal",
+      "meaning": "to manage despite limited knowledge or planning",
+      "example": "I muddled through the first week with help from my neighbours.",
+      "exampleFr": "Je me suis débrouillé tant bien que mal la première semaine grâce aux voisins.",
+      "notes": "Succès approximatif, sans maîtrise complète.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-09ec462abd99",
+      "kind": "phrasal-verb",
+      "text": "suss out",
+      "translationFr": "comprendre en observant",
+      "meaning": "to work out how something or someone functions",
+      "example": "I needed a few days to suss out the bus system.",
+      "exampleFr": "Il m’a fallu quelques jours pour comprendre le réseau de bus.",
+      "notes": "BrE familier ; suss someone out pour cerner une personne.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-7c63de27beb6",
+      "kind": "phrasal-verb",
+      "text": "figure out",
+      "translationFr": "trouver la solution à",
+      "meaning": "to understand or solve something through thought",
+      "example": "I couldn't figure out why the door wouldn't lock.",
+      "exampleFr": "Je n’arrivais pas à comprendre pourquoi la porte ne fermait pas.",
+      "notes": "Figure out how/why ; figure it out, pronom au milieu.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-61ab64db00c6",
+      "kind": "phrasal-verb",
+      "text": "narrow down",
+      "translationFr": "réduire le nombre de possibilités",
+      "meaning": "to reduce a set of choices",
+      "example": "I narrowed down the search to three neighbourhoods.",
+      "exampleFr": "J’ai limité ma recherche à trois quartiers.",
+      "notes": "Narrow something down to ; sélection progressive.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-8b52167a3c61",
+      "kind": "phrasal-verb",
+      "text": "single out",
+      "translationFr": "distinguer une personne ou un élément",
+      "meaning": "to select one person or thing for special attention",
+      "example": "I felt uncomfortable when she singled me out for praise.",
+      "exampleFr": "J’étais gêné quand elle m’a distingué pour me féliciter.",
+      "notes": "Single someone out for ; attention positive ou négative.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-dd1b32afe8a3",
+      "kind": "phrasal-verb",
+      "text": "pick up on",
+      "translationFr": "remarquer un indice",
+      "meaning": "to notice something subtle",
+      "example": "I picked up on the hesitation in his voice.",
+      "exampleFr": "J’ai remarqué l’hésitation dans sa voix.",
+      "notes": "Pick up on a cue ; pas simplement ramasser.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-c663a53d6e4b",
+      "kind": "phrasal-verb",
+      "text": "gloss over",
+      "translationFr": "passer rapidement sur",
+      "meaning": "to avoid discussing an unpleasant detail fully",
+      "example": "I glossed over the argument when describing the holiday.",
+      "exampleFr": "J’ai passé rapidement sur la dispute en racontant les vacances.",
+      "notes": "Gloss over a problem ; atténue ou cache les détails gênants.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-b5b8279070ea",
+      "kind": "phrasal-verb",
+      "text": "skim over",
+      "translationFr": "parcourir rapidement",
+      "meaning": "to read or look at something without much detail",
+      "example": "I skimmed over the instructions and missed a crucial step.",
+      "exampleFr": "J’ai parcouru les instructions trop vite et raté une étape essentielle.",
+      "notes": "Skim over ; vitesse de lecture, pas forcément dissimulation.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-86f413077f59",
+      "kind": "phrasal-verb",
+      "text": "wade through",
+      "translationFr": "se frayer un chemin dans une masse de contenu",
+      "meaning": "to read or deal with a large amount of difficult material",
+      "example": "I waded through dozens of reviews before choosing a course.",
+      "exampleFr": "J’ai parcouru laborieusement des dizaines d’avis avant de choisir une formation.",
+      "notes": "Wade through paperwork ; image d’un effort lent.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-593895229a9d",
+      "kind": "phrasal-verb",
+      "text": "read up on",
+      "translationFr": "se documenter sur",
+      "meaning": "to learn about something by reading",
+      "example": "I read up on the local customs before the trip.",
+      "exampleFr": "Je me suis documenté sur les coutumes locales avant le voyage.",
+      "notes": "Read up on a topic ; lecture préparatoire ciblée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-4513c1cfd89c",
+      "kind": "phrasal-verb",
+      "text": "look back on",
+      "translationFr": "repenser à une période passée",
+      "meaning": "to think about something in the past",
+      "example": "I look back on that summer with more fondness than I expected.",
+      "exampleFr": "Je repense à cet été avec plus de tendresse que prévu.",
+      "notes": "Look back on something ; regard rétrospectif.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-bc7aa4df384a",
+      "kind": "phrasal-verb",
+      "text": "look forward to",
+      "translationFr": "attendre avec plaisir",
+      "meaning": "to feel pleased about something that will happen",
+      "example": "I'm looking forward to seeing everyone after such a long break.",
+      "exampleFr": "J’ai hâte de revoir tout le monde après une si longue pause.",
+      "notes": "To est une préposition : looking forward to seeing, pas to see.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-aaf5ec0700be",
+      "kind": "phrasal-verb",
+      "text": "live up to",
+      "translationFr": "être à la hauteur de",
+      "meaning": "to be as good as expected",
+      "example": "The weekend lived up to everything my friends had promised.",
+      "exampleFr": "Le week-end a été à la hauteur de ce que mes amis avaient promis.",
+      "notes": "Live up to expectations ; comparaison à un standard attendu.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-dcfeaa52503b",
+      "kind": "phrasal-verb",
+      "text": "own up to",
+      "translationFr": "avouer",
+      "meaning": "to admit responsibility for something wrong",
+      "example": "I owned up to breaking the cup before anyone noticed.",
+      "exampleFr": "J’ai avoué avoir cassé la tasse avant que quelqu’un le remarque.",
+      "notes": "Own up to + nom ou -ing ; reconnaissance de sa faute.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-77899515164c",
+      "kind": "phrasal-verb",
+      "text": "crop up",
+      "translationFr": "survenir de façon imprévue",
+      "meaning": "to appear or happen unexpectedly",
+      "example": "A last-minute problem cropped up while I was packing.",
+      "exampleFr": "Un problème de dernière minute est survenu pendant que je préparais mes affaires.",
+      "notes": "A problem/question crops up ; événement inattendu.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-6536311f2e70",
+      "kind": "phrasal-verb",
+      "text": "come clean about",
+      "translationFr": "dire enfin la vérité sur",
+      "meaning": "to reveal something previously hidden",
+      "example": "I came clean about why I had missed the meeting.",
+      "exampleFr": "J’ai enfin dit la vérité sur mon absence à la réunion.",
+      "notes": "Come clean with someone about something.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-4efd674b4c92",
+      "kind": "phrasal-verb",
+      "text": "back someone up",
+      "translationFr": "appuyer ce que dit quelqu’un",
+      "meaning": "to support someone's account or position",
+      "example": "My colleague backed me up when I explained what had happened.",
+      "exampleFr": "Mon collègue a confirmé mes propos quand j’ai expliqué les faits.",
+      "notes": "Back someone up ; aussi sauvegarder des fichiers, selon l’objet.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-a6d25eeb1354",
+      "kind": "phrasal-verb",
+      "text": "stick up for",
+      "translationFr": "prendre la défense de",
+      "meaning": "to defend someone who is being criticised",
+      "example": "I was grateful that she stuck up for me.",
+      "exampleFr": "J’étais reconnaissant qu’elle ait pris ma défense.",
+      "notes": "Conversationnel ; proche de stand up for.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-c09aff881266",
+      "kind": "phrasal-verb",
+      "text": "side with",
+      "translationFr": "prendre parti pour",
+      "meaning": "to support one side in a disagreement",
+      "example": "I didn't want to side with either friend in the argument.",
+      "exampleFr": "Je ne voulais prendre parti pour aucun de mes deux amis dans la dispute.",
+      "notes": "Side with someone against someone ; choix d’un camp.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-82a9b5ce7f21",
+      "kind": "phrasal-verb",
+      "text": "smooth over",
+      "translationFr": "apaiser une difficulté relationnelle",
+      "meaning": "to make a disagreement seem less serious or easier to accept",
+      "example": "I tried to smooth over the awkward moment with a joke.",
+      "exampleFr": "J’ai essayé d’apaiser le moment gênant avec une plaisanterie.",
+      "notes": "Smooth over a disagreement ; peut masquer sans résoudre le fond.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-6af0135db532",
+      "kind": "phrasal-verb",
+      "text": "talk someone into",
+      "translationFr": "convaincre quelqu’un de faire",
+      "meaning": "to persuade someone to do something",
+      "example": "My sister talked me into joining her on the hike.",
+      "exampleFr": "Ma sœur m’a convaincu de l’accompagner en randonnée.",
+      "notes": "Talk someone into + -ing ; persuasion aboutie.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-b94aedb884ba",
+      "kind": "phrasal-verb",
+      "text": "talk someone out of",
+      "translationFr": "dissuader quelqu’un de",
+      "meaning": "to persuade someone not to do something",
+      "example": "I tried to talk him out of driving through the storm.",
+      "exampleFr": "J’ai essayé de le dissuader de conduire dans la tempête.",
+      "notes": "Talk someone out of + -ing.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-f3cc0b7af175",
+      "kind": "phrasal-verb",
+      "text": "bounce back",
+      "translationFr": "rebondir après une difficulté",
+      "meaning": "to recover after a setback",
+      "example": "I needed a few weeks to bounce back after the rejection.",
+      "exampleFr": "Il m’a fallu quelques semaines pour rebondir après le refus.",
+      "notes": "Bounce back from ; récupération, souvent avec regain d’énergie.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-ed7da4e97ff4",
+      "kind": "phrasal-verb",
+      "text": "pull through",
+      "translationFr": "s’en sortir après une épreuve grave",
+      "meaning": "to survive or recover from serious difficulty",
+      "example": "The shop pulled through a very difficult winter.",
+      "exampleFr": "Le magasin s’en est sorti après un hiver très difficile.",
+      "notes": "Souvent maladie ou crise ; plus grave que petit contretemps.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-3e7d372f6673",
+      "kind": "phrasal-verb",
+      "text": "burn out",
+      "translationFr": "s’épuiser à force de trop travailler",
+      "meaning": "to become exhausted through prolonged stress",
+      "example": "I realised I would burn out if I kept working every evening.",
+      "exampleFr": "J’ai compris que je m’épuiserais en continuant à travailler chaque soir.",
+      "notes": "Verbe burn out ; nom burnout.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-a836418e703b",
+      "kind": "phrasal-verb",
+      "text": "wind down",
+      "translationFr": "décompresser progressivement",
+      "meaning": "to relax after activity",
+      "example": "I read for half an hour to wind down before bed.",
+      "exampleFr": "Je lis une demi-heure pour décompresser avant de me coucher.",
+      "notes": "Wind down ; aussi réduire progressivement une activité.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-08a500a72516",
+      "kind": "phrasal-verb",
+      "text": "switch off",
+      "translationFr": "décrocher mentalement",
+      "meaning": "to stop thinking about work or worries",
+      "example": "I find it hard to switch off when my phone keeps buzzing.",
+      "exampleFr": "J’ai du mal à décrocher quand mon téléphone vibre sans arrêt.",
+      "notes": "Sens figuré sans objet ; switch off a lamp est littéral.",
+      "level": "B2+",
+      "register": "casual",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-1470fd2cc0d5",
+      "kind": "phrasal-verb",
+      "text": "shrug off",
+      "translationFr": "ne pas se laisser affecter par",
+      "meaning": "to dismiss something as unimportant",
+      "example": "I tried to shrug off the comment and enjoy the evening.",
+      "exampleFr": "J’ai essayé de ne pas me laisser affecter par la remarque pour profiter de la soirée.",
+      "notes": "Shrug off criticism ; réaction de détachement.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-81eb59253499",
+      "kind": "phrasal-verb",
+      "text": "brush aside",
+      "translationFr": "écarter sans examiner",
+      "meaning": "to dismiss something without proper consideration",
+      "example": "I felt she brushed aside my concerns too quickly.",
+      "exampleFr": "J’ai eu l’impression qu’elle écartait trop vite mes inquiétudes.",
+      "notes": "Brush aside an objection ; souvent critique d’un manque d’écoute.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-fbb89932d062",
+      "kind": "phrasal-verb",
+      "text": "put something down to",
+      "translationFr": "attribuer quelque chose à",
+      "meaning": "to explain something as caused by a particular factor",
+      "example": "I put my headache down to the long journey.",
+      "exampleFr": "J’ai attribué mon mal de tête au long trajet.",
+      "notes": "Put X down to Y ; interprétation de la cause.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-043378d2f644",
+      "kind": "phrasal-verb",
+      "text": "come down to",
+      "translationFr": "dépendre en définitive de",
+      "meaning": "to depend ultimately on one factor",
+      "example": "In the end, it came down to whether we could trust each other.",
+      "exampleFr": "En fin de compte, tout dépendait de notre confiance réciproque.",
+      "notes": "It comes down to ; facteur décisif.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-476f832c7309",
+      "kind": "phrasal-verb",
+      "text": "get away with",
+      "translationFr": "faire quelque chose sans en subir les conséquences",
+      "meaning": "to avoid punishment or negative consequences",
+      "example": "I couldn't believe he got away with missing every rehearsal.",
+      "exampleFr": "Je n’en revenais pas qu’il manque toutes les répétitions sans conséquence.",
+      "notes": "Get away with + nom ou -ing.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-662797b75bbf",
+      "kind": "phrasal-verb",
+      "text": "make up for",
+      "translationFr": "compenser",
+      "meaning": "to balance a loss or mistake with something positive",
+      "example": "The warm welcome made up for the miserable weather.",
+      "exampleFr": "L’accueil chaleureux a compensé le mauvais temps.",
+      "notes": "Make up for lost time ; ne signifie pas inventer une histoire.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-0528d24c3860",
+      "kind": "phrasal-verb",
+      "text": "see something through",
+      "translationFr": "mener quelque chose à son terme",
+      "meaning": "to continue until something is finished",
+      "example": "I was tired, but I wanted to see the course through.",
+      "exampleFr": "J’étais fatigué, mais je voulais aller au bout de la formation.",
+      "notes": "See it through ; persévérance jusqu’au résultat final.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    },
+    {
+      "id": "v-27d7ba247855",
+      "kind": "phrasal-verb",
+      "text": "branch out",
+      "translationFr": "élargir ses activités",
+      "meaning": "to begin doing something different from one's usual activity",
+      "example": "I branched out into photography after years of drawing.",
+      "exampleFr": "Je me suis tourné aussi vers la photographie après des années de dessin.",
+      "notes": "Branch out into ; diversification à partir d’une activité initiale.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "actions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-actions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "experiences",
+  "title": "Récits & imprévus",
+  "description": "Raconter ce qui vous est arrivé, avec précision.",
+  "color": "#b86b41",
+  "items": [
+    {
+      "id": "v-04ae1df15fd4",
+      "kind": "word",
+      "text": "mishap",
+      "translationFr": "petit incident fâcheux",
+      "meaning": "a small unlucky accident",
+      "example": "Apart from a minor mishap with my suitcase, the trip went smoothly.",
+      "exampleFr": "À part un petit incident avec ma valise, le voyage s’est bien passé.",
+      "notes": "Souvent minor mishap ; moins grave que disaster.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-6ff3fca6b17e",
+      "kind": "word",
+      "text": "aftermath",
+      "translationFr": "suites difficiles d’un événement",
+      "meaning": "the difficult period following a damaging event",
+      "example": "In the aftermath of the flood, we stayed with friends.",
+      "exampleFr": "Après l’inondation, nous avons séjourné chez des amis.",
+      "notes": "In the aftermath of ; généralement après un événement négatif.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-a11c2299e538",
+      "kind": "word",
+      "text": "setback",
+      "translationFr": "contretemps qui freine un projet",
+      "meaning": "a problem that delays progress",
+      "example": "Losing my notes was a setback, but I managed to start again.",
+      "exampleFr": "Perdre mes notes m’a retardé, mais j’ai réussi à repartir de zéro.",
+      "notes": "Suffer a setback ; souligne le recul dans une progression.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-90d4a4fdd1d4",
+      "kind": "word",
+      "text": "ordeal",
+      "translationFr": "épreuve pénible",
+      "meaning": "an extremely unpleasant experience",
+      "example": "Getting home through the storm turned into a real ordeal.",
+      "exampleFr": "Rentrer chez moi en pleine tempête est devenu une véritable épreuve.",
+      "notes": "Go through an ordeal ; plus éprouvant qu’un simple problème.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-6734204b78c6",
+      "kind": "word",
+      "text": "fluke",
+      "translationFr": "coup de chance inattendu",
+      "meaning": "a success caused mainly by chance",
+      "example": "Finding the exact spare part in that shop was a fluke.",
+      "exampleFr": "Trouver la pièce exacte dans cette boutique était un coup de chance.",
+      "notes": "A fluke ; peut relativiser un succès non reproductible.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-f73d2c940f0e",
+      "kind": "word",
+      "text": "hindsight",
+      "translationFr": "recul après les faits",
+      "meaning": "understanding gained after an event",
+      "example": "With hindsight, I should have checked the address before leaving.",
+      "exampleFr": "Avec le recul, j’aurais dû vérifier l’adresse avant de partir.",
+      "notes": "With hindsight ou in hindsight ; nom indénombrable.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-42b0649112a8",
+      "kind": "word",
+      "text": "oversight",
+      "translationFr": "oubli par inadvertance",
+      "meaning": "something missed through lack of attention",
+      "example": "Leaving her name off the invitation was an oversight.",
+      "exampleFr": "Oublier son nom sur l’invitation était une erreur d’inattention.",
+      "notes": "An oversight ; à distinguer de oversight au sens de supervision.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-c6b6a410d57c",
+      "kind": "word",
+      "text": "detour",
+      "translationFr": "détour",
+      "meaning": "a longer route taken to avoid something",
+      "example": "I took a detour and discovered a café by the river.",
+      "exampleFr": "J’ai fait un détour et découvert un café au bord de la rivière.",
+      "notes": "Take a detour ; aussi un détour dans un raisonnement.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-eeb0893f8c3d",
+      "kind": "word",
+      "text": "glimpse",
+      "translationFr": "aperçu très bref",
+      "meaning": "a brief or incomplete view",
+      "example": "I caught a glimpse of the sea between the buildings.",
+      "exampleFr": "J’ai aperçu la mer entre les immeubles.",
+      "notes": "Catch a glimpse of ; ne signifie pas regarder longuement.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-a9b74ac8513e",
+      "kind": "word",
+      "text": "blur",
+      "translationFr": "souvenir flou",
+      "meaning": "something that cannot be recalled clearly",
+      "example": "The first few hours after we arrived are a blur.",
+      "exampleFr": "Les premières heures après notre arrivée restent floues dans mon esprit.",
+      "notes": "A blur ; un ensemble de souvenirs indistincts.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-bda8819275a8",
+      "kind": "phrasal-verb",
+      "text": "stumble upon",
+      "translationFr": "tomber par hasard sur",
+      "meaning": "to discover something unexpectedly",
+      "example": "I stumbled upon an old photo while sorting my emails.",
+      "exampleFr": "Je suis tombé sur une vieille photo en triant mes courriels.",
+      "notes": "Stumble upon something ; découverte non recherchée.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-8ab18c8f82fc",
+      "kind": "phrasal-verb",
+      "text": "end up",
+      "translationFr": "finir par se retrouver",
+      "meaning": "to reach an unplanned final situation",
+      "example": "We ended up spending the night at the station.",
+      "exampleFr": "Nous avons finalement passé la nuit à la gare.",
+      "notes": "End up + -ing ou lieu ; pas end up to do.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-103e2c1d8a8e",
+      "kind": "phrasal-verb",
+      "text": "get caught up in",
+      "translationFr": "se retrouver pris dans",
+      "meaning": "to become involved in something unexpectedly or intensely",
+      "example": "I got caught up in the excitement and forgot to call home.",
+      "exampleFr": "Je me suis laissé emporter par l’enthousiasme et j’ai oublié d’appeler chez moi.",
+      "notes": "Get caught up in + nom ; implication parfois involontaire.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-e24562bbf14d",
+      "kind": "phrasal-verb",
+      "text": "piece together",
+      "translationFr": "reconstituer",
+      "meaning": "to understand something by combining separate details",
+      "example": "I pieced together what had happened from everyone's messages.",
+      "exampleFr": "J’ai reconstitué ce qui s’était passé à partir des messages de chacun.",
+      "notes": "Piece something together ; combine des éléments fragmentaires.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-986372798141",
+      "kind": "phrasal-verb",
+      "text": "turn out",
+      "translationFr": "s’avérer",
+      "meaning": "to be discovered to have a particular result or quality",
+      "example": "The quiet stranger turned out to be our new neighbour.",
+      "exampleFr": "L’inconnu discret s’est avéré être notre nouveau voisin.",
+      "notes": "Turn out to be ; ou it turns out that.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-3a75720cbd8d",
+      "kind": "phrasal-verb",
+      "text": "dawn on someone",
+      "translationFr": "venir soudain à l’esprit de quelqu’un",
+      "meaning": "to become clear to someone gradually or suddenly",
+      "example": "It dawned on me that I had left my keys inside.",
+      "exampleFr": "J’ai réalisé que j’avais laissé mes clés à l’intérieur.",
+      "notes": "It dawned on me that ; le sujet est souvent it.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-4ca0ee45fd28",
+      "kind": "phrasal-verb",
+      "text": "dwell on",
+      "translationFr": "s’attarder mentalement sur",
+      "meaning": "to keep thinking about something, often unpleasant",
+      "example": "I tried not to dwell on the awkward end to the evening.",
+      "exampleFr": "J’ai essayé de ne pas ressasser la fin gênante de la soirée.",
+      "notes": "Dwell on a mistake ; insistance mentale, souvent peu productive.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-a24ea037efcf",
+      "kind": "phrasal-verb",
+      "text": "pan out",
+      "translationFr": "se dérouler avec un certain résultat",
+      "meaning": "to develop and produce a particular result",
+      "example": "The weekend did not pan out quite as I had imagined.",
+      "exampleFr": "Le week-end ne s’est pas déroulé tout à fait comme prévu.",
+      "notes": "How did it pan out? ; informel, bilan du déroulement.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "experiences",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-bdf83470a589",
+      "kind": "idiom",
+      "text": "a close call",
+      "translationFr": "une situation évitée de justesse",
+      "meaning": "a situation in which danger or failure is narrowly avoided",
+      "example": "Missing that falling branch was a close call.",
+      "exampleFr": "J’ai évité de justesse la branche qui tombait.",
+      "notes": "Have a close call ; insiste sur la faible marge.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "experiences",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-a2dabd6d7412",
+      "kind": "collocation",
+      "text": "a chain of events",
+      "translationFr": "un enchaînement d’événements",
+      "meaning": "a series of connected events",
+      "example": "One cancelled train set off a chain of events I hadn't expected.",
+      "exampleFr": "Un train annulé a déclenché un enchaînement d’événements imprévu.",
+      "notes": "Set off a chain of events ; les événements sont liés.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-8d3314b3de5b",
+      "kind": "collocation",
+      "text": "a turn of events",
+      "translationFr": "une tournure des événements",
+      "meaning": "a change in the way a situation develops",
+      "example": "An unexpected turn of events brought us back to the same town.",
+      "exampleFr": "Une tournure inattendue des événements nous a ramenés dans la même ville.",
+      "notes": "An unexpected turn of events ; changement de trajectoire.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-0b620f1c9aa9",
+      "kind": "idiom",
+      "text": "a narrow escape",
+      "translationFr": "le fait de l’avoir échappé belle",
+      "meaning": "an escape from danger by a small margin",
+      "example": "We had a narrow escape when the ceiling collapsed behind us.",
+      "exampleFr": "Nous l’avons échappé belle quand le plafond s’est effondré derrière nous.",
+      "notes": "Have a narrow escape ; contexte de danger réel.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-4afa4d991f34",
+      "kind": "collocation",
+      "text": "a vivid recollection",
+      "translationFr": "un souvenir très net",
+      "meaning": "a memory with clear, detailed images",
+      "example": "I still have a vivid recollection of our first conversation.",
+      "exampleFr": "Je garde un souvenir très net de notre première conversation.",
+      "notes": "Have a vivid recollection of ; plus précis que good memory.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-a27211a799f7",
+      "kind": "expression",
+      "text": "as it happened",
+      "translationFr": "il se trouve que",
+      "meaning": "used to introduce a relevant coincidence",
+      "example": "As it happened, my brother was staying just across the street.",
+      "exampleFr": "Il se trouve que mon frère logeait juste en face.",
+      "notes": "Introduit une coïncidence utile au récit, pas une chronologie.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "expression"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-7eb1508025f7",
+      "kind": "expression",
+      "text": "little did I know",
+      "translationFr": "j’étais loin de me douter",
+      "meaning": "used when the narrator did not yet know something important",
+      "example": "Little did I know that we would meet again ten years later.",
+      "exampleFr": "J’étais loin de me douter que nous nous reverrions dix ans plus tard.",
+      "notes": "Inversion did I ; effet narratif à employer avec mesure.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "expression"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-5e4c4d0edf72",
+      "kind": "expression",
+      "text": "before I knew it",
+      "translationFr": "sans que je voie le temps passer",
+      "meaning": "so quickly that I barely noticed it happening",
+      "example": "Before I knew it, the whole afternoon had gone.",
+      "exampleFr": "L’après-midi entière a filé sans que je m’en rende compte.",
+      "notes": "Souligne la rapidité perçue, pas forcément une surprise négative.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "expression"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-4a1021664966",
+      "kind": "expression",
+      "text": "to my dismay",
+      "translationFr": "à mon grand désarroi",
+      "meaning": "to my strong disappointment or worry",
+      "example": "To my dismay, the last bus had already left.",
+      "exampleFr": "À mon grand désarroi, le dernier bus était déjà parti.",
+      "notes": "Plus fort que to my surprise ; réaction négative.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "expression"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-85815d6b94d9",
+      "kind": "expression",
+      "text": "in retrospect",
+      "translationFr": "rétrospectivement",
+      "meaning": "when thinking back about a past situation",
+      "example": "In retrospect, that uncomfortable conversation helped us both.",
+      "exampleFr": "Rétrospectivement, cette conversation difficile nous a aidés tous les deux.",
+      "notes": "Proche de with hindsight ; souvent pour réévaluer un événement.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "expression"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-305870c774c4",
+      "kind": "expression",
+      "text": "out of the blue",
+      "translationFr": "de façon totalement inattendue",
+      "meaning": "completely unexpectedly",
+      "example": "An old friend called me out of the blue last night.",
+      "exampleFr": "Un vieil ami m’a appelé hier soir sans que je m’y attende.",
+      "notes": "Souvent avec call, appear, announce ; aucune préparation apparente.",
+      "level": "B2+",
+      "register": "casual",
+      "tags": [
+        "experiences",
+        "expression"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-10b31c3caa35",
+      "kind": "expression",
+      "text": "for no apparent reason",
+      "translationFr": "sans raison apparente",
+      "meaning": "without a reason that can be seen or understood",
+      "example": "The lights went out for no apparent reason.",
+      "exampleFr": "Les lumières se sont éteintes sans raison apparente.",
+      "notes": "Apparent : on ignore la raison, on ne nie pas son existence.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "expression"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-1e0eecbd5c20",
+      "kind": "word",
+      "text": "unfold",
+      "translationFr": "se dérouler progressivement",
+      "meaning": "to develop and become clear over time",
+      "example": "I watched the whole scene unfold from the window.",
+      "exampleFr": "J’ai regardé toute la scène se dérouler depuis la fenêtre.",
+      "notes": "Events unfold ; dévoile une progression observée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-f6642857381c",
+      "kind": "word",
+      "text": "recount",
+      "translationFr": "raconter en détail",
+      "meaning": "to tell someone about an event",
+      "example": "I recounted the incident to a friend on the way home.",
+      "exampleFr": "J’ai raconté l’incident à un ami en rentrant.",
+      "notes": "Recount something to someone ; plus narratif que tell.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-711dd4740215",
+      "kind": "word",
+      "text": "retrace",
+      "translationFr": "refaire un parcours",
+      "meaning": "to go back along a route already taken",
+      "example": "I retraced my steps until I found the missing glove.",
+      "exampleFr": "J’ai refait mon chemin jusqu’à retrouver le gant perdu.",
+      "notes": "Retrace one's steps ; au propre ou pour reconstituer une démarche.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-1d5b9faa2d08",
+      "kind": "word",
+      "text": "misjudge",
+      "translationFr": "mal évaluer",
+      "meaning": "to form an incorrect estimate or opinion",
+      "example": "I misjudged the distance and arrived much later than planned.",
+      "exampleFr": "J’ai mal évalué la distance et suis arrivé bien plus tard que prévu.",
+      "notes": "Misjudge a distance ou a person ; jugement erroné.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-6c3425605bbf",
+      "kind": "word",
+      "text": "overhear",
+      "translationFr": "entendre sans chercher à écouter",
+      "meaning": "to hear a conversation unintentionally",
+      "example": "I overheard two passengers talking about a quicker route.",
+      "exampleFr": "J’ai entendu deux passagers parler d’un itinéraire plus rapide.",
+      "notes": "Overhear ; contrairement à eavesdrop, l’intention n’est pas nécessaire.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-127d385157d3",
+      "kind": "word",
+      "text": "scramble",
+      "translationFr": "se dépêcher dans la confusion",
+      "meaning": "to move or act hurriedly to manage a difficult situation",
+      "example": "We scrambled to find a room before the hotels closed.",
+      "exampleFr": "Nous nous sommes démenés pour trouver une chambre avant la fermeture des hôtels.",
+      "notes": "Scramble to do something ; urgence et effort désordonné.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-bc442ed7edf7",
+      "kind": "word",
+      "text": "linger",
+      "translationFr": "rester plus longtemps",
+      "meaning": "to stay longer than expected",
+      "example": "I lingered at the doorway, hoping she would say something.",
+      "exampleFr": "Je suis resté un moment sur le pas de la porte, espérant qu’elle dirait quelque chose.",
+      "notes": "Peut aussi décrire un sentiment ou une odeur qui persiste.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-8586870fd26e",
+      "kind": "word",
+      "text": "reassuring",
+      "translationFr": "rassurant",
+      "meaning": "making someone feel less worried",
+      "example": "Hearing a familiar voice was surprisingly reassuring.",
+      "exampleFr": "Entendre une voix familière était étonnamment rassurant.",
+      "notes": "Reassuring décrit ce qui rassure ; reassured, la personne rassurée.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "word"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-12fb59ae5855",
+      "kind": "collocation",
+      "text": "a lingering doubt",
+      "translationFr": "un doute persistant",
+      "meaning": "a doubt that remains after reassurance",
+      "example": "I left with a lingering doubt about whether I had understood.",
+      "exampleFr": "Je suis parti avec un doute persistant sur ce que j’avais compris.",
+      "notes": "Lingering doubt about ; un doute qui ne disparaît pas complètement.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-ea9f6050f66b",
+      "kind": "collocation",
+      "text": "make matters worse",
+      "translationFr": "aggraver les choses",
+      "meaning": "to make an already bad situation more difficult",
+      "example": "To make matters worse, my phone ran out of battery.",
+      "exampleFr": "Pour aggraver les choses, mon téléphone n’avait plus de batterie.",
+      "notes": "Souvent to make matters worse en début de phrase.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-146856cded31",
+      "kind": "collocation",
+      "text": "take an unexpected turn",
+      "translationFr": "prendre une tournure inattendue",
+      "meaning": "to develop in a surprising direction",
+      "example": "The conversation took an unexpected turn when she mentioned my father.",
+      "exampleFr": "La conversation a pris une tournure inattendue quand elle a parlé de mon père.",
+      "notes": "Une histoire, un débat ou une situation peut take a turn.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    },
+    {
+      "id": "v-2d48e14f7076",
+      "kind": "expression",
+      "text": "on reflection",
+      "translationFr": "après réflexion",
+      "meaning": "after thinking about something again",
+      "example": "On reflection, I was relieved the journey had taken so long.",
+      "exampleFr": "Après réflexion, j’étais soulagé que le trajet ait duré aussi longtemps.",
+      "notes": "Introduit un avis révisé après réflexion, pas seulement un souvenir.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "experiences",
+        "expression"
+      ],
+      "listIds": [
+        "pack-experiences"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "everyday",
+  "title": "Vie quotidienne & déplacements",
+  "description": "Situations concrètes, petits soucis et organisation.",
+  "color": "#6a824c",
+  "items": [
+    {
+      "id": "v-d3f0d26b7b6d",
+      "kind": "word",
+      "text": "clutter",
+      "translationFr": "encombrement par des objets",
+      "meaning": "a collection of things making a place untidy",
+      "example": "I cleared the clutter from my desk before starting work.",
+      "exampleFr": "J’ai débarrassé mon bureau des objets qui l’encombraient avant de travailler.",
+      "notes": "Indénombrable ; clear the clutter, pas many clutters.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-4870858fe2d8",
+      "kind": "word",
+      "text": "upkeep",
+      "translationFr": "entretien régulier",
+      "meaning": "the work or cost needed to keep something in good condition",
+      "example": "I hadn't budgeted for the upkeep of such an old house.",
+      "exampleFr": "Je n’avais pas prévu le coût d’entretien d’une maison si ancienne.",
+      "notes": "Upkeep of ; entretien récurrent, pas une réparation unique.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-18b35e786958",
+      "kind": "collocation",
+      "text": "wear and tear",
+      "translationFr": "usure normale",
+      "meaning": "damage caused gradually by ordinary use",
+      "example": "The bag showed some wear and tear after years of travel.",
+      "exampleFr": "Le sac montrait des signes d’usure après des années de voyage.",
+      "notes": "Expression indénombrable ; usure d’usage, pas accident.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-fa74c4abe6b7",
+      "kind": "word",
+      "text": "outage",
+      "translationFr": "coupure de service",
+      "meaning": "a period when a service is unavailable",
+      "example": "I couldn't cook because of a power outage.",
+      "exampleFr": "Je n’ai pas pu cuisiner à cause d’une coupure de courant.",
+      "notes": "Power/internet outage ; AmE courant, aussi employé en technique.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-27c89d320cc1",
+      "kind": "word",
+      "text": "snag",
+      "translationFr": "petit obstacle imprévu",
+      "meaning": "an unexpected difficulty that interrupts progress",
+      "example": "I hit a snag when the replacement part did not fit.",
+      "exampleFr": "J’ai rencontré un obstacle quand la pièce de rechange n’a pas convenu.",
+      "notes": "Hit/run into a snag ; obstacle concret, souvent résoluble.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-0569983f18ae",
+      "kind": "word",
+      "text": "draught",
+      "translationFr": "courant d’air",
+      "meaning": "a flow of cold air through an opening",
+      "example": "I moved my chair away from the draught near the window.",
+      "exampleFr": "J’ai éloigné ma chaise du courant d’air près de la fenêtre.",
+      "notes": "BrE draught ; AmE draft.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-f5e2e360d282",
+      "kind": "word",
+      "text": "damp",
+      "translationFr": "humidité indésirable",
+      "meaning": "unpleasant moisture in a building",
+      "example": "I could smell damp as soon as I entered the spare room.",
+      "exampleFr": "J’ai senti l’humidité dès mon entrée dans la chambre d’amis.",
+      "notes": "Damp comme nom de problème domestique ; aussi adjectif humide.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-a4e976a3d3fc",
+      "kind": "word",
+      "text": "stale",
+      "translationFr": "rassis, ayant perdu sa fraîcheur",
+      "meaning": "no longer fresh",
+      "example": "I made toast because the bread was slightly stale.",
+      "exampleFr": "J’ai fait griller le pain car il était un peu rassis.",
+      "notes": "Stale bread/air ; pas forcément pourri ou dangereux.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-b40a946e81c8",
+      "kind": "word",
+      "text": "fiddly",
+      "translationFr": "difficile à manipuler minutieusement",
+      "meaning": "awkward because of small parts or precise movements",
+      "example": "Replacing the tiny screw was fiddly without the right tool.",
+      "exampleFr": "Remplacer la minuscule vis était délicat sans le bon outil.",
+      "notes": "Surtout BrE, informel ; difficulté de manipulation fine.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-3e2611cc6d5c",
+      "kind": "word",
+      "text": "flimsy",
+      "translationFr": "peu solide",
+      "meaning": "thin and easily damaged",
+      "example": "I regretted buying the flimsy umbrella when the wind picked up.",
+      "exampleFr": "J’ai regretté le parapluie peu solide quand le vent s’est levé.",
+      "notes": "Flimsy material ; au figuré flimsy excuse, excuse peu crédible.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-7ce61bfb2144",
+      "kind": "word",
+      "text": "sturdy",
+      "translationFr": "solide",
+      "meaning": "strong and unlikely to break",
+      "example": "I chose sturdy shoes for the rocky path.",
+      "exampleFr": "J’ai choisi des chaussures solides pour le sentier rocailleux.",
+      "notes": "Sturdy chair/shoes ; robustesse physique.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-9af59206b2b6",
+      "kind": "word",
+      "text": "bulky",
+      "translationFr": "encombrant",
+      "meaning": "large and awkward to move or carry",
+      "example": "I left the bulky coat at home to travel light.",
+      "exampleFr": "J’ai laissé le manteau encombrant chez moi pour voyager léger.",
+      "notes": "Taille gênante, pas nécessairement poids élevé.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-880081a6c095",
+      "kind": "word",
+      "text": "cramped",
+      "translationFr": "exigu",
+      "meaning": "too small for comfort",
+      "example": "The room felt cramped once both suitcases were open.",
+      "exampleFr": "La chambre paraissait exiguë avec les deux valises ouvertes.",
+      "notes": "Cramped space ; manque d’espace disponible.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-25025f06528c",
+      "kind": "word",
+      "text": "secluded",
+      "translationFr": "à l’écart",
+      "meaning": "away from other people and places",
+      "example": "We found a secluded spot for a quiet lunch.",
+      "exampleFr": "Nous avons trouvé un endroit à l’écart pour déjeuner au calme.",
+      "notes": "Secluded beach/spot ; isolement souvent recherché.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-6baee9fbabd7",
+      "kind": "word",
+      "text": "run-down",
+      "translationFr": "délabré",
+      "meaning": "in poor condition through lack of care",
+      "example": "The building looked run-down, but the flat inside was lovely.",
+      "exampleFr": "L’immeuble semblait délabré, mais l’appartement était charmant.",
+      "notes": "Une personne run-down est épuisée ; contexte important.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-dcfb4a6325eb",
+      "kind": "word",
+      "text": "overpriced",
+      "translationFr": "trop cher pour ce que c’est",
+      "meaning": "costing more than its value justifies",
+      "example": "I thought the café was overpriced for such small portions.",
+      "exampleFr": "Le café m’a semblé trop cher pour de si petites portions.",
+      "notes": "Jugement sur le rapport qualité-prix, pas simple prix élevé.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-855733beebd2",
+      "kind": "word",
+      "text": "non-refundable",
+      "translationFr": "non remboursable",
+      "meaning": "not eligible for money to be returned",
+      "example": "I checked the date twice because the ticket was non-refundable.",
+      "exampleFr": "J’ai vérifié deux fois la date car le billet n’était pas remboursable.",
+      "notes": "Non-refundable deposit ; condition de remboursement.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-6c22d4e8a474",
+      "kind": "collocation",
+      "text": "hidden charges",
+      "translationFr": "frais dissimulés",
+      "meaning": "extra costs not made clear at first",
+      "example": "I read the conditions to check for hidden charges.",
+      "exampleFr": "J’ai lu les conditions pour vérifier les frais dissimulés.",
+      "notes": "Charges = frais ici ; pas accusations.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-0ed22281a66b",
+      "kind": "collocation",
+      "text": "value for money",
+      "translationFr": "bon rapport qualité-prix",
+      "meaning": "quality that justifies the price",
+      "example": "The room was basic, but it offered good value for money.",
+      "exampleFr": "La chambre était simple, mais offrait un bon rapport qualité-prix.",
+      "notes": "Good/poor value for money ; comparaison prix et utilité.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-ef4d81109077",
+      "kind": "collocation",
+      "text": "a tight squeeze",
+      "translationFr": "un espace à peine suffisant",
+      "meaning": "a situation with barely enough room",
+      "example": "Fitting three people in the back was a tight squeeze.",
+      "exampleFr": "Il y avait à peine assez de place pour trois à l’arrière.",
+      "notes": "It was a tight squeeze ; effort pour faire tenir quelque chose.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-e2ff5be33131",
+      "kind": "collocation",
+      "text": "run errands",
+      "translationFr": "faire des courses et démarches",
+      "meaning": "to complete small practical tasks outside the home",
+      "example": "I ran errands all morning and forgot to buy lunch.",
+      "exampleFr": "J’ai fait des courses et démarches toute la matinée, sans penser au déjeuner.",
+      "notes": "Inclut poste, pharmacie, banque ; pas uniquement courses alimentaires.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-d056b9a4716c",
+      "kind": "collocation",
+      "text": "make do with",
+      "translationFr": "se débrouiller avec",
+      "meaning": "to manage using something less than ideal",
+      "example": "I made do with a borrowed charger for the weekend.",
+      "exampleFr": "Je me suis débrouillé avec un chargeur emprunté pour le week-end.",
+      "notes": "Make do with ; solution provisoire ou moyens limités.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-b1fb717b39cb",
+      "kind": "idiom",
+      "text": "get one's bearings",
+      "translationFr": "prendre ses repères",
+      "meaning": "to work out one's position or situation",
+      "example": "I stopped outside the station to get my bearings.",
+      "exampleFr": "Je me suis arrêté devant la gare pour prendre mes repères.",
+      "notes": "Au sens spatial ou dans un nouvel environnement.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-d2ae0302643d",
+      "kind": "collocation",
+      "text": "be within walking distance",
+      "translationFr": "être accessible à pied",
+      "meaning": "to be close enough to reach on foot",
+      "example": "The museum was within walking distance of our hotel.",
+      "exampleFr": "Le musée était accessible à pied depuis notre hôtel.",
+      "notes": "Within walking distance of ; distance raisonnable, sans mesure fixe.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-ebc3c30dc600",
+      "kind": "collocation",
+      "text": "travel light",
+      "translationFr": "voyager léger",
+      "meaning": "to travel with little luggage",
+      "example": "I tried to travel light, but still packed too many shoes.",
+      "exampleFr": "J’ai essayé de voyager léger, mais j’ai pris trop de chaussures.",
+      "notes": "Light est adverbial ; pas lightly dans cette expression.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-22616419eb3b",
+      "kind": "idiom",
+      "text": "make a dent in",
+      "translationFr": "réduire une partie de",
+      "meaning": "to reduce a large amount by some degree",
+      "example": "I finally made a dent in the pile of paperwork.",
+      "exampleFr": "J’ai enfin un peu réduit la pile de paperasse.",
+      "notes": "Make a dent in ; progrès partiel, souvent tâche importante.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-ba9e5b09355f",
+      "kind": "phrasal-verb",
+      "text": "stock up on",
+      "translationFr": "faire des réserves de",
+      "meaning": "to buy a supply for later use",
+      "example": "I stocked up on groceries before the long weekend.",
+      "exampleFr": "J’ai fait des réserves alimentaires avant le long week-end.",
+      "notes": "Stock up on something ; quantité prévue pour durer.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-9d2e4caf4120",
+      "kind": "phrasal-verb",
+      "text": "eke out",
+      "translationFr": "faire durer une ressource limitée",
+      "meaning": "to make a small supply last by using it carefully",
+      "example": "I eked out my remaining cash until the end of the trip.",
+      "exampleFr": "J’ai fait durer le peu d’argent qu’il me restait jusqu’à la fin du voyage.",
+      "notes": "Eke out a supply ; aussi eke out a living, gagner difficilement sa vie.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-e4aae9a950c8",
+      "kind": "phrasal-verb",
+      "text": "do away with",
+      "translationFr": "supprimer",
+      "meaning": "to remove something no longer wanted",
+      "example": "We did away with paper bills to keep the desk clearer.",
+      "exampleFr": "Nous avons supprimé les factures papier pour dégager le bureau.",
+      "notes": "Do away with a practice ; plus définitif que put aside.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-9290c9a39350",
+      "kind": "phrasal-verb",
+      "text": "wear out",
+      "translationFr": "user complètement",
+      "meaning": "to damage through repeated use",
+      "example": "I wore out my favourite walking shoes last summer.",
+      "exampleFr": "J’ai complètement usé mes chaussures de marche préférées l’été dernier.",
+      "notes": "Wear out ; worn out signifie aussi épuisé.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-157c718a381f",
+      "kind": "phrasal-verb",
+      "text": "clog up",
+      "translationFr": "boucher, encombrer",
+      "meaning": "to block a passage or system",
+      "example": "Leaves had clogged up the drain after the storm.",
+      "exampleFr": "Des feuilles avaient bouché l’évacuation après la tempête.",
+      "notes": "Clog something up ; aussi figuré pour un système saturé.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-1bf720192452",
+      "kind": "phrasal-verb",
+      "text": "leak out",
+      "translationFr": "s’échapper par une fuite",
+      "meaning": "to escape through a small opening",
+      "example": "Water leaked out of the bottle all over my notes.",
+      "exampleFr": "L’eau s’est échappée de la bouteille sur toutes mes notes.",
+      "notes": "A secret leaks out au figuré : devient public.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-1088d042d381",
+      "kind": "phrasal-verb",
+      "text": "put aside",
+      "translationFr": "mettre de côté",
+      "meaning": "to save something for later",
+      "example": "I put aside a little money each month for repairs.",
+      "exampleFr": "Je mets un peu d’argent de côté chaque mois pour les réparations.",
+      "notes": "Put money/time aside ; réserver pour un usage ultérieur.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-6bb987419e9d",
+      "kind": "phrasal-verb",
+      "text": "tide someone over",
+      "translationFr": "dépanner temporairement",
+      "meaning": "to help someone manage until a difficulty ends",
+      "example": "A small loan from my brother tided me over until payday.",
+      "exampleFr": "Un petit prêt de mon frère m’a dépanné jusqu’à la paie.",
+      "notes": "Tide someone over until ; soutien temporaire.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-59f90017c283",
+      "kind": "phrasal-verb",
+      "text": "drop by",
+      "translationFr": "passer brièvement",
+      "meaning": "to visit for a short time",
+      "example": "I dropped by my neighbour's to return a parcel.",
+      "exampleFr": "Je suis passé chez mon voisin pour rendre un colis.",
+      "notes": "Drop by a place ; souvent sans longue préparation.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-1d670c9b4f48",
+      "kind": "word",
+      "text": "stopover",
+      "translationFr": "escale avec arrêt pendant un voyage",
+      "meaning": "a break in a journey before continuing",
+      "example": "I used the overnight stopover to visit an old friend.",
+      "exampleFr": "J’ai profité de l’escale d’une nuit pour voir un vieil ami.",
+      "notes": "Have a stopover in ; interruption du voyage, souvent planifiée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-1dc47e9115e0",
+      "kind": "phrasal-verb",
+      "text": "check out of",
+      "translationFr": "quitter un hébergement en réglant les formalités",
+      "meaning": "to leave a hotel after completing departure procedures",
+      "example": "I checked out of the hotel before breakfast.",
+      "exampleFr": "J’ai fait mon départ de l’hôtel avant le petit-déjeuner.",
+      "notes": "Check out of a hotel ; le nom checkout s’écrit souvent en un mot.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-f5ea20ece172",
+      "kind": "phrasal-verb",
+      "text": "set off",
+      "translationFr": "se mettre en route",
+      "meaning": "to begin a journey",
+      "example": "We set off before sunrise to avoid the heat.",
+      "exampleFr": "Nous sommes partis avant le lever du soleil pour éviter la chaleur.",
+      "notes": "Set off for a destination ; passé identique set off.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-212a310ff3bc",
+      "kind": "expression",
+      "text": "at short notice",
+      "translationFr": "avec peu de préavis",
+      "meaning": "with little time to prepare",
+      "example": "I couldn't find anyone to look after the cat at short notice.",
+      "exampleFr": "Je n’ai trouvé personne pour garder le chat avec si peu de préavis.",
+      "notes": "BrE at short notice ; AmE on short notice.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "expression"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-b976372340c2",
+      "kind": "expression",
+      "text": "on the doorstep",
+      "translationFr": "tout près de chez soi",
+      "meaning": "very close to where someone lives or stays",
+      "example": "We had a beautiful walking trail right on our doorstep.",
+      "exampleFr": "Nous avions un beau sentier de promenade juste à côté.",
+      "notes": "Figuré : proximité immédiate, pas uniquement le seuil physique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "expression"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-5db95bfc35f4",
+      "kind": "collocation",
+      "text": "a change of scenery",
+      "translationFr": "un changement de cadre",
+      "meaning": "a move to different surroundings",
+      "example": "I worked from a café for a change of scenery.",
+      "exampleFr": "J’ai travaillé dans un café pour changer de cadre.",
+      "notes": "For a change of scenery ; petite pause ou voyage.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "everyday",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    },
+    {
+      "id": "v-30009ba1c558",
+      "kind": "word",
+      "text": "hassle",
+      "translationFr": "tracas, complication agaçante",
+      "meaning": "annoying trouble or effort",
+      "example": "Returning the parcel was more hassle than I expected.",
+      "exampleFr": "Renvoyer le colis a été plus compliqué que prévu.",
+      "notes": "A hassle ou much hassle ; informel, gêne pratique.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "everyday",
+        "word"
+      ],
+      "listIds": [
+        "pack-everyday"
+      ]
+    }
+  ]
+}

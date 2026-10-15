@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "decisions",
+  "title": "Décisions & regrets",
+  "description": "Peser les options, hésiter, agir et tirer des leçons.",
+  "color": "#7b74b0",
+  "items": [
+    {
+      "id": "v-1ea8af94f5c9",
+      "kind": "word",
+      "text": "weigh",
+      "translationFr": "peser, examiner attentivement",
+      "meaning": "to consider the relative importance of something",
+      "example": "I weighed the risks before agreeing to the trip.",
+      "exampleFr": "J’ai pesé les risques avant d’accepter le voyage.",
+      "notes": "Weigh the risks ; pas forcément un calcul chiffré.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-9912e23b3cfa",
+      "kind": "word",
+      "text": "reconsider",
+      "translationFr": "revoir sa décision",
+      "meaning": "to think again about a decision",
+      "example": "I reconsidered my offer after hearing her concerns.",
+      "exampleFr": "J’ai revu mon offre après avoir entendu ses inquiétudes.",
+      "notes": "Reconsider something ; pas besoin de about après le verbe.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-192b969fa77f",
+      "kind": "word",
+      "text": "waver",
+      "translationFr": "hésiter, vaciller",
+      "meaning": "to become uncertain about a decision",
+      "example": "I began to waver when I saw how much it would cost.",
+      "exampleFr": "J’ai commencé à hésiter en voyant le coût.",
+      "notes": "Waver between two options ; mouvement entre des choix.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-3c513544bca2",
+      "kind": "word",
+      "text": "deliberate",
+      "translationFr": "réfléchir longuement",
+      "meaning": "to consider a decision carefully",
+      "example": "We deliberated for an hour before choosing the smaller flat.",
+      "exampleFr": "Nous avons réfléchi une heure avant de choisir le petit appartement.",
+      "notes": "Verbe deliberate over/on ; l’adjectif signifie délibéré.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-62293fed88c0",
+      "kind": "word",
+      "text": "foresee",
+      "translationFr": "prévoir",
+      "meaning": "to expect something before it happens",
+      "example": "I hadn't foreseen how much the move would affect me.",
+      "exampleFr": "Je n’avais pas prévu à quel point le déménagement m’affecterait.",
+      "notes": "Passé foresaw, participe foreseen ; anticipation, pas certitude.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-4943f1b2003b",
+      "kind": "word",
+      "text": "outweigh",
+      "translationFr": "l’emporter sur",
+      "meaning": "to be greater in importance than something else",
+      "example": "For me, the freedom outweighed the uncertainty.",
+      "exampleFr": "Pour moi, la liberté l’emportait sur l’incertitude.",
+      "notes": "The benefits outweigh the costs ; ordre important des éléments.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-7a98005746a1",
+      "kind": "word",
+      "text": "forgo",
+      "translationFr": "renoncer volontairement à",
+      "meaning": "to choose not to have something",
+      "example": "I decided to forgo the upgrade and save the money.",
+      "exampleFr": "J’ai décidé de renoncer au surclassement pour économiser.",
+      "notes": "Forgo something ; passé forwent, participe forgone.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-faaabf119c69",
+      "kind": "word",
+      "text": "compromise",
+      "translationFr": "faire des concessions",
+      "meaning": "to accept less than desired to reach agreement",
+      "example": "I was willing to compromise on the date, but not the location.",
+      "exampleFr": "J’étais prêt à faire des concessions sur la date, pas sur le lieu.",
+      "notes": "Compromise on something ; aussi nom a compromise.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-de497b876bb4",
+      "kind": "word",
+      "text": "backtrack",
+      "translationFr": "revenir sur ses propos ou décisions",
+      "meaning": "to reverse a previous statement or decision",
+      "example": "I had to backtrack after promising more than I could deliver.",
+      "exampleFr": "J’ai dû revenir sur ma promesse, que je ne pouvais pas tenir.",
+      "notes": "Backtrack on a promise ; peut impliquer une perte de crédibilité.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-7c65a42efb00",
+      "kind": "word",
+      "text": "hesitant",
+      "translationFr": "hésitant",
+      "meaning": "slow to act because of uncertainty",
+      "example": "I was hesitant to commit before seeing the full plan.",
+      "exampleFr": "J’hésitais à m’engager avant de voir le plan complet.",
+      "notes": "Hesitant to do ; décrit l’hésitation, pas un refus ferme.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-6a47dc3c2ff1",
+      "kind": "word",
+      "text": "impulsive",
+      "translationFr": "impulsif",
+      "meaning": "acting without enough thought",
+      "example": "Buying the ticket was impulsive, but I didn't regret it.",
+      "exampleFr": "J’ai acheté le billet sur un coup de tête, sans le regretter.",
+      "notes": "Impulsive decision ; contraste avec carefully considered.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-211639bbbb1c",
+      "kind": "word",
+      "text": "prudent",
+      "translationFr": "prudent, avisé",
+      "meaning": "careful about avoiding unnecessary risks",
+      "example": "It seemed prudent to keep some money aside.",
+      "exampleFr": "Il semblait prudent de garder un peu d’argent de côté.",
+      "notes": "Choix réfléchi ; registre plus soutenu que careful.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-a7e05566f3ee",
+      "kind": "word",
+      "text": "viable",
+      "translationFr": "réalisable",
+      "meaning": "able to work successfully in practice",
+      "example": "I needed a viable alternative before leaving my job.",
+      "exampleFr": "Il me fallait une solution viable avant de quitter mon emploi.",
+      "notes": "Viable option ; faisabilité concrète, pas préférence personnelle.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-5735a53c9b22",
+      "kind": "word",
+      "text": "feasible",
+      "translationFr": "faisable",
+      "meaning": "possible to do with the available resources",
+      "example": "Doing both courses at once didn't seem feasible.",
+      "exampleFr": "Suivre les deux formations en même temps ne semblait pas faisable.",
+      "notes": "Feasible to do ; porte sur les contraintes pratiques.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-cd17c1b3144b",
+      "kind": "word",
+      "text": "worthwhile",
+      "translationFr": "qui en vaut la peine",
+      "meaning": "worth the time or effort involved",
+      "example": "The journey was tiring, but the visit was worthwhile.",
+      "exampleFr": "Le trajet était fatigant, mais la visite en valait la peine.",
+      "notes": "Worthwhile + nom ; worth + nom ou -ing.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-54572a7689b6",
+      "kind": "word",
+      "text": "irreversible",
+      "translationFr": "irréversible",
+      "meaning": "impossible to undo",
+      "example": "I wanted more time before making an irreversible decision.",
+      "exampleFr": "Je voulais plus de temps avant de prendre une décision irréversible.",
+      "notes": "Conséquence impossible à annuler, pas seulement difficile.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-11fa0cd8832b",
+      "kind": "word",
+      "text": "a trade-off",
+      "translationFr": "un compromis entre avantages et inconvénients",
+      "meaning": "a balance in which gaining one thing means losing another",
+      "example": "There was a trade-off between cheaper rent and a longer commute.",
+      "exampleFr": "Le loyer plus bas se payait par un trajet plus long.",
+      "notes": "A trade-off between X and Y ; explicite ce que l’on sacrifie.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-5a45c0645cbc",
+      "kind": "collocation",
+      "text": "a sticking point",
+      "translationFr": "un point de blocage",
+      "meaning": "an issue that prevents agreement",
+      "example": "The start date was the only sticking point in the discussion.",
+      "exampleFr": "La date de début était le seul point de blocage.",
+      "notes": "Souvent the main sticking point ; un obstacle précis.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-4ce25a746d2d",
+      "kind": "word",
+      "text": "a deal-breaker",
+      "translationFr": "un obstacle rédhibitoire",
+      "meaning": "a condition that makes an agreement unacceptable",
+      "example": "Working every weekend would be a deal-breaker for me.",
+      "exampleFr": "Travailler chaque week-end serait rédhibitoire pour moi.",
+      "notes": "Peut s’appliquer à un emploi, un achat ou une relation.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-d8f2fad0e571",
+      "kind": "collocation",
+      "text": "a fallback option",
+      "translationFr": "une solution de repli",
+      "meaning": "an alternative available if the preferred plan fails",
+      "example": "I kept the hostel booking as a fallback option.",
+      "exampleFr": "J’ai conservé la réservation à l’auberge comme solution de repli.",
+      "notes": "Fallback option ; plan déjà disponible en cas d’échec.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-133939b94317",
+      "kind": "collocation",
+      "text": "an informed decision",
+      "translationFr": "une décision éclairée",
+      "meaning": "a decision based on relevant information",
+      "example": "I asked for the full report so I could make an informed decision.",
+      "exampleFr": "J’ai demandé le rapport complet pour prendre une décision éclairée.",
+      "notes": "Make an informed decision ; informations examinées, pas intuition seule.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-d0c6ec00b4b3",
+      "kind": "collocation",
+      "text": "have second thoughts",
+      "translationFr": "avoir des doutes après coup",
+      "meaning": "to begin doubting a previous decision",
+      "example": "I had second thoughts about moving so far away.",
+      "exampleFr": "J’ai commencé à douter de mon choix de partir si loin.",
+      "notes": "Have second thoughts about ; après un premier choix.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-748cb22c030a",
+      "kind": "collocation",
+      "text": "a calculated risk",
+      "translationFr": "un risque calculé",
+      "meaning": "a risk taken after considering the possible results",
+      "example": "I took a calculated risk by booking before the dates were confirmed.",
+      "exampleFr": "J’ai pris un risque calculé en réservant avant la confirmation des dates.",
+      "notes": "Take a calculated risk ; décision informée, sans garantie de succès.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-59d10fded5d0",
+      "kind": "collocation",
+      "text": "make a judgement call",
+      "translationFr": "trancher en se fiant à son jugement",
+      "meaning": "to decide without a clear rule or complete information",
+      "example": "I had to make a judgement call with only half the facts.",
+      "exampleFr": "J’ai dû trancher en ne connaissant que la moitié des faits.",
+      "notes": "Judgment call est l’orthographe courante aux États-Unis.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-921f0498e8af",
+      "kind": "idiom",
+      "text": "keep one's options open",
+      "translationFr": "se laisser plusieurs possibilités",
+      "meaning": "to avoid committing too early",
+      "example": "I applied to several courses to keep my options open.",
+      "exampleFr": "J’ai candidaté à plusieurs formations pour garder plusieurs possibilités.",
+      "notes": "Options au pluriel ; stratégie de non-engagement provisoire.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-3e4f5a6958b5",
+      "kind": "idiom",
+      "text": "take the plunge",
+      "translationFr": "se jeter à l’eau",
+      "meaning": "to finally do something after hesitation",
+      "example": "I took the plunge and signed up for the evening class.",
+      "exampleFr": "Je me suis jeté à l’eau et inscrit au cours du soir.",
+      "notes": "Décision qui demande du courage, souvent attendue depuis longtemps.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-71cce1070a0f",
+      "kind": "idiom",
+      "text": "cut one's losses",
+      "translationFr": "limiter les dégâts en renonçant",
+      "meaning": "to stop an unsuccessful activity before losing more",
+      "example": "I decided to cut my losses and cancel the project.",
+      "exampleFr": "J’ai décidé de limiter les dégâts et d’annuler le projet.",
+      "notes": "Reconnaître qu’il vaut mieux arrêter que continuer à perdre.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-43a0c6666dd6",
+      "kind": "collocation",
+      "text": "leave room for manoeuvre",
+      "translationFr": "garder une marge de manœuvre",
+      "meaning": "to preserve flexibility for later decisions",
+      "example": "I left some room for manoeuvre in the travel budget.",
+      "exampleFr": "J’ai gardé une marge de manœuvre dans le budget du voyage.",
+      "notes": "BrE manoeuvre ; AmE maneuver ; marge matérielle ou stratégique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-27246094c050",
+      "kind": "phrasal-verb",
+      "text": "think something through",
+      "translationFr": "réfléchir à toutes les conséquences",
+      "meaning": "to consider something carefully from start to finish",
+      "example": "I hadn't thought the move through before accepting.",
+      "exampleFr": "Je n’avais pas envisagé toutes les conséquences du déménagement avant d’accepter.",
+      "notes": "Think it through ; pronom entre le verbe et through.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-1ebcb8e9dddb",
+      "kind": "phrasal-verb",
+      "text": "sleep on it",
+      "translationFr": "se donner une nuit pour réfléchir",
+      "meaning": "to delay a decision until the next day",
+      "example": "I asked if I could sleep on it before giving an answer.",
+      "exampleFr": "J’ai demandé à me laisser la nuit pour réfléchir avant de répondre.",
+      "notes": "Formule naturelle pour demander un délai court.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-b78c4d88ffc2",
+      "kind": "phrasal-verb",
+      "text": "back out of",
+      "translationFr": "se retirer d’un engagement",
+      "meaning": "to withdraw from something previously agreed",
+      "example": "I nearly backed out of the trip the night before.",
+      "exampleFr": "J’ai failli renoncer au voyage la veille au soir.",
+      "notes": "Back out of + nom ou -ing ; engagement déjà pris.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-e6ecc9dbe81f",
+      "kind": "phrasal-verb",
+      "text": "go through with",
+      "translationFr": "aller jusqu’au bout de",
+      "meaning": "to complete something planned despite difficulty",
+      "example": "I was nervous, but I went through with the presentation.",
+      "exampleFr": "J’étais nerveux, mais j’ai fait la présentation comme prévu.",
+      "notes": "Go through with something ; décision maintenue malgré l’appréhension.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-90f6baa2502a",
+      "kind": "phrasal-verb",
+      "text": "settle for",
+      "translationFr": "se contenter de",
+      "meaning": "to accept something less good than desired",
+      "example": "I didn't want to settle for a job that made me miserable.",
+      "exampleFr": "Je ne voulais pas me contenter d’un emploi qui me rendait malheureux.",
+      "notes": "Settling for suggère un compromis inférieur à ses attentes.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-8f61d17a90c3",
+      "kind": "phrasal-verb",
+      "text": "opt out of",
+      "translationFr": "choisir de ne pas participer à",
+      "meaning": "to choose not to take part in something",
+      "example": "I opted out of the group dinner because I needed some rest.",
+      "exampleFr": "J’ai choisi de ne pas participer au dîner de groupe pour me reposer.",
+      "notes": "Opt out of ; retrait volontaire d’une activité proposée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-74012894be2b",
+      "kind": "phrasal-verb",
+      "text": "follow through on",
+      "translationFr": "donner concrètement suite à",
+      "meaning": "to carry out an intention or promise",
+      "example": "I finally followed through on my plan to learn to swim.",
+      "exampleFr": "J’ai enfin concrétisé mon projet d’apprendre à nager.",
+      "notes": "Follow through on a promise ; insiste sur l’exécution.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-fc32024d5c61",
+      "kind": "phrasal-verb",
+      "text": "come around to",
+      "translationFr": "finir par se rallier à",
+      "meaning": "to gradually accept an idea",
+      "example": "I came around to the idea of taking a year off.",
+      "exampleFr": "J’ai fini par accepter l’idée de prendre une année de pause.",
+      "notes": "Come around to + nom ou -ing ; changement progressif d’avis.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-d4e4e3fa5795",
+      "kind": "expression",
+      "text": "on balance",
+      "translationFr": "tout bien considéré",
+      "meaning": "after considering both advantages and disadvantages",
+      "example": "On balance, I think staying was the right decision.",
+      "exampleFr": "Tout bien considéré, je pense que rester était la bonne décision.",
+      "notes": "Introduit une conclusion pondérée, pas une certitude absolue.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "expression"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-804a5c6ac20e",
+      "kind": "expression",
+      "text": "all things considered",
+      "translationFr": "tout compte fait",
+      "meaning": "after taking all relevant factors into account",
+      "example": "All things considered, the smaller flat suited us better.",
+      "exampleFr": "Tout compte fait, le petit appartement nous convenait mieux.",
+      "notes": "Souvent en début ou fin de phrase ; bilan global.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "expression"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-4d3b881cc112",
+      "kind": "expression",
+      "text": "at the expense of",
+      "translationFr": "au détriment de",
+      "meaning": "with harm or cost to something else",
+      "example": "I didn't want a promotion at the expense of my health.",
+      "exampleFr": "Je ne voulais pas d’une promotion au détriment de ma santé.",
+      "notes": "Expense n’est pas forcément financière.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "expression"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-4194cab5d281",
+      "kind": "expression",
+      "text": "on the off chance",
+      "translationFr": "dans l’éventualité peu probable",
+      "meaning": "because there is a small possibility",
+      "example": "I kept the receipt on the off chance that I'd need to return it.",
+      "exampleFr": "J’ai gardé le reçu au cas peu probable où je devrais le rapporter.",
+      "notes": "On the off chance that + proposition ; faible probabilité.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "expression"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-b2ec7682558b",
+      "kind": "collocation",
+      "text": "live with the consequences",
+      "translationFr": "assumer durablement les conséquences",
+      "meaning": "to accept the lasting effects of a decision",
+      "example": "I knew I would have to live with the consequences of leaving.",
+      "exampleFr": "Je savais qu’il me faudrait assumer les conséquences de mon départ.",
+      "notes": "Insiste sur les effets qui continuent après le choix.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    },
+    {
+      "id": "v-c64eea44d2b1",
+      "kind": "word",
+      "text": "misgivings",
+      "translationFr": "réticences fondées sur des doutes",
+      "meaning": "feelings of doubt about a proposed action",
+      "example": "Despite my misgivings, I agreed to give it a try.",
+      "exampleFr": "Malgré mes réticences, j’ai accepté d’essayer.",
+      "notes": "Have misgivings about ; généralement au pluriel.",
+      "level": "C2",
+      "register": "neutral",
+      "tags": [
+        "decisions",
+        "word"
+      ],
+      "listIds": [
+        "pack-decisions"
+      ]
+    }
+  ]
+}

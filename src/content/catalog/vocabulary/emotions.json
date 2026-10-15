@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "emotions",
+  "title": "Émotions & réactions",
+  "description": "Nommer ce que vous ressentez, au-delà de happy et sad.",
+  "color": "#986287",
+  "items": [
+    {
+      "id": "v-b3d43e4a2d51",
+      "kind": "word",
+      "text": "apprehensive",
+      "translationFr": "inquiet à l’approche de quelque chose",
+      "meaning": "worried about something that may happen",
+      "example": "I felt apprehensive about meeting her family for the first time.",
+      "exampleFr": "J’appréhendais de rencontrer sa famille pour la première fois.",
+      "notes": "Apprehensive about + nom ou -ing ; inquiétude tournée vers l’avenir.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-6ea416d41153",
+      "kind": "word",
+      "text": "uneasy",
+      "translationFr": "mal à l’aise",
+      "meaning": "slightly worried or uncomfortable",
+      "example": "His silence made me uneasy, though I couldn't explain why.",
+      "exampleFr": "Son silence me mettait mal à l’aise, sans que je sache pourquoi.",
+      "notes": "Uneasy about ; malaise diffus plutôt que peur intense.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-5d77f16c01c0",
+      "kind": "word",
+      "text": "resentful",
+      "translationFr": "plein de ressentiment",
+      "meaning": "angry because one feels unfairly treated",
+      "example": "I became resentful when my efforts kept going unnoticed.",
+      "exampleFr": "J’ai commencé à éprouver du ressentiment quand mes efforts sont restés ignorés.",
+      "notes": "Resentful of someone ou about something ; sentiment durable d’injustice.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-6436dc7040bb",
+      "kind": "word",
+      "text": "reluctant",
+      "translationFr": "réticent",
+      "meaning": "unwilling or hesitant to do something",
+      "example": "I was reluctant to ask for help a second time.",
+      "exampleFr": "J’étais réticent à demander de l’aide une deuxième fois.",
+      "notes": "Reluctant to + verbe ; ne signifie pas incapable.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-cfb2a5fcd851",
+      "kind": "word",
+      "text": "overwhelmed",
+      "translationFr": "submergé",
+      "meaning": "unable to cope with the strength or amount of something",
+      "example": "I felt overwhelmed by all the decisions I had to make.",
+      "exampleFr": "Je me sentais submergé par toutes les décisions à prendre.",
+      "notes": "Overwhelmed by ou with ; peut aussi concerner une émotion positive.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-18116176d433",
+      "kind": "word",
+      "text": "underwhelmed",
+      "translationFr": "peu impressionné",
+      "meaning": "less impressed than expected",
+      "example": "I was underwhelmed by the restaurant everyone had recommended.",
+      "exampleFr": "Le restaurant recommandé par tout le monde m’a laissé sur ma faim.",
+      "notes": "Underwhelmed by ; déception face à des attentes élevées.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-de15c161e4d4",
+      "kind": "word",
+      "text": "disheartened",
+      "translationFr": "découragé",
+      "meaning": "having lost confidence or hope",
+      "example": "I felt disheartened after another unanswered application.",
+      "exampleFr": "Une nouvelle candidature sans réponse m’a découragé.",
+      "notes": "Disheartened by ; perte d’élan plutôt que simple tristesse.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-0ca764b88b60",
+      "kind": "word",
+      "text": "elated",
+      "translationFr": "transporté de joie",
+      "meaning": "extremely happy after something good happens",
+      "example": "I was elated when I heard that my sister was coming home.",
+      "exampleFr": "J’étais transporté de joie en apprenant que ma sœur rentrait.",
+      "notes": "Plus intense que pleased ; souvent après une bonne nouvelle.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-47b757ba5345",
+      "kind": "word",
+      "text": "mortified",
+      "translationFr": "terriblement gêné",
+      "meaning": "extremely embarrassed",
+      "example": "I was mortified when I realised I had called her by the wrong name.",
+      "exampleFr": "J’étais terriblement gêné en réalisant que je l’avais appelée par le mauvais prénom.",
+      "notes": "Mortified ; honte sociale, pas colère ni douleur physique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-3dddc23300e1",
+      "kind": "word",
+      "text": "flustered",
+      "translationFr": "décontenancé et agité",
+      "meaning": "nervous and confused because of pressure",
+      "example": "I got flustered when everyone started asking questions at once.",
+      "exampleFr": "J’ai perdu mes moyens quand tout le monde s’est mis à poser des questions.",
+      "notes": "Get flustered ; agitation passagère qui perturbe l’action.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-0604a9b5e590",
+      "kind": "word",
+      "text": "rattled",
+      "translationFr": "ébranlé nerveusement",
+      "meaning": "upset and less confident after a shock",
+      "example": "I was still rattled by the near miss when I reached home.",
+      "exampleFr": "J’étais encore secoué par l’accident évité de justesse en arrivant chez moi.",
+      "notes": "Rattled by ; perte de calme après un choc.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-3530ee5df975",
+      "kind": "word",
+      "text": "wary",
+      "translationFr": "méfiant, prudent",
+      "meaning": "careful because something may be risky",
+      "example": "I'm wary of promises that sound too good to be true.",
+      "exampleFr": "Je me méfie des promesses trop belles pour être vraies.",
+      "notes": "Wary of ; différent de weary, qui signifie las.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-4b393ad74a04",
+      "kind": "word",
+      "text": "weary",
+      "translationFr": "las",
+      "meaning": "very tired, often after repeated difficulty",
+      "example": "I grew weary of explaining the same problem every week.",
+      "exampleFr": "J’ai fini par me lasser d’expliquer le même problème chaque semaine.",
+      "notes": "Weary of + -ing ; fatigue ou lassitude prolongée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-5357b5a49b6f",
+      "kind": "word",
+      "text": "wistful",
+      "translationFr": "empreint de nostalgie",
+      "meaning": "sadly thoughtful about something desired or lost",
+      "example": "I felt wistful as I walked past the house where I grew up.",
+      "exampleFr": "Une nostalgie m’a saisi en passant devant la maison de mon enfance.",
+      "notes": "Mélange de désir et de tristesse douce, pas désespoir.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-c6e49cc72ece",
+      "kind": "word",
+      "text": "rueful",
+      "translationFr": "exprimant un regret un peu amusé",
+      "meaning": "showing regret with a touch of humour",
+      "example": "I gave a rueful smile when I saw the bill.",
+      "exampleFr": "J’ai souri avec un regret amusé en voyant l’addition.",
+      "notes": "Souvent rueful smile ; regret lucide, sans grande dramatisation.",
+      "level": "C2",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-f999424c715f",
+      "kind": "word",
+      "text": "disgruntled",
+      "translationFr": "mécontent",
+      "meaning": "annoyed because expectations were not met",
+      "example": "I left feeling disgruntled after waiting an hour for no explanation.",
+      "exampleFr": "Je suis parti mécontent après une heure d’attente sans explication.",
+      "notes": "Souvent disgruntled customers ; mécontentement lié au traitement reçu.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-76116662fa10",
+      "kind": "word",
+      "text": "restless",
+      "translationFr": "agité, incapable de tenir en place",
+      "meaning": "unable to relax or stay still",
+      "example": "I felt restless after spending the whole weekend indoors.",
+      "exampleFr": "Je n’arrivais plus à tenir en place après tout un week-end à l’intérieur.",
+      "notes": "Restless peut être physique ou lié à un besoin de changement.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-70de69f44b5b",
+      "kind": "word",
+      "text": "self-conscious",
+      "translationFr": "gêné par le regard des autres",
+      "meaning": "uncomfortably aware of how others see you",
+      "example": "I felt self-conscious speaking English in front of my colleagues.",
+      "exampleFr": "Je me sentais gêné de parler anglais devant mes collègues.",
+      "notes": "Self-conscious about ; pas conscient de soi au sens neutre.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-0dcf228443d2",
+      "kind": "word",
+      "text": "embittered",
+      "translationFr": "aigri",
+      "meaning": "made bitter by unfair or disappointing experiences",
+      "example": "I didn't want to become embittered by one failed friendship.",
+      "exampleFr": "Je ne voulais pas qu’une amitié ratée me rende aigri.",
+      "notes": "État durable ; plus fort que temporarily annoyed.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-f089b67e811c",
+      "kind": "word",
+      "text": "deflated",
+      "translationFr": "abattu après une déception",
+      "meaning": "suddenly less confident or enthusiastic",
+      "example": "I felt deflated when she dismissed the idea without listening.",
+      "exampleFr": "Je me suis senti abattu quand elle a écarté l’idée sans écouter.",
+      "notes": "Contraste entre l’enthousiasme initial et sa disparition.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-78fbb93da35c",
+      "kind": "word",
+      "text": "buoyant",
+      "translationFr": "plein d’entrain",
+      "meaning": "cheerful and confident about the future",
+      "example": "I felt buoyant after our first successful rehearsal.",
+      "exampleFr": "J’étais plein d’entrain après notre première répétition réussie.",
+      "notes": "Buoyant mood ; aussi utilisé pour une économie dynamique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-3e60485522e1",
+      "kind": "word",
+      "text": "despondent",
+      "translationFr": "profondément découragé",
+      "meaning": "having very little hope",
+      "example": "I grew despondent after months of looking for somewhere to live.",
+      "exampleFr": "J’ai sombré dans le découragement après des mois de recherche de logement.",
+      "notes": "Plus fort et plus soutenu que discouraged.",
+      "level": "C2",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-56de04eb292f",
+      "kind": "collocation",
+      "text": "a sense of relief",
+      "translationFr": "un sentiment de soulagement",
+      "meaning": "a feeling that a worry has ended",
+      "example": "I felt a sense of relief as soon as the train arrived.",
+      "exampleFr": "J’ai ressenti un soulagement dès l’arrivée du train.",
+      "notes": "Relief at ou on hearing ; après la fin d’une inquiétude.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-07283ba8ce89",
+      "kind": "collocation",
+      "text": "mixed feelings",
+      "translationFr": "des sentiments partagés",
+      "meaning": "both positive and negative feelings about something",
+      "example": "I have mixed feelings about leaving the neighbourhood.",
+      "exampleFr": "J’ai des sentiments partagés à l’idée de quitter le quartier.",
+      "notes": "Have mixed feelings about ; avis émotionnel ambivalent.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-16ed8789e049",
+      "kind": "collocation",
+      "text": "a pang of guilt",
+      "translationFr": "un pincement de culpabilité",
+      "meaning": "a sudden brief feeling of guilt",
+      "example": "I felt a pang of guilt when I ignored his message.",
+      "exampleFr": "J’ai ressenti un pincement de culpabilité en ignorant son message.",
+      "notes": "A pang of guilt ou regret ; bref et soudain.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-d233e81874d3",
+      "kind": "collocation",
+      "text": "a wave of nostalgia",
+      "translationFr": "une vague de nostalgie",
+      "meaning": "a strong sudden feeling of longing for the past",
+      "example": "That old song brought a wave of nostalgia over me.",
+      "exampleFr": "Cette vieille chanson m’a envahi de nostalgie.",
+      "notes": "A wave of ; image d’une émotion qui submerge.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-2cb1192c1171",
+      "kind": "collocation",
+      "text": "hold back tears",
+      "translationFr": "retenir ses larmes",
+      "meaning": "to stop oneself from crying",
+      "example": "I struggled to hold back tears during the farewell speech.",
+      "exampleFr": "J’ai eu du mal à retenir mes larmes pendant le discours d’adieu.",
+      "notes": "Hold back tears ; effort pour ne pas pleurer.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-8866cdf86bd3",
+      "kind": "collocation",
+      "text": "bottle up feelings",
+      "translationFr": "refouler ses émotions",
+      "meaning": "to keep emotions inside instead of expressing them",
+      "example": "I tend to bottle up my feelings until something small sets me off.",
+      "exampleFr": "J’ai tendance à refouler mes émotions jusqu’à ce qu’un détail me fasse craquer.",
+      "notes": "Bottling feelings up suggère une accumulation peu saine.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-60d6f4c0d299",
+      "kind": "phrasal-verb",
+      "text": "lash out",
+      "translationFr": "s’emporter contre quelqu’un",
+      "meaning": "to react angrily and attack someone verbally or physically",
+      "example": "I lashed out at my brother, though he wasn't to blame.",
+      "exampleFr": "Je me suis emporté contre mon frère alors qu’il n’y était pour rien.",
+      "notes": "Lash out at someone ; réaction vive, parfois injuste.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-d140bc6f0838",
+      "kind": "phrasal-verb",
+      "text": "snap out of it",
+      "translationFr": "sortir brusquement d’un état négatif",
+      "meaning": "to stop being in an unhelpful emotional state",
+      "example": "A walk helped me snap out of my bad mood.",
+      "exampleFr": "Une promenade m’a aidé à sortir de ma mauvaise humeur.",
+      "notes": "L’impératif peut sembler insensible face à une vraie détresse.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-f1b9515d9df4",
+      "kind": "phrasal-verb",
+      "text": "perk up",
+      "translationFr": "retrouver de l’énergie et de l’entrain",
+      "meaning": "to become more lively or cheerful",
+      "example": "I perked up after a short walk in the sunshine.",
+      "exampleFr": "J’ai retrouvé de l’entrain après une petite marche au soleil.",
+      "notes": "Perk up ; regain visible d’énergie, parfois physique autant qu’émotionnel.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "emotions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-c13f7a1cbce8",
+      "kind": "collocation",
+      "text": "brace oneself",
+      "translationFr": "se préparer mentalement",
+      "meaning": "to prepare for something difficult or unpleasant",
+      "example": "I braced myself for an uncomfortable conversation.",
+      "exampleFr": "Je me suis préparé à une conversation difficile.",
+      "notes": "Brace oneself for + nom ; ou to + verbe.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-96a8a7212415",
+      "kind": "phrasal-verb",
+      "text": "warm to someone",
+      "translationFr": "commencer à apprécier quelqu’un",
+      "meaning": "to gradually begin to like someone",
+      "example": "I warmed to her once we started talking about our families.",
+      "exampleFr": "J’ai commencé à l’apprécier quand nous avons parlé de nos familles.",
+      "notes": "Progression d’une impression réservée vers la sympathie.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-0d79609ae2bf",
+      "kind": "phrasal-verb",
+      "text": "get over something",
+      "translationFr": "se remettre de quelque chose",
+      "meaning": "to recover emotionally from something upsetting",
+      "example": "It took me a while to get over the disappointment.",
+      "exampleFr": "Il m’a fallu du temps pour me remettre de la déception.",
+      "notes": "Get over a shock ; ne pas confondre avec get it over with.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-64d4cfbf44a6",
+      "kind": "idiom",
+      "text": "take something personally",
+      "translationFr": "prendre quelque chose pour soi",
+      "meaning": "to treat a comment or action as an attack on oneself",
+      "example": "I took her silence personally, but she was simply exhausted.",
+      "exampleFr": "J’ai pris son silence pour moi, mais elle était simplement épuisée.",
+      "notes": "Take it personally ; interprétation personnelle parfois erronée.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-4b95ab922998",
+      "kind": "idiom",
+      "text": "be on edge",
+      "translationFr": "être à cran",
+      "meaning": "to feel tense and easily upset",
+      "example": "I was on edge all morning while waiting for the results.",
+      "exampleFr": "J’ai été à cran toute la matinée en attendant les résultats.",
+      "notes": "Be on edge ; tension, pas indécision.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "emotions",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-bebd1f965b24",
+      "kind": "idiom",
+      "text": "be taken aback",
+      "translationFr": "être décontenancé",
+      "meaning": "to be surprised, often unpleasantly",
+      "example": "I was taken aback by how blunt her reply was.",
+      "exampleFr": "La franchise brutale de sa réponse m’a décontenancé.",
+      "notes": "Be taken aback by ; forme passive fixe.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-90dee01e9e6f",
+      "kind": "expression",
+      "text": "at a loss for words",
+      "translationFr": "sans voix",
+      "meaning": "unable to think of what to say",
+      "example": "I was at a loss for words when they thanked me so warmly.",
+      "exampleFr": "Je suis resté sans voix devant leurs remerciements si chaleureux.",
+      "notes": "Peut exprimer émotion, surprise ou consternation.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "expression"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-41530e518d9d",
+      "kind": "collocation",
+      "text": "feel out of place",
+      "translationFr": "ne pas se sentir à sa place",
+      "meaning": "to feel that one does not belong in a situation",
+      "example": "I felt out of place at the reception in my muddy shoes.",
+      "exampleFr": "Je ne me sentais pas à ma place à la réception avec mes chaussures boueuses.",
+      "notes": "Situation sociale ou environnement qui semble inadapté.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-1963aaa5c304",
+      "kind": "expression",
+      "text": "much to my relief",
+      "translationFr": "à mon grand soulagement",
+      "meaning": "making me feel greatly relieved",
+      "example": "Much to my relief, nobody noticed the mistake.",
+      "exampleFr": "À mon grand soulagement, personne n’a remarqué l’erreur.",
+      "notes": "Much to my + nom d’émotion ; ouvre souvent la phrase.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "expression"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-81097c2fd05d",
+      "kind": "collocation",
+      "text": "a nagging worry",
+      "translationFr": "une inquiétude tenace",
+      "meaning": "a small worry that keeps returning",
+      "example": "I had a nagging worry that I had forgotten something important.",
+      "exampleFr": "Une inquiétude me taraudait : j’avais peut-être oublié quelque chose d’important.",
+      "notes": "Nagging décrit la persistance, pas forcément l’intensité.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    },
+    {
+      "id": "v-3813bbe5c489",
+      "kind": "word",
+      "text": "unfazed",
+      "translationFr": "imperturbable",
+      "meaning": "not worried or surprised by something difficult",
+      "example": "She seemed unfazed by the sudden change of plans.",
+      "exampleFr": "Le changement soudain de programme ne semblait pas la perturber.",
+      "notes": "Unfazed by ; généralement après un événement potentiellement déstabilisant.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "emotions",
+        "word"
+      ],
+      "listIds": [
+        "pack-emotions"
+      ]
+    }
+  ]
+}

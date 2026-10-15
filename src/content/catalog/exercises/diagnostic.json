@@ -1,0 +1,728 @@
+[
+  {
+    "id": "d-g1",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "present perfect"
+    ],
+    "instruction": "Choose the best option.",
+    "prompt": "I ___ three internship applications this week, but I haven't heard back yet.",
+    "options": [
+      "sent",
+      "have sent",
+      "had sent",
+      "was sending"
+    ],
+    "answer": 1,
+    "explanation": "“This week” is still in progress and the result matters now: present perfect.",
+    "difficulty": 59,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-v1",
+    "skills": [
+      "vocabulary"
+    ],
+    "tags": [
+      "false friend"
+    ],
+    "instruction": "Choose the correct word.",
+    "prompt": "I ___ my mistake as soon as I pressed ‘send’.",
+    "options": [
+      "realised",
+      "achieved",
+      "noticed of",
+      "remarked"
+    ],
+    "answer": 0,
+    "explanation": "Realise = become aware of (se rendre compte).",
+    "difficulty": 59,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-c1",
+    "skills": [
+      "collocations"
+    ],
+    "tags": [
+      "collocation"
+    ],
+    "instruction": "Natural collocation?",
+    "prompt": "Please ___ attention to the security warnings.",
+    "options": [
+      "pay",
+      "give",
+      "make",
+      "put"
+    ],
+    "answer": 0,
+    "explanation": "Pay attention.",
+    "difficulty": 59,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-i1",
+    "skills": [
+      "idioms"
+    ],
+    "tags": [
+      "phrasal verb"
+    ],
+    "instruction": "Meaning?",
+    "prompt": "“We had to call off the trip.”",
+    "options": [
+      "cancel",
+      "phone about",
+      "postpone",
+      "shorten"
+    ],
+    "answer": 0,
+    "explanation": "Call off = cancel.",
+    "difficulty": 59,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-r1",
+    "skills": [
+      "register"
+    ],
+    "tags": [
+      "email"
+    ],
+    "instruction": "Best opening for an email to a recruiter you don't know?",
+    "prompt": "",
+    "options": [
+      "Hey there!",
+      "Dear Ms Laurent,",
+      "Yo Ms Laurent,",
+      "To whom it may concern, hi,"
+    ],
+    "answer": 1,
+    "explanation": "Dear + title + surname when you know the name.",
+    "difficulty": 59,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-p1",
+    "skills": [
+      "precision"
+    ],
+    "tags": [
+      "confusables"
+    ],
+    "instruction": "Choose the correct word.",
+    "prompt": "The new policy will ___ thousands of students.",
+    "options": [
+      "affect",
+      "effect"
+    ],
+    "answer": 0,
+    "explanation": "Affect = verb, effect = noun (usually).",
+    "difficulty": 59,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-n1",
+    "skills": [
+      "nuance"
+    ],
+    "tags": [
+      "connotation"
+    ],
+    "instruction": "Which is a compliment?",
+    "prompt": "He's very ___.",
+    "options": [
+      "stubborn",
+      "determined",
+      "pig-headed",
+      "obstinate"
+    ],
+    "answer": 1,
+    "explanation": "Same trait, positive framing: determined.",
+    "difficulty": 59,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-s1",
+    "skills": [
+      "structure"
+    ],
+    "tags": [
+      "passive"
+    ],
+    "instruction": "Rewrite in the passive.",
+    "prompt": "Someone stole my laptop at the library.",
+    "answers": [
+      "My laptop was stolen at the library.",
+      "My laptop got stolen at the library."
+    ],
+    "mustInclude": [
+      [
+        "laptop (was|got) stolen"
+      ]
+    ],
+    "model": "My laptop was stolen at the library.",
+    "explanation": "Passive when the agent is unknown or irrelevant.",
+    "difficulty": 59,
+    "origin": "diagnostic",
+    "type": "rewrite"
+  },
+  {
+    "id": "d-pa1",
+    "skills": [
+      "paraphrase"
+    ],
+    "tags": [
+      "modals"
+    ],
+    "instruction": "Paraphrase with “must”.",
+    "prompt": "I'm sure she was exhausted after the flight.",
+    "answers": [
+      "She must have been exhausted after the flight."
+    ],
+    "mustInclude": [
+      [
+        "must have been"
+      ]
+    ],
+    "model": "She must have been exhausted after the flight.",
+    "explanation": "Certainty about the past: must have + past participle.",
+    "difficulty": 59,
+    "origin": "diagnostic",
+    "type": "rewrite"
+  },
+  {
+    "id": "d-rd1",
+    "skills": [
+      "reading"
+    ],
+    "tags": [
+      "implied meaning"
+    ],
+    "instruction": "What does the speaker mean?",
+    "prompt": "“I'm not saying it's a bad idea, I'm just saying we should think it through.”",
+    "options": [
+      "It's a great idea.",
+      "They have doubts about the idea.",
+      "They reject the idea completely."
+    ],
+    "answer": 1,
+    "explanation": "Softened doubt.",
+    "difficulty": 59,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-g2",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "conditionals"
+    ],
+    "instruction": "Choose the best option.",
+    "prompt": "If she ___ the bug earlier, we wouldn't be working this weekend.",
+    "options": [
+      "found",
+      "had found",
+      "would find",
+      "has found"
+    ],
+    "answer": 1,
+    "explanation": "Mixed conditional: past condition (had found), present result (wouldn't be working).",
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-v2",
+    "skills": [
+      "vocabulary"
+    ],
+    "tags": [
+      "adjectives"
+    ],
+    "instruction": "Choose the best word.",
+    "prompt": "The instructions were so ___ that nobody could follow them.",
+    "options": [
+      "convoluted",
+      "elaborated",
+      "complexed",
+      "sophisticated"
+    ],
+    "answer": 0,
+    "explanation": "Convoluted = unnecessarily complicated. “Sophisticated” is positive.",
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-c2",
+    "skills": [
+      "collocations"
+    ],
+    "tags": [
+      "collocation"
+    ],
+    "instruction": "Natural collocation?",
+    "prompt": "The proposal was ___ criticised by the unions.",
+    "options": [
+      "heavily",
+      "highly",
+      "strongly",
+      "deeply"
+    ],
+    "answer": 0,
+    "explanation": "Heavily criticised; highly unlikely; strongly opposed; deeply concerned.",
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-i2",
+    "skills": [
+      "idioms"
+    ],
+    "tags": [
+      "idiom"
+    ],
+    "instruction": "Meaning?",
+    "prompt": "“I'm still on the fence about the offer.”",
+    "options": [
+      "angry",
+      "undecided",
+      "excited",
+      "ready to refuse"
+    ],
+    "answer": 1,
+    "explanation": "On the fence = undecided.",
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-r2",
+    "skills": [
+      "register"
+    ],
+    "tags": [
+      "formal register"
+    ],
+    "instruction": "Rewrite formally (report).",
+    "prompt": "We need to look into why sales went down.",
+    "answers": [
+      "We need to investigate why sales declined.",
+      "We need to investigate the decline in sales.",
+      "The reasons for the decline in sales need to be investigated.",
+      "We must investigate why sales fell."
+    ],
+    "mustInclude": [
+      [
+        "investigat|examin|analy[sz]|explor|determin"
+      ],
+      [
+        "decline|decrease|fall|fell|drop"
+      ]
+    ],
+    "mustAvoid": [
+      "look into",
+      "went down"
+    ],
+    "model": "The reasons for the decline in sales need to be investigated.",
+    "explanation": "Look into → investigate/examine; went down → declined; nominalisation (the decline in sales).",
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "rewrite"
+  },
+  {
+    "id": "d-p2",
+    "skills": [
+      "precision"
+    ],
+    "tags": [
+      "confusables"
+    ],
+    "instruction": "Most precise word?",
+    "prompt": "The ___ roadworks outside my flat have been going on for months, day and night.",
+    "options": [
+      "continual",
+      "continuous",
+      "consistent"
+    ],
+    "answer": 1,
+    "explanation": "Day and night without a break: continuous. Continual = repeated with breaks. Consistent = coherent, regular.",
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-n2",
+    "skills": [
+      "nuance"
+    ],
+    "tags": [
+      "connotation"
+    ],
+    "instruction": "Which word suggests a bad reputation?",
+    "prompt": "The company is ___ for its poor customer service.",
+    "options": [
+      "famous",
+      "notorious",
+      "well known",
+      "celebrated"
+    ],
+    "answer": 1,
+    "explanation": "Notorious = famous for something bad.",
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-s2",
+    "skills": [
+      "structure"
+    ],
+    "tags": [
+      "cleft sentence"
+    ],
+    "instruction": "Rewrite starting with “What”.",
+    "prompt": "I need more time.",
+    "answers": [
+      "What I need is more time."
+    ],
+    "mustInclude": [
+      [
+        "^what i need is"
+      ]
+    ],
+    "model": "What I need is more time.",
+    "explanation": "Cleft sentence for emphasis.",
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "rewrite"
+  },
+  {
+    "id": "d-pa2",
+    "skills": [
+      "paraphrase"
+    ],
+    "tags": [
+      "reporting"
+    ],
+    "instruction": "Rewrite starting with “The suspect…”.",
+    "prompt": "It is believed that the suspect left the country.",
+    "answers": [
+      "The suspect is believed to have left the country."
+    ],
+    "mustInclude": [
+      [
+        "is believed to have left"
+      ]
+    ],
+    "model": "The suspect is believed to have left the country.",
+    "explanation": "Passive reporting + perfect infinitive for a past action.",
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "rewrite"
+  },
+  {
+    "id": "d-rd2",
+    "skills": [
+      "reading"
+    ],
+    "tags": [
+      "hedging"
+    ],
+    "instruction": "How strong is the claim?",
+    "prompt": "“These findings tentatively suggest a link between screen time and poorer sleep, though further research is warranted.”",
+    "options": [
+      "Proven cause",
+      "Weak, cautious evidence of an association",
+      "No link at all"
+    ],
+    "answer": 1,
+    "explanation": "Tentatively suggest + further research warranted = cautious.",
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-g3",
+    "skills": [
+      "grammar",
+      "structure"
+    ],
+    "tags": [
+      "inversion"
+    ],
+    "instruction": "One word.",
+    "prompt": "Only after the audit ___ the scale of the problem become clear.",
+    "answers": [
+      "did"
+    ],
+    "explanation": "“Only after…” at the start triggers inversion: did + subject + base verb.",
+    "difficulty": 86,
+    "origin": "diagnostic",
+    "type": "cloze"
+  },
+  {
+    "id": "d-v3",
+    "skills": [
+      "vocabulary"
+    ],
+    "tags": [
+      "academic"
+    ],
+    "instruction": "Choose the best word.",
+    "prompt": "Nothing in the data ___ the minister's claim that crime has fallen.",
+    "options": [
+      "corroborates",
+      "collaborates",
+      "correlates",
+      "consolidates"
+    ],
+    "answer": 0,
+    "explanation": "Corroborate = confirm with evidence. Collaborate = work together.",
+    "difficulty": 86,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-c3",
+    "skills": [
+      "collocations"
+    ],
+    "tags": [
+      "collocation"
+    ],
+    "instruction": "One verb.",
+    "prompt": "The report ___ serious doubts about the project's viability.",
+    "answers": [
+      "raises",
+      "casts",
+      "raised",
+      "cast"
+    ],
+    "explanation": "Raise / cast doubts on something.",
+    "difficulty": 86,
+    "origin": "diagnostic",
+    "type": "cloze"
+  },
+  {
+    "id": "d-i3",
+    "skills": [
+      "idioms"
+    ],
+    "tags": [
+      "idiom"
+    ],
+    "instruction": "Meaning?",
+    "prompt": "“Let's not throw the baby out with the bathwater.”",
+    "options": [
+      "Don't act too fast.",
+      "Don't discard the good parts along with the bad.",
+      "Don't blame the wrong person.",
+      "Don't waste resources."
+    ],
+    "answer": 1,
+    "explanation": "Don't reject something valuable while getting rid of what's bad.",
+    "difficulty": 86,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-r3",
+    "skills": [
+      "register",
+      "nuance"
+    ],
+    "tags": [
+      "register"
+    ],
+    "instruction": "Which sounds natural in a casual chat with colleagues?",
+    "prompt": "",
+    "options": [
+      "I'm inclined to concur.",
+      "Yeah, I reckon you're right.",
+      "I am in accordance with your view.",
+      "Your view is one with which I concur."
+    ],
+    "answer": 1,
+    "explanation": "Reckon = casual 'think'. The others are formal, and some are stilted.",
+    "difficulty": 86,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-p3",
+    "skills": [
+      "precision"
+    ],
+    "tags": [
+      "confusables"
+    ],
+    "instruction": "Most precise word?",
+    "prompt": "A judge must be ___: she has no personal interest in the outcome.",
+    "options": [
+      "uninterested",
+      "disinterested",
+      "indifferent",
+      "unconcerned"
+    ],
+    "answer": 1,
+    "explanation": "Disinterested = impartial. Uninterested = not interested.",
+    "difficulty": 86,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-n3",
+    "skills": [
+      "nuance"
+    ],
+    "tags": [
+      "reporting verbs"
+    ],
+    "instruction": "Which reporting verb shows the writer doubts the claim?",
+    "prompt": "The company ___ that its product is carbon-neutral.",
+    "options": [
+      "shows",
+      "claims",
+      "demonstrates",
+      "notes"
+    ],
+    "answer": 1,
+    "explanation": "Claim distances the writer. Show/demonstrate accept the fact.",
+    "difficulty": 86,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-s3",
+    "skills": [
+      "structure"
+    ],
+    "tags": [
+      "inversion"
+    ],
+    "instruction": "Rewrite starting with “Should”.",
+    "prompt": "If you have any questions, please contact me.",
+    "answers": [
+      "Should you have any questions, please contact me.",
+      "Should you have any questions, please do not hesitate to contact me.",
+      "Should you have any questions, please don't hesitate to contact me."
+    ],
+    "mustInclude": [
+      [
+        "^should you have"
+      ]
+    ],
+    "model": "Should you have any questions, please contact me.",
+    "explanation": "Formal conditional inversion: Should + subject + base verb.",
+    "difficulty": 86,
+    "origin": "diagnostic",
+    "type": "rewrite"
+  },
+  {
+    "id": "d-pa3",
+    "skills": [
+      "paraphrase"
+    ],
+    "tags": [
+      "concession"
+    ],
+    "instruction": "Rewrite using “Much as…”.",
+    "prompt": "Although I admire her work, I can't agree with her conclusions.",
+    "answers": [
+      "Much as I admire her work, I can't agree with her conclusions.",
+      "Much as I admire her work, I cannot agree with her conclusions."
+    ],
+    "mustInclude": [
+      [
+        "^much as i admire"
+      ]
+    ],
+    "model": "Much as I admire her work, I can't agree with her conclusions.",
+    "explanation": "“Much as” = although (with verbs of liking/admiring).",
+    "difficulty": 86,
+    "origin": "diagnostic",
+    "type": "rewrite"
+  },
+  {
+    "id": "d-rd3",
+    "skills": [
+      "reading",
+      "nuance"
+    ],
+    "tags": [
+      "irony"
+    ],
+    "instruction": "What's the tone?",
+    "prompt": "“The rollout went about as smoothly as you'd expect from a plan drawn up on a Friday afternoon.”",
+    "options": [
+      "Admiring",
+      "Ironic and critical",
+      "Neutral"
+    ],
+    "answer": 1,
+    "explanation": "Ironic: implies it went badly.",
+    "difficulty": 86,
+    "origin": "diagnostic",
+    "type": "mcq"
+  },
+  {
+    "id": "d-g4",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "french interference"
+    ],
+    "instruction": "Click the part with an error (or “No error”).",
+    "segments": [
+      "It's the first time ",
+      "I work ",
+      "with such a large dataset."
+    ],
+    "wrongIndex": 1,
+    "correction": "I've worked",
+    "explanation": "“It's the first time” + present perfect in English (French uses the present).",
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "spot-error"
+  },
+  {
+    "id": "d-w1",
+    "skills": [
+      "writing"
+    ],
+    "tags": [
+      "argument"
+    ],
+    "instruction": "Write 60–100 words.",
+    "prompt": "Should university attendance be compulsory? Give your opinion with at least one reason and one nuance.",
+    "model": "I don't think attendance should be compulsory, at least not for lectures. University students are adults, and forcing them into a lecture theatre rarely produces genuine engagement. That said, there's a strong case for requiring attendance at practical sessions and seminars, where learning depends on interaction and can't simply be caught up from slides. A sensible compromise would be to make lectures optional while treating participation in smaller classes as part of the assessment.",
+    "rubric": [
+      "Clear opinion",
+      "At least one developed reason",
+      "A nuance or concession (That said…, Admittedly…)",
+      "Few or no grammar errors",
+      "Natural, precise vocabulary (not just ‘good / bad / many’)"
+    ],
+    "minWords": 50,
+    "maxWords": 130,
+    "estSeconds": 360,
+    "difficulty": 67,
+    "origin": "diagnostic",
+    "type": "free"
+  }
+]

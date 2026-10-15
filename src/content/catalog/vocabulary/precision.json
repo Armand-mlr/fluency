@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "precision",
+  "title": "Descriptions & nuances",
+  "description": "Choisir le mot précis pour décrire une personne ou une situation.",
+  "color": "#758d8c",
+  "items": [
+    {
+      "id": "v-10a4d47a931f",
+      "kind": "word",
+      "text": "subtle",
+      "translationFr": "subtil, peu évident",
+      "meaning": "not immediately obvious but still important",
+      "example": "I noticed a subtle change in her attitude after the meeting.",
+      "exampleFr": "J’ai remarqué un léger changement dans son attitude après la réunion.",
+      "notes": "Subtle difference ; difficile à remarquer, pas forcément petit en importance.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-c93d705189e1",
+      "kind": "word",
+      "text": "substantial",
+      "translationFr": "considérable",
+      "meaning": "large enough to matter",
+      "example": "I needed a substantial amount of time to finish the application.",
+      "exampleFr": "Il me fallait un temps considérable pour terminer le dossier.",
+      "notes": "Substantial amount ; plus précis que a lot dans un contexte mesuré.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-89891430b358",
+      "kind": "word",
+      "text": "negligible",
+      "translationFr": "négligeable",
+      "meaning": "so small that it has little practical importance",
+      "example": "The difference in price was negligible compared with the travel cost.",
+      "exampleFr": "L’écart de prix était négligeable par rapport au coût du trajet.",
+      "notes": "Negligible effect ; attention à ne pas confondre avec negligent.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-908897f614cc",
+      "kind": "word",
+      "text": "marginal",
+      "translationFr": "très limité",
+      "meaning": "small in degree or effect",
+      "example": "The more expensive ticket offered only a marginal improvement.",
+      "exampleFr": "Le billet plus cher n’offrait qu’une amélioration minime.",
+      "notes": "Marginal improvement ; petit gain, pas forcément nul.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-ea07cf0b703f",
+      "kind": "word",
+      "text": "sporadic",
+      "translationFr": "irrégulier, épisodique",
+      "meaning": "happening occasionally at irregular intervals",
+      "example": "We stayed in sporadic contact after leaving university.",
+      "exampleFr": "Nous avons gardé un contact épisodique après l’université.",
+      "notes": "Sporadic contact/outbreaks ; événements espacés et irréguliers.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-0f9eea576ea9",
+      "kind": "word",
+      "text": "erratic",
+      "translationFr": "irrégulier et imprévisible",
+      "meaning": "changing in an unpredictable way",
+      "example": "My sleep became erratic during the house move.",
+      "exampleFr": "Mon sommeil est devenu irrégulier pendant le déménagement.",
+      "notes": "Erratic behaviour/schedule ; instabilité, pas erreur systématique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-26a41ba9774c",
+      "kind": "word",
+      "text": "fleeting",
+      "translationFr": "fugace",
+      "meaning": "lasting only a very short time",
+      "example": "I had a fleeting sense that I had been there before.",
+      "exampleFr": "J’ai eu la sensation fugace d’être déjà venu.",
+      "notes": "Fleeting thought/glimpse ; brièveté marquée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-976229739e40",
+      "kind": "word",
+      "text": "enduring",
+      "translationFr": "durable",
+      "meaning": "continuing for a long time",
+      "example": "The trip left me with an enduring interest in local history.",
+      "exampleFr": "Le voyage m’a laissé un intérêt durable pour l’histoire locale.",
+      "notes": "Enduring interest/friendship ; survit au moment initial.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-9577df168f59",
+      "kind": "word",
+      "text": "daunting",
+      "translationFr": "intimidant par sa difficulté",
+      "meaning": "making someone feel nervous about the difficulty ahead",
+      "example": "The amount of paperwork seemed daunting at first.",
+      "exampleFr": "La quantité de démarches semblait intimidante au début.",
+      "notes": "Daunting task ; difficulté perçue avant de commencer.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-ffaecb2c66b4",
+      "kind": "word",
+      "text": "straightforward",
+      "translationFr": "simple à comprendre ou à faire",
+      "meaning": "clear and not complicated",
+      "example": "The instructions were straightforward once I found the right page.",
+      "exampleFr": "Les instructions étaient simples une fois la bonne page trouvée.",
+      "notes": "Straightforward process ; pas nécessairement sans effort.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-b1cc1a29aadb",
+      "kind": "word",
+      "text": "cumbersome",
+      "translationFr": "lourd et peu pratique",
+      "meaning": "awkward or inefficient to use",
+      "example": "I found the registration process unnecessarily cumbersome.",
+      "exampleFr": "J’ai trouvé la procédure d’inscription inutilement lourde.",
+      "notes": "Cumbersome process/object ; lourdeur administrative ou physique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-54c4f31b2240",
+      "kind": "word",
+      "text": "tedious",
+      "translationFr": "fastidieux",
+      "meaning": "boring because it is repetitive or slow",
+      "example": "Checking every address by hand was tedious but necessary.",
+      "exampleFr": "Vérifier chaque adresse à la main était fastidieux mais nécessaire.",
+      "notes": "Tedious task ; ennui causé par la répétition.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-30e66a67e4e3",
+      "kind": "word",
+      "text": "laborious",
+      "translationFr": "laborieux",
+      "meaning": "requiring a lot of time and effort",
+      "example": "I took the laborious route of rebuilding the shelves myself.",
+      "exampleFr": "J’ai choisi la solution laborieuse de reconstruire moi-même les étagères.",
+      "notes": "Insiste sur l’effort ; tedious insiste sur l’ennui.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-a6b1c5ae23cf",
+      "kind": "word",
+      "text": "onerous",
+      "translationFr": "très contraignant",
+      "meaning": "involving an unfair or heavy burden",
+      "example": "I found the new reporting requirements onerous.",
+      "exampleFr": "J’ai trouvé les nouvelles obligations de compte rendu très contraignantes.",
+      "notes": "Onerous duties ; plutôt formel, charge pesante.",
+      "level": "C1",
+      "register": "formal",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-27980d60319e",
+      "kind": "word",
+      "text": "patchy",
+      "translationFr": "inégal",
+      "meaning": "good in some parts but weak in others",
+      "example": "My knowledge of the city's history was patchy.",
+      "exampleFr": "Ma connaissance de l’histoire de la ville était inégale.",
+      "notes": "Patchy knowledge/coverage ; lacunes entre des zones maîtrisées.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-081dbaea688f",
+      "kind": "word",
+      "text": "shaky",
+      "translationFr": "fragile, peu assuré",
+      "meaning": "not firm or reliable",
+      "example": "My understanding of the rules was still shaky.",
+      "exampleFr": "Ma compréhension des règles restait fragile.",
+      "notes": "Shaky grasp ; aussi voix ou mains tremblantes.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-d24702122f3b",
+      "kind": "word",
+      "text": "sketchy",
+      "translationFr": "sommaire, incomplet",
+      "meaning": "lacking clear or complete details",
+      "example": "The information we received was sketchy, so I asked for more.",
+      "exampleFr": "Les informations reçues étaient sommaires ; j’ai demandé des précisions.",
+      "notes": "Sketchy details ; en AmE informel, aussi suspect ou douteux.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-fc83a0a2a06e",
+      "kind": "word",
+      "text": "clear-cut",
+      "translationFr": "net, sans ambiguïté",
+      "meaning": "easy to distinguish or decide",
+      "example": "The choice wasn't as clear-cut as I had expected.",
+      "exampleFr": "Le choix n’était pas aussi évident que prévu.",
+      "notes": "Clear-cut distinction ; peu de place pour l’hésitation.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-ea585e631951",
+      "kind": "word",
+      "text": "ambivalent",
+      "translationFr": "partagé entre des sentiments opposés",
+      "meaning": "having conflicting feelings about something",
+      "example": "I remained ambivalent about turning my hobby into a job.",
+      "exampleFr": "Je restais partagé à l’idée de faire de mon loisir un métier.",
+      "notes": "Ambivalent about ; pas indifférent.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-f8b380da7e8c",
+      "kind": "word",
+      "text": "counterintuitive",
+      "translationFr": "contraire à l’intuition",
+      "meaning": "opposite to what one would naturally expect",
+      "example": "Taking more breaks felt counterintuitive, but I worked better.",
+      "exampleFr": "Faire plus de pauses semblait contre-intuitif, mais je travaillais mieux.",
+      "notes": "Counterintuitive result ; surprenant par rapport à l’intuition.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-c61a46df8609",
+      "kind": "word",
+      "text": "tangible",
+      "translationFr": "concret, perceptible",
+      "meaning": "real enough to be clearly noticed or measured",
+      "example": "I wanted a tangible sign that the lessons were helping.",
+      "exampleFr": "Je voulais un signe concret de l’utilité des cours.",
+      "notes": "Tangible benefit ; observable, pas forcément palpable physiquement.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-537c0adb7614",
+      "kind": "word",
+      "text": "elusive",
+      "translationFr": "difficile à saisir ou à obtenir",
+      "meaning": "difficult to find, achieve or describe",
+      "example": "A lasting sense of balance remained elusive that year.",
+      "exampleFr": "Un équilibre durable est resté difficile à atteindre cette année-là.",
+      "notes": "Elusive answer/goal ; échappe malgré les efforts.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-90e7552bb9a2",
+      "kind": "word",
+      "text": "underlying",
+      "translationFr": "sous-jacent",
+      "meaning": "existing beneath the visible surface of a situation",
+      "example": "I wanted to understand the underlying reason for her hesitation.",
+      "exampleFr": "Je voulais comprendre la raison profonde de son hésitation.",
+      "notes": "Underlying cause ; cause moins visible, pas un détail secondaire.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-09a9561099f8",
+      "kind": "word",
+      "text": "overriding",
+      "translationFr": "prioritaire sur tout le reste",
+      "meaning": "more important than all other considerations",
+      "example": "My overriding concern was getting everyone home safely.",
+      "exampleFr": "Ma préoccupation principale était de ramener tout le monde en sécurité.",
+      "notes": "Overriding priority/concern ; l’emporte sur les autres critères.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-97c4aeca50bf",
+      "kind": "word",
+      "text": "incidental",
+      "translationFr": "accessoire",
+      "meaning": "connected with something without being its main purpose",
+      "example": "The extra sightseeing was incidental to the work trip.",
+      "exampleFr": "Les visites supplémentaires étaient accessoires au déplacement professionnel.",
+      "notes": "Incidental to ; pas accidental, fait par accident.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-02f396e3d345",
+      "kind": "word",
+      "text": "inherent",
+      "translationFr": "inhérent",
+      "meaning": "existing as a basic part of something",
+      "example": "I accepted the uncertainty inherent in working for myself.",
+      "exampleFr": "J’ai accepté l’incertitude inhérente au travail indépendant.",
+      "notes": "Inherent in ; caractéristique intrinsèque, pas ajoutée ensuite.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-0c03d10b97a0",
+      "kind": "word",
+      "text": "noteworthy",
+      "translationFr": "digne d’attention",
+      "meaning": "important or unusual enough to notice",
+      "example": "The most noteworthy change was how confidently she spoke.",
+      "exampleFr": "Le changement le plus marquant était son assurance à l’oral.",
+      "notes": "Noteworthy improvement ; attire une attention justifiée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-5206b3ae796e",
+      "kind": "word",
+      "text": "striking",
+      "translationFr": "frappant",
+      "meaning": "very noticeable or impressive",
+      "example": "The contrast between the two neighbourhoods was striking.",
+      "exampleFr": "Le contraste entre les deux quartiers était frappant.",
+      "notes": "Striking contrast/resemblance ; effet perceptible immédiat.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-8355324d31ad",
+      "kind": "word",
+      "text": "unassuming",
+      "translationFr": "modeste et discret",
+      "meaning": "not trying to attract attention or appear important",
+      "example": "The owner was unassuming despite the restaurant's reputation.",
+      "exampleFr": "Le propriétaire restait discret malgré la réputation du restaurant.",
+      "notes": "Unassuming person/place ; jugement généralement positif.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-78f3b7efe0ab",
+      "kind": "word",
+      "text": "quirky",
+      "translationFr": "original d’une façon singulière",
+      "meaning": "unusual in a distinctive and often appealing way",
+      "example": "I liked the shop's quirky mix of books and old maps.",
+      "exampleFr": "J’aimais le mélange original de livres et de cartes anciennes de la boutique.",
+      "notes": "Quirky charm ; excentricité souvent sympathique.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-434cfdd97b80",
+      "kind": "word",
+      "text": "off-putting",
+      "translationFr": "rebutant",
+      "meaning": "making someone feel unwilling or uncomfortable",
+      "example": "I found the aggressive sales pitch off-putting.",
+      "exampleFr": "Le discours commercial agressif m’a rebuté.",
+      "notes": "Off-putting manner/smell ; cause une réaction de recul.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-1992088e2376",
+      "kind": "word",
+      "text": "disconcerting",
+      "translationFr": "troublant",
+      "meaning": "making someone feel uncertain or unsettled",
+      "example": "I found the sudden silence disconcerting.",
+      "exampleFr": "Le silence soudain m’a troublé.",
+      "notes": "Disconcerting situation ; trouble ou perte de repères, pas forcément peur.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-48725afc8d6b",
+      "kind": "word",
+      "text": "plentiful",
+      "translationFr": "abondant",
+      "meaning": "available in large quantities",
+      "example": "Quiet places to sit were plentiful outside the centre.",
+      "exampleFr": "Les endroits calmes où s’asseoir abondaient hors du centre.",
+      "notes": "Plentiful supply ; disponibilité en quantité.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-d1d5bc146af4",
+      "kind": "word",
+      "text": "scarce",
+      "translationFr": "rare, en quantité insuffisante",
+      "meaning": "not available in sufficient quantities",
+      "example": "Affordable rooms were scarce during the festival.",
+      "exampleFr": "Les chambres abordables étaient rares pendant le festival.",
+      "notes": "Scarce resources ; insuffisance par rapport à la demande.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-bea8411e219c",
+      "kind": "word",
+      "text": "sparse",
+      "translationFr": "clairsemé",
+      "meaning": "thinly spread with few elements",
+      "example": "The room had sparse furniture and no curtains.",
+      "exampleFr": "La pièce était peu meublée et sans rideaux.",
+      "notes": "Sparse vegetation/details ; densité faible, pas forcément pénurie.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-c57c0a321e47",
+      "kind": "word",
+      "text": "subdued",
+      "translationFr": "atténué, calme",
+      "meaning": "less lively or intense than usual",
+      "example": "The mood was subdued after we heard the news.",
+      "exampleFr": "L’ambiance était morose après la nouvelle.",
+      "notes": "Subdued lighting = lumière tamisée ; subdued mood = humeur retenue.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-67c5c899f9a7",
+      "kind": "word",
+      "text": "lavish",
+      "translationFr": "somptueux, très généreux",
+      "meaning": "using or giving a great amount",
+      "example": "I wasn't prepared for such a lavish welcome.",
+      "exampleFr": "Je ne m’attendais pas à un accueil aussi généreux.",
+      "notes": "Lavish praise/welcome ; abondance marquée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-aebcc083c698",
+      "kind": "word",
+      "text": "palpable",
+      "translationFr": "palpable, très perceptible",
+      "meaning": "so strong that it seems almost physical",
+      "example": "The tension in the room was palpable.",
+      "exampleFr": "La tension dans la pièce était palpable.",
+      "notes": "Palpable tension/relief ; émotion collective très sensible.",
+      "level": "C2",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-c8fa07aa8e7c",
+      "kind": "word",
+      "text": "perfunctory",
+      "translationFr": "fait machinalement, sans soin",
+      "meaning": "done quickly without real interest or care",
+      "example": "I received a perfunctory apology and no explanation.",
+      "exampleFr": "J’ai reçu des excuses de pure forme, sans explication.",
+      "notes": "Perfunctory check/apology ; geste accompli pour la forme.",
+      "level": "C2",
+      "register": "formal",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-35f142f9702f",
+      "kind": "word",
+      "text": "unwieldy",
+      "translationFr": "difficile à manier",
+      "meaning": "difficult to handle because of size or complexity",
+      "example": "The document had become unwieldy after months of additions.",
+      "exampleFr": "Le document était devenu difficile à manier après des mois d’ajouts.",
+      "notes": "Unwieldy object/system ; trop lourd ou complexe pour un usage commode.",
+      "level": "C2",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-93d4a3688cc7",
+      "kind": "word",
+      "text": "unequivocal",
+      "translationFr": "sans équivoque",
+      "meaning": "completely clear and unambiguous",
+      "example": "I needed an unequivocal answer before booking the tickets.",
+      "exampleFr": "Il me fallait une réponse sans équivoque avant de réserver.",
+      "notes": "Unequivocal support/refusal ; absence d’ambiguïté.",
+      "level": "C2",
+      "register": "formal",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    },
+    {
+      "id": "v-0e6e1b490c5f",
+      "kind": "word",
+      "text": "piecemeal",
+      "translationFr": "fragmentaire, au coup par coup",
+      "meaning": "done in separate stages without an overall plan",
+      "example": "Our piecemeal repairs never solved the underlying problem.",
+      "exampleFr": "Nos réparations au coup par coup n’ont jamais résolu le problème de fond.",
+      "notes": "Piecemeal approach ; souvent critique d’un manque de cohérence.",
+      "level": "C2",
+      "register": "neutral",
+      "tags": [
+        "precision",
+        "word"
+      ],
+      "listIds": [
+        "pack-precision"
+      ]
+    }
+  ]
+}

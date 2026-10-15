@@ -1,0 +1,3103 @@
+[
+  {
+    "id": "narrative-tenses",
+    "title": "Raconter au passé",
+    "subtitle": "Installer le décor, faire avancer le récit, revenir en arrière.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "narrative-tenses",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-experiences"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Le past simple porte les événements principaux et successifs. Le past continuous montre une action en cours autour de ces événements. Le past perfect situe une action avant un autre moment déjà passé. Choisissez le temps à partir du point de vue du narrateur : un fait antérieur n’exige pas automatiquement le past perfect si la chronologie est déjà claire. Après avoir établi le retour en arrière, on peut poursuivre au past simple. L’objectif est de guider l’auditeur, pas de multiplier les temps complexes.",
+        "pattern": "was/were + V-ing → décor · V au passé → événement · had + participe passé → antériorité",
+        "examples": [
+          {
+            "en": "I was looking for my ticket when the train arrived.",
+            "fr": "Je cherchais mon billet quand le train est arrivé.",
+            "note": "La recherche était en cours ; l’arrivée interrompt ou situe cette action."
+          },
+          {
+            "en": "By the time I reached the station, the train had left.",
+            "fr": "Quand je suis arrivé à la gare, le train était déjà parti.",
+            "note": "Le départ précède mon arrivée, qui sert de repère passé."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "When I arrived, she has already left.",
+        "right": "When I arrived, she had already left.",
+        "why": "Has left se repère par rapport au présent ; ici le point de référence est mon arrivée passée."
+      }
+    ],
+    "takeaway": "Posez un repère passé, puis distinguez ce qui se déroule, ce qui arrive et ce qui était déjà terminé.",
+    "recallPrompt": "Sans relire, racontez une interruption et un événement qui l’avait précédée.",
+    "exercises": [
+      {
+        "id": "narrative-tenses-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "narrative-tenses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous arrivez après le départ de votre amie. Quelle phrase rend cette chronologie explicite ?",
+        "options": [
+          "When I arrived, she had already left.",
+          "When I arrived, she has already left.",
+          "When I arrived, she is leaving."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Had left place son départ avant mon arrivée.",
+          "Has left prend le présent comme repère.",
+          "Is leaving est au présent, hors du récit passé."
+        ],
+        "explanation": "Le past perfect relie deux moments passés : départ d’abord, arrivée ensuite. Already souligne que le départ était accompli."
+      },
+      {
+        "id": "narrative-tenses-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "narrative-tenses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "I ___ (walk) home when I heard someone call my name.",
+        "answers": [
+          "was walking"
+        ],
+        "hint": "Action en cours au moment de heard.",
+        "explanation": "Was walking installe l’action en cours. Heard, au past simple, introduit l’événement ponctuel qui survient pendant cette marche."
+      },
+      {
+        "id": "narrative-tenses-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "narrative-tenses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Faites une seule phrase avec had started et before.",
+        "prompt": "The film started. Ten minutes later, we arrived.",
+        "model": "The film had started ten minutes before we arrived.",
+        "answers": [
+          "The film had started ten minutes before we arrived."
+        ],
+        "hint": "Faites une seule phrase avec had started et before.",
+        "explanation": "Had started rend explicite l’antériorité du début du film par rapport à notre arrivée."
+      },
+      {
+        "id": "narrative-tenses-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "narrative-tenses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "En trois phrases, racontez une petite mésaventure. Situez une action en cours, un événement et un fait antérieur.",
+        "model": "I was cycling home when I noticed a flat tyre. I had left my repair kit at work. I ended up walking the last two kilometres.",
+        "rubric": [
+          "Une action en cours au past continuous.",
+          "Un événement au past simple.",
+          "Un fait antérieur au past perfect, avec une chronologie cohérente."
+        ],
+        "explanation": "Vérifiez les repères temporels, pas seulement la présence de trois formes verbales. Plusieurs récits sont possibles.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "present-perfect",
+    "title": "Relier passé et présent",
+    "subtitle": "Choisir entre une période terminée et un bilan encore ouvert.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "present-perfect",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-experiences"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Le past simple situe un fait dans un cadre passé terminé : yesterday, in 2022, when I was a student. Le present perfect fait un bilan jusqu’à maintenant ou montre un résultat présent sans dater l’événement dans un cadre fermé. Avec this week, le choix dépend de la façon dont le locuteur voit la période. Le present perfect continuous insiste sur la durée ou l’activité récente ; le simple convient aux résultats comptés et aux verbes d’état comme know. Ne calquez pas automatiquement le passé composé français.",
+        "pattern": "have/has + participe passé · have/has been + V-ing · past simple + repère terminé",
+        "examples": [
+          {
+            "en": "I have sent three applications this week.",
+            "fr": "J’ai envoyé trois candidatures cette semaine.",
+            "note": "Bilan chiffré dans une semaine envisagée comme encore ouverte."
+          },
+          {
+            "en": "I have been looking for a flat since June.",
+            "fr": "Je cherche un appartement depuis juin.",
+            "note": "L’activité a commencé avant maintenant et se prolonge."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I have met her yesterday.",
+        "right": "I met her yesterday.",
+        "why": "Yesterday ferme le cadre temporel : choisissez le past simple."
+      }
+    ],
+    "takeaway": "Période fermée : past simple. Bilan jusqu’à maintenant : present perfect. Activité dans sa durée : perfect continuous.",
+    "recallPrompt": "Quelle différence entre I have read the book et I have been reading the book ?",
+    "exercises": [
+      {
+        "id": "present-perfect-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "present-perfect",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Quel énoncé présente clairement un résultat terminé, sans dater la lecture ?",
+        "options": [
+          "I have been reading the book.",
+          "I have read the book.",
+          "I was reading the book."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "L’activité est mise en avant, sans garantir la fin.",
+          "La lecture complète constitue le résultat.",
+          "Action en cours à un moment passé."
+        ],
+        "explanation": "Le simple présente le résultat : livre lu. Le continuous décrit l’activité et peut expliquer une situation présente sans affirmer qu’elle est terminée."
+      },
+      {
+        "id": "present-perfect-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "present-perfect",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "I have known her ___ 2018.",
+        "answers": [
+          "since"
+        ],
+        "hint": "Point de départ daté.",
+        "explanation": "Since introduit le début d’une période. For introduit sa durée. Know décrit ici un état : have known, pas have been knowing."
+      },
+      {
+        "id": "present-perfect-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "present-perfect",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Réunissez les deux phrases avec le present perfect continuous.",
+        "prompt": "I started waiting an hour ago. I am still waiting.",
+        "model": "I have been waiting for an hour.",
+        "answers": [
+          "I have been waiting for an hour."
+        ],
+        "hint": "Réunissez les deux phrases avec le present perfect continuous.",
+        "explanation": "Have been waiting relie le début passé à l’attente toujours actuelle. For introduit une durée."
+      },
+      {
+        "id": "present-perfect-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "present-perfect",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Écrivez un bilan de votre semaine en deux ou trois phrases : un résultat compté et une activité en cours.",
+        "model": "I have finished two chapters this week. I have been working on my pronunciation since Monday, but I still find some sounds difficult.",
+        "rubric": [
+          "Un résultat avec le present perfect simple.",
+          "Une activité avec le continuous.",
+          "For pour une durée, since pour un point de départ si vous les utilisez."
+        ],
+        "explanation": "Ne forcez pas le continuous avec les verbes d’état. Le choix doit refléter résultat ou activité.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "past-habits",
+    "title": "Used to, would, be used to",
+    "subtitle": "Distinguer habitude passée et familiarité actuelle.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "past-habits",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-everyday"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Used to + base verbale présente un état ou une habitude passée contrastant avec maintenant. Would + base verbale raconte des actions répétées dans un cadre passé déjà établi ; il ne remplace généralement pas used to pour les états comme live ou own. Be used to + nom ou -ing signifie être habitué ; get used to décrit l’adaptation. Le to de ces deux dernières constructions est une préposition. Après did dans une question ou une négation, la forme standard écrite est use to.",
+        "pattern": "used to + V · would + V (actions répétées) · be/get used to + nom/V-ing",
+        "examples": [
+          {
+            "en": "I used to live by the sea; every Sunday, we would walk along the beach.",
+            "fr": "J’habitais autrefois près de la mer ; chaque dimanche, nous marchions sur la plage.",
+            "note": "Used to introduit l’état ; would développe la routine."
+          },
+          {
+            "en": "I am getting used to working early.",
+            "fr": "Je m’habitue à travailler tôt.",
+            "note": "Adaptation présente, sans référence obligatoire à une habitude passée."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I am used to wake up early.",
+        "right": "I am used to waking up early.",
+        "why": "Après be used to, le verbe prend -ing car to est prépositionnel."
+      }
+    ],
+    "takeaway": "Used to parle d’autrefois ; be used to parle de ce qui est familier.",
+    "recallPrompt": "Dites une ancienne habitude, puis une habitude actuelle à laquelle vous vous adaptez.",
+    "exercises": [
+      {
+        "id": "past-habits-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "past-habits",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous n’êtes pas encore pleinement habitué à vos nouveaux horaires.",
+        "options": [
+          "I used to work nights.",
+          "I am getting used to working nights.",
+          "I would work nights."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Ancienne habitude.",
+          "Adaptation en cours.",
+          "Habitude passée si le contexte est établi."
+        ],
+        "explanation": "Getting used to exprime un processus d’adaptation. Working suit la préposition to."
+      },
+      {
+        "id": "past-habits-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "past-habits",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "Did you ___ to live near the station?",
+        "answers": [
+          "use"
+        ],
+        "hint": "Après did, utilisez la base verbale.",
+        "explanation": "La forme standard est did you use to. Did porte déjà la marque du passé."
+      },
+      {
+        "id": "past-habits-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "past-habits",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Reformulez avec be used to.",
+        "prompt": "Working alone feels normal to me now.",
+        "model": "I am used to working alone now.",
+        "answers": [
+          "I am used to working alone now."
+        ],
+        "hint": "Reformulez avec be used to.",
+        "explanation": "Be used to + -ing décrit la familiarité actuelle, pas une ancienne habitude."
+      },
+      {
+        "id": "past-habits-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "past-habits",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Comparez votre quotidien d’avant et celui d’aujourd’hui avec used to et getting used to.",
+        "model": "I used to drive to work every day. Now I am getting used to cycling in the rain.",
+        "rubric": [
+          "Used to + base verbale pour le passé.",
+          "Getting used to + -ing pour l’adaptation.",
+          "Un contraste temporel clair."
+        ],
+        "explanation": "N’utilisez pas used to pour dire simplement que vous avez fait quelque chose une seule fois.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "future-in-past",
+    "title": "Le futur vu depuis le passé",
+    "subtitle": "Raconter une intention, une imminence ou un avenir alors inconnu.",
+    "level": "C1",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "future-in-past",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-experiences",
+      "pack-decisions"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Dans un récit passé, was going to présente une intention ou une prédiction de l’époque. Was about to situe une action imminente. Would permet de regarder l’avenir depuis ce point passé, notamment dans le discours rapporté ou un récit rétrospectif. Ces constructions ne garantissent pas à elles seules que l’action a réellement eu lieu. Pour une intention abandonnée, ajoutez le contexte qui l’explique. Évitez de confondre would narratif, hypothétique et habituel : le contexte fait le tri.",
+        "pattern": "was/were going to + V · was/were about to + V · said/thought … would + V",
+        "examples": [
+          {
+            "en": "I was about to leave when she called.",
+            "fr": "J’allais partir quand elle a appelé.",
+            "note": "Le départ était imminent, pas seulement envisagé."
+          },
+          {
+            "en": "I thought we would meet again the following summer.",
+            "fr": "Je pensais que nous nous reverrions l’été suivant.",
+            "note": "Would place la rencontre après un repère déjà passé."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I was about leaving when he arrived.",
+        "right": "I was about to leave when he arrived.",
+        "why": "About to est suivi de la base verbale."
+      }
+    ],
+    "takeaway": "Intention : was going to. Imminence : was about to. Futur depuis un passé : would.",
+    "recallPrompt": "Comment montrer qu’un projet prévu a finalement été abandonné ?",
+    "exercises": [
+      {
+        "id": "future-in-past-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "future-in-past",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Quelle phrase insiste sur le fait que vous étiez sur le point de partir ?",
+        "options": [
+          "I used to leave.",
+          "I was about to leave.",
+          "I had left."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Habitude ancienne.",
+          "Imminence.",
+          "Départ déjà accompli."
+        ],
+        "explanation": "Was about to situe le narrateur juste avant l’action. Le départ n’est pas encore présenté comme accompli."
+      },
+      {
+        "id": "future-in-past-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "future-in-past",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "She said she ___ call the following day.",
+        "answers": [
+          "would"
+        ],
+        "hint": "Futur rapporté depuis said.",
+        "explanation": "Would transpose le futur dans le passé. The following day se comprend depuis le jour où elle a parlé."
+      },
+      {
+        "id": "future-in-past-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "future-in-past",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Utilisez was going to pour l’intention abandonnée.",
+        "prompt": "I intended to book a hotel, but I changed my mind.",
+        "model": "I was going to book a hotel, but I changed my mind.",
+        "answers": [
+          "I was going to book a hotel, but I changed my mind."
+        ],
+        "hint": "Utilisez was going to pour l’intention abandonnée.",
+        "explanation": "Le contexte but I changed my mind indique que le projet n’a pas été réalisé."
+      },
+      {
+        "id": "future-in-past-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "future-in-past",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Racontez un projet interrompu en deux phrases avec was about to et was going to.",
+        "model": "I was going to visit my cousin on Saturday. I was about to book the train when she called to say she was ill.",
+        "rubric": [
+          "Une intention identifiable.",
+          "Une action imminente.",
+          "L’événement qui change la suite."
+        ],
+        "explanation": "Les deux constructions ne décrivent pas le même degré de proximité avec l’action.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "mixed-conditionals",
+    "title": "Les conditionnels mixtes",
+    "subtitle": "Relier une cause passée à une conséquence présente.",
+    "level": "C1",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "mixed-conditionals",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-decisions"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Un conditionnel irréel ne se choisit pas uniquement par numéro : identifiez le moment de la condition et celui du résultat. If + past perfect, would + base verbale relie un passé différent à un présent différent. If + past simple, would have + participe passé peut relier une caractéristique présente ou stable à un résultat passé. Le prétérit de la condition marque alors la distance avec le réel, pas nécessairement le passé chronologique. Avec be, were est fréquent pour l’hypothèse formelle ; was existe dans l’usage.",
+        "pattern": "If + had + participe, would + V (maintenant) · If + prétérit, would have + participe (passé)",
+        "examples": [
+          {
+            "en": "If I had taken that job, I would live in Bristol now.",
+            "fr": "Si j’avais accepté cet emploi, j’habiterais à Bristol maintenant.",
+            "note": "Décision passée, conséquence actuelle."
+          },
+          {
+            "en": "If I were less shy, I would have spoken to her yesterday.",
+            "fr": "Si j’étais moins timide, je lui aurais parlé hier.",
+            "note": "Trait actuel ou stable, occasion passée manquée."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "If I would have left earlier, I would be there now.",
+        "right": "If I had left earlier, I would be there now.",
+        "why": "Dans cette hypothèse standard, would appartient au résultat, pas à la condition."
+      }
+    ],
+    "takeaway": "Datez séparément la condition et la conséquence avant de choisir les formes.",
+    "recallPrompt": "Inventez une décision passée qui changerait votre situation actuelle.",
+    "exercises": [
+      {
+        "id": "mixed-conditionals-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "mixed-conditionals",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "La formation non suivie dans le passé explique une difficulté actuelle.",
+        "options": [
+          "If I had taken the course, I would understand this now.",
+          "If I take the course, I would have understood this yesterday.",
+          "If I would take the course, I understand this now."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Passé irréel → présent irréel.",
+          "Repères incohérents pour le sens demandé.",
+          "Mélange de formes qui ne donne pas la condition demandée."
+        ],
+        "explanation": "Had taken renvoie au choix passé ; would understand décrit le résultat actuel. Now aide à lever l’ambiguïté."
+      },
+      {
+        "id": "mixed-conditionals-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "mixed-conditionals",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "If I had saved more, I ___ (be able) to travel now.",
+        "answers": [
+          "would be able"
+        ],
+        "hint": "Résultat présent d’une condition passée.",
+        "explanation": "Would be able to situe la capacité imaginaire maintenant, tandis que had saved situe la condition auparavant."
+      },
+      {
+        "id": "mixed-conditionals-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "mixed-conditionals",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Reliez les idées avec if et could.",
+        "prompt": "I did not learn to drive. I cannot take that job now.",
+        "model": "If I had learned to drive, I could take that job now.",
+        "answers": [
+          "If I had learned to drive, I could take that job now.",
+          "If I had learnt to drive, I could take that job now."
+        ],
+        "hint": "Reliez les idées avec if et could.",
+        "explanation": "Could convient à la capacité ou possibilité. Learned et learnt sont des variantes acceptables."
+      },
+      {
+        "id": "mixed-conditionals-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "mixed-conditionals",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Écrivez deux conditionnels : un choix passé qui changerait le présent, puis une qualité stable qui aurait changé hier.",
+        "model": "If I had moved closer, I would spend less time commuting now. If I were more organised, I would have remembered the appointment yesterday.",
+        "rubric": [
+          "Une condition au past perfect avec résultat présent.",
+          "Une condition stable au prétérit avec résultat passé.",
+          "Les repères temporels rendent les deux liens compréhensibles."
+        ],
+        "explanation": "La cohérence temporelle prime sur la récitation d’une formule.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "wish-if-only",
+    "title": "Wish et if only",
+    "subtitle": "Exprimer un regret, un manque ou une irritation.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "wish-if-only",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-emotions",
+      "pack-decisions"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Wish + past simple exprime un présent que l’on voudrait différent. Wish + past perfect porte sur un passé que l’on ne peut plus changer. Wish + would vise souvent un changement de comportement ou une situation agaçante ; évitez de l’utiliser pour votre propre décision volontaire. Could exprime une capacité ou une possibilité souhaitée. If only renforce le souhait ou le regret. Pour un souhait réalisable dans le futur, hope est généralement le choix naturel.",
+        "pattern": "wish + prétérit (présent irréel) · wish + had + participe (regret passé) · wish + would (changement)",
+        "examples": [
+          {
+            "en": "I wish I had more time to read.",
+            "fr": "J’aimerais avoir plus de temps pour lire.",
+            "note": "Had est ici un prétérit, pas un past perfect."
+          },
+          {
+            "en": "I wish I had asked before making the booking.",
+            "fr": "Je regrette de ne pas avoir demandé avant de réserver.",
+            "note": "Had asked renvoie à un regret passé."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I wish I will pass the exam tomorrow.",
+        "right": "I hope I pass the exam tomorrow.",
+        "why": "Hope convient à un résultat futur souhaité et encore possible."
+      }
+    ],
+    "takeaway": "Wish imagine autrement le réel ; hope vise une issue encore possible.",
+    "recallPrompt": "Distinguez I wish I had time de I wish I had made time.",
+    "exercises": [
+      {
+        "id": "wish-if-only-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "wish-if-only",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous regrettez un message déjà envoyé.",
+        "options": [
+          "I wish I had not sent it.",
+          "I wish I do not send it.",
+          "I hope I had not sent it."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Regret passé : had not sent.",
+          "Présent simple incompatible avec ce regret.",
+          "Hope ne construit pas ce passé irréel."
+        ],
+        "explanation": "Wish + past perfect exprime l’inverse d’un fait passé : le message a bien été envoyé."
+      },
+      {
+        "id": "wish-if-only-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "wish-if-only",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "I wish my neighbour ___ stop playing loud music at midnight.",
+        "answers": [
+          "would"
+        ],
+        "hint": "Vous souhaitez un changement de comportement.",
+        "explanation": "Would souligne ici l’irritation et le changement attendu chez une autre personne."
+      },
+      {
+        "id": "wish-if-only-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "wish-if-only",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Reformulez avec I wish.",
+        "prompt": "I regret not keeping her number.",
+        "model": "I wish I had kept her number.",
+        "answers": [
+          "I wish I had kept her number."
+        ],
+        "hint": "Reformulez avec I wish.",
+        "explanation": "Had kept imagine un passé différent ; la phrase signifie que vous n’avez pas conservé le numéro."
+      },
+      {
+        "id": "wish-if-only-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "wish-if-only",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Écrivez un souhait sur votre situation actuelle et un regret sur une décision passée.",
+        "model": "I wish I lived nearer my friends. If only I had visited them more often last year.",
+        "rubric": [
+          "Prétérit après wish pour le présent.",
+          "Past perfect après if only pour le passé.",
+          "Le sens du regret est clair."
+        ],
+        "explanation": "Ne placez pas will après wish pour exprimer simplement un espoir futur.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "modal-deductions",
+    "title": "Déduire sans affirmer",
+    "subtitle": "Must have, might have, can’t have.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "modal-deductions",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-ideas",
+      "pack-experiences"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Must have + participe passé exprime une déduction forte sur le passé. Might, may ou could have expriment une possibilité, avec des nuances dépendant du contexte. Can’t have exprime une impossibilité déduite. Mustn’t indique normalement une interdiction : ce n’est pas le négatif de cette déduction. Distinguez aussi could have comme possibilité passée de could have comme occasion non réalisée. Appuyez vos déductions sur un indice au lieu de transformer une supposition en certitude.",
+        "pattern": "must/might/may/could/can’t + have + participe passé",
+        "examples": [
+          {
+            "en": "Her coat is still here; she can’t have gone far.",
+            "fr": "Son manteau est encore ici ; elle ne peut pas être allée bien loin.",
+            "note": "Une forte déduction négative fondée sur un indice."
+          },
+          {
+            "en": "He might have missed the message.",
+            "fr": "Il a peut-être raté le message.",
+            "note": "Possibilité sans certitude ni accusation."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "He must have went home.",
+        "right": "He must have gone home.",
+        "why": "Après have, il faut le participe passé gone, pas le prétérit went."
+      }
+    ],
+    "takeaway": "Must have déduit fortement ; might have laisse une possibilité ; can’t have exclut.",
+    "recallPrompt": "Quel indice rendrait must have plausible dans une phrase de votre choix ?",
+    "exercises": [
+      {
+        "id": "modal-deductions-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "modal-deductions",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous voyez les rues trempées et déduisez une pluie récente.",
+        "options": [
+          "It must have rained.",
+          "It must rain yesterday.",
+          "It must have rain."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Déduction passée correctement formée.",
+          "Base verbale et yesterday ne construisent pas cette déduction.",
+          "Have exige le participe rained."
+        ],
+        "explanation": "Must have rained est une inférence à partir des rues mouillées, pas le compte rendu d’une observation directe."
+      },
+      {
+        "id": "modal-deductions-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "modal-deductions",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "She ___ have forgotten; I reminded her five minutes ago.",
+        "answers": [
+          "can't",
+          "cannot",
+          "couldn't",
+          "could not"
+        ],
+        "hint": "Vous jugez l’oubli très improbable.",
+        "explanation": "Can’t have ou couldn’t have exprime l’impossibilité déduite. Le rappel récent fournit un indice ; ce n’est pas une preuve absolue."
+      },
+      {
+        "id": "modal-deductions-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "modal-deductions",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Reformulez avec might have.",
+        "prompt": "Perhaps he took the wrong train.",
+        "model": "He might have taken the wrong train.",
+        "answers": [
+          "He might have taken the wrong train."
+        ],
+        "hint": "Reformulez avec might have.",
+        "explanation": "Might have taken conserve l’incertitude de perhaps et utilise le participe taken."
+      },
+      {
+        "id": "modal-deductions-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "modal-deductions",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Votre ami est en retard. Proposez deux explications prudentes puis une déduction forte appuyée sur un indice.",
+        "model": "He might have missed the bus. He could have taken another route. His phone is off, so the battery must have died.",
+        "rubric": [
+          "Deux possibilités au modal + have + participe.",
+          "Une déduction forte explicitement reliée à un indice.",
+          "Aucune confusion entre mustn’t et can’t."
+        ],
+        "explanation": "Plusieurs explications plausibles peuvent coexister. La grammaire indique le degré d’engagement du locuteur.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "rather-time",
+    "title": "Would rather et it’s time",
+    "subtitle": "Exprimer une préférence et signaler qu’il est temps d’agir.",
+    "level": "C1",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "rather-time",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-decisions",
+      "pack-conversation"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Would rather + base verbale exprime ce que le sujet préfère faire. Si la personne qui agit change, utilisez un second sujet et le prétérit : I’d rather you stayed. Ce prétérit concerne généralement le présent ou le futur. Pour un regret sur le comportement passé d’autrui, utilisez le past perfect. It’s time + sujet + prétérit indique que l’action devrait avoir lieu maintenant ; it’s time to + verbe est une autre construction. High time ajoute une impression de retard.",
+        "pattern": "I’d rather + V · I’d rather + sujet + prétérit · It’s (high) time + sujet + prétérit",
+        "examples": [
+          {
+            "en": "I’d rather leave early than rush later.",
+            "fr": "Je préfère partir tôt plutôt que me presser ensuite.",
+            "note": "Même sujet : deux bases verbales parallèles."
+          },
+          {
+            "en": "I’d rather you told me before inviting anyone.",
+            "fr": "Je préférerais que tu me préviennes avant d’inviter quelqu’un.",
+            "note": "Deux sujets : told ne date pas nécessairement un fait passé."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I would rather to stay home.",
+        "right": "I would rather stay home.",
+        "why": "Pas de to après would rather si le sujet reste le même."
+      }
+    ],
+    "takeaway": "Même sujet après rather : base verbale. Nouveau sujet : prétérit pour une préférence actuelle.",
+    "recallPrompt": "Donnez une préférence pour vous, puis une préférence concernant une autre personne.",
+    "exercises": [
+      {
+        "id": "rather-time-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "rather-time",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Quelle phrase demande à une autre personne de rester ce soir ?",
+        "options": [
+          "I would rather staying.",
+          "I would rather you stayed tonight.",
+          "I would rather you to stay tonight."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Forme incorrecte après rather.",
+          "Second sujet suivi du prétérit.",
+          "Cette construction n’emploie pas objet + to."
+        ],
+        "explanation": "Stayed exprime ici une préférence pour ce soir, pas une action passée."
+      },
+      {
+        "id": "rather-time-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "rather-time",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "It is high time we ___ (leave).",
+        "answers": [
+          "left"
+        ],
+        "hint": "Après it is high time + sujet.",
+        "explanation": "Left marque une action qui devrait déjà être engagée. It is time for us to leave est une autre structure possible."
+      },
+      {
+        "id": "rather-time-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "rather-time",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Utilisez would rather et conservez la négation.",
+        "prompt": "I prefer not to discuss this in public.",
+        "model": "I would rather not discuss this in public.",
+        "answers": [
+          "I would rather not discuss this in public."
+        ],
+        "hint": "Utilisez would rather et conservez la négation.",
+        "explanation": "Not se place avant discuss. Il n’y a ni to ni -ing après would rather."
+      },
+      {
+        "id": "rather-time-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "rather-time",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Formulez une préférence personnelle, une demande à un ami avec rather, et une décision avec it’s time.",
+        "model": "I would rather walk. I would rather you left the car here. It is time we made more space for cycling.",
+        "rubric": [
+          "Base verbale après rather pour le même sujet.",
+          "Prétérit après le second sujet.",
+          "Prétérit après it is time + sujet."
+        ],
+        "explanation": "Ces prétérits expriment la distance ou le souhait ; ils ne datent pas systématiquement le passé.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "verb-patterns",
+    "title": "Les verbes qui commandent la suite",
+    "subtitle": "Avoid doing, decide to do, suggest that…",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "verb-patterns",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-actions",
+      "pack-conversation"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Apprenez le verbe avec sa construction. Avoid, consider, admit et suggest peuvent être suivis de -ing. Decide, manage et afford se construisent avec to + verbe. Suggest peut aussi introduire that + sujet + base verbale, ou that + sujet + should + base verbale. On ne dit pas suggest someone to do. Certains verbes changent de sens selon la suite : stop doing termine une activité ; stop to do interrompt autre chose pour faire cette action. Try doing teste une solution ; try to do exprime un effort.",
+        "pattern": "avoid/consider/suggest + V-ing · decide/manage + to V · suggest (that) + sujet + (should) V",
+        "examples": [
+          {
+            "en": "I stopped checking my phone during dinner.",
+            "fr": "J’ai arrêté de consulter mon téléphone pendant le dîner.",
+            "note": "L’activité checking s’arrête."
+          },
+          {
+            "en": "I stopped to check the address.",
+            "fr": "Je me suis arrêté pour vérifier l’adresse.",
+            "note": "Une autre activité s’arrête afin de vérifier."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "She suggested me to call him.",
+        "right": "She suggested that I call him.",
+        "why": "Suggest ne se construit pas avec personne + to-infinitif. She suggested calling him est possible si l’agent est clair."
+      }
+    ],
+    "takeaway": "Mémorisez une petite phrase avec chaque verbe, pas le verbe seul.",
+    "recallPrompt": "Expliquez la différence entre try restarting et try to restart.",
+    "exercises": [
+      {
+        "id": "verb-patterns-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "verb-patterns",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous proposez de tester une solution simple à un ordinateur bloqué.",
+        "options": [
+          "Try restarting it.",
+          "Avoid to restart it.",
+          "Suggest him to restart it."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Testez cette solution.",
+          "Avoid demande -ing.",
+          "Suggest n’accepte pas cette construction."
+        ],
+        "explanation": "Try + -ing propose une expérience. Try to restart insisterait sur la tentative de parvenir à redémarrer."
+      },
+      {
+        "id": "verb-patterns-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "verb-patterns",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "She suggested ___ (take) an earlier train.",
+        "answers": [
+          "taking"
+        ],
+        "hint": "Suggest suivi directement d’une action.",
+        "explanation": "Taking convient après suggested. Aucun destinataire n’est introduit dans cette construction."
+      },
+      {
+        "id": "verb-patterns-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "verb-patterns",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Corrigez la construction après managed.",
+        "prompt": "I managed finishing the report on time.",
+        "model": "I managed to finish the report on time.",
+        "answers": [
+          "I managed to finish the report on time."
+        ],
+        "hint": "Corrigez la construction après managed.",
+        "explanation": "Manage to do signifie réussir à faire, souvent malgré une difficulté."
+      },
+      {
+        "id": "verb-patterns-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "verb-patterns",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Décrivez un problème et une solution avec avoid, decide et suggest, chacun dans sa construction.",
+        "model": "I avoid checking email late at night. I decided to silence notifications. My friend suggested leaving my phone outside the bedroom.",
+        "rubric": [
+          "Avoid + -ing.",
+          "Decide + to-infinitif.",
+          "Suggest + -ing ou that-clause correcte."
+        ],
+        "explanation": "La construction appartient au verbe ; un même schéma ne s’applique pas à tous les verbes.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "causatives",
+    "title": "Faire faire quelque chose",
+    "subtitle": "Have/get something done et faire agir quelqu’un.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "causatives",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-everyday",
+      "pack-work"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Have ou get + objet + participe passé permet de dire qu’un service est effectué pour vous : vous organisez l’action sans nécessairement la faire vous-même. Have + personne + base verbale présente une instruction ; get + personne + to-infinitif évoque le fait de l’amener à agir. Have something done peut aussi décrire un événement subi, comme un vol ; le contexte distingue service organisé et malheur. Le temps est porté par have ou get, le participe reste inchangé.",
+        "pattern": "have/get + chose + participe · have + personne + V · get + personne + to V",
+        "examples": [
+          {
+            "en": "I had my bike repaired yesterday.",
+            "fr": "J’ai fait réparer mon vélo hier.",
+            "note": "Le réparateur n’a pas besoin d’être nommé."
+          },
+          {
+            "en": "I got my brother to check the contract.",
+            "fr": "J’ai demandé à mon frère de vérifier le contrat et il l’a fait.",
+            "note": "La personne est suivie de to + verbe."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I had repaired my bike at the shop.",
+        "right": "I had my bike repaired at the shop.",
+        "why": "Le premier énoncé est un past perfect de réparer soi-même ; le second décrit le service obtenu."
+      }
+    ],
+    "takeaway": "Qui fait l’action ? Placez la chose avant le participe si quelqu’un agit pour vous.",
+    "recallPrompt": "Contrastez I cut my hair et I had my hair cut.",
+    "exercises": [
+      {
+        "id": "causatives-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "causatives",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous avez payé un professionnel pour peindre la pièce.",
+        "options": [
+          "I had the room painted.",
+          "I had painted the room.",
+          "I had the room painting."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Service effectué pour vous.",
+          "Vous aviez vous-même peint.",
+          "Painting ne convient pas à la chose qui subit l’action."
+        ],
+        "explanation": "Le groupe the room painted indique l’objet traité et le résultat. Had porte ici le passé de la structure causative, pas un past perfect."
+      },
+      {
+        "id": "causatives-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "causatives",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "I got a friend ___ check the measurements.",
+        "answers": [
+          "to"
+        ],
+        "hint": "Get + personne + …",
+        "explanation": "Get someone to do, mais have someone do. Les deux verbes ne partagent pas la même suite."
+      },
+      {
+        "id": "causatives-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "causatives",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Reformulez en commençant par I had my laptop.",
+        "prompt": "A technician fixed my laptop for me.",
+        "model": "I had my laptop fixed by a technician.",
+        "answers": [
+          "I had my laptop fixed by a technician."
+        ],
+        "hint": "Reformulez en commençant par I had my laptop.",
+        "explanation": "Had my laptop fixed montre que le service a été réalisé pour vous ; by a technician peut être omis."
+      },
+      {
+        "id": "causatives-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "causatives",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Racontez deux services que vous avez fait effectuer ou que vous prévoyez.",
+        "model": "I had my jacket cleaned last week. Tomorrow I am getting a colleague to check my application.",
+        "rubric": [
+          "Chose + participe pour un service.",
+          "Get + personne + to-infinitif si vous nommez l’agent.",
+          "Le temps reflète passé ou projet."
+        ],
+        "explanation": "Sans IA, comparez votre construction au modèle ; le contenu de votre situation peut naturellement différer.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "reporting-passive",
+    "title": "Le passif pour rapporter une information",
+    "subtitle": "It is said that et is believed to have…",
+    "level": "C1",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "reporting-passive",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-society",
+      "pack-ideas"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Le passif met au premier plan ce qui subit l’action ou ce dont on parle, quand l’agent est inconnu, secondaire ou évident. Pour rapporter une information, it is said/believed/reported that introduit une proposition. Une autre structure prend le sujet de cette proposition : she is believed to… Pour une action antérieure à la croyance ou au rapport, utilisez to have + participe. Ne choisissez pas le passif seulement pour paraître avancé : il doit organiser l’information ou attribuer prudemment une affirmation.",
+        "pattern": "It is reported that + proposition · sujet + is believed to + V / to have + participe",
+        "examples": [
+          {
+            "en": "It is reported that the bridge will reopen next month.",
+            "fr": "Il est annoncé que le pont rouvrira le mois prochain.",
+            "note": "L’information est attribuée à des rapports, sans agent précis."
+          },
+          {
+            "en": "The painting is believed to have disappeared during the move.",
+            "fr": "On pense que le tableau a disparu pendant le déménagement.",
+            "note": "La disparition précède la croyance actuelle."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "She is said that she lives abroad.",
+        "right": "She is said to live abroad.",
+        "why": "Choisissez soit it is said that she lives, soit she is said to live."
+      }
+    ],
+    "takeaway": "Conservez le repère temporel : to live pour un état actuel, to have lived pour un état antérieur.",
+    "recallPrompt": "Reformulez People believe the letter was lost avec is believed.",
+    "exercises": [
+      {
+        "id": "reporting-passive-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "reporting-passive",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "On pense maintenant que le train est parti plus tôt.",
+        "options": [
+          "The train is believed to have left early.",
+          "The train is believed to leaving early.",
+          "The train is believed that left early."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Infinitif parfait pour l’événement antérieur.",
+          "To leaving est impossible ici.",
+          "Mélange de deux structures."
+        ],
+        "explanation": "Is believed est la croyance actuelle ; to have left place le départ avant cette croyance."
+      },
+      {
+        "id": "reporting-passive-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "reporting-passive",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "The building is said to ___ (date) from the eighteenth century.",
+        "answers": [
+          "date"
+        ],
+        "hint": "État décrit comme toujours vrai.",
+        "explanation": "To date est un infinitif simple. L’origine du bâtiment est présentée comme une propriété actuelle."
+      },
+      {
+        "id": "reporting-passive-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "reporting-passive",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Commencez par The keys are believed.",
+        "prompt": "People believe that the keys were stolen.",
+        "model": "The keys are believed to have been stolen.",
+        "answers": [
+          "The keys are believed to have been stolen."
+        ],
+        "hint": "Commencez par The keys are believed.",
+        "explanation": "To have been stolen combine antériorité et passif : les clés ont subi un vol avant la croyance actuelle."
+      },
+      {
+        "id": "reporting-passive-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "reporting-passive",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Rédigez deux informations attribuées à des sources : un état actuel et un événement antérieur.",
+        "model": "The village is said to be unusually quiet in winter. The old inn is believed to have closed in the 1980s.",
+        "rubric": [
+          "Attribution de l’information avec said ou believed.",
+          "Infinitif simple pour l’état.",
+          "Infinitif parfait pour l’événement antérieur."
+        ],
+        "explanation": "Ce langage n’est pas une preuve : dans un vrai texte factuel, attribuez l’information à une source identifiable.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "relative-clauses",
+    "title": "Ajouter une information avec une relative",
+    "subtitle": "Identifier, commenter, omettre le pronom à bon escient.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "relative-clauses",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-precision"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Une relative déterminative identifie la personne ou la chose ; elle n’est pas séparée par des virgules. Une relative non déterminative ajoute une information sur un référent déjà identifié ; elle est séparée par des virgules et n’emploie pas that. Le pronom peut disparaître dans une déterminative quand il est objet, pas quand il est sujet. Whose marque la possession et peut se rapporter à des personnes ou des choses. Une relative peut aussi porter sur toute la proposition précédente avec which.",
+        "pattern": "the person (who/that) I met · the person who called · my aunt, who lives nearby, …",
+        "examples": [
+          {
+            "en": "The friend I stayed with knows the area well.",
+            "fr": "L’ami chez qui j’ai logé connaît bien le quartier.",
+            "note": "Le pronom objet est omis ; with reste en fin de relative."
+          },
+          {
+            "en": "My train was cancelled, which meant I missed the interview.",
+            "fr": "Mon train a été annulé, ce qui m’a fait manquer l’entretien.",
+            "note": "Which reprend toute la situation précédente."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "My sister, that lives in Leeds, is visiting.",
+        "right": "My sister, who lives in Leeds, is visiting.",
+        "why": "Dans une relative entre virgules, utilisez who pour une personne, pas that."
+      }
+    ],
+    "takeaway": "Omettez seulement un pronom objet dans une relative déterminative.",
+    "recallPrompt": "Pourquoi peut-on dire the book I bought mais pas the book changed my life pour identifier un livre parmi plusieurs ?",
+    "exercises": [
+      {
+        "id": "relative-clauses-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "relative-clauses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Dans quelle phrase le pronom omis est-il correctement un objet ?",
+        "options": [
+          "The woman lives next door helped me.",
+          "The woman I met yesterday helped me.",
+          "My mother, I called yesterday, helped me."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Who est nécessaire comme sujet de lives.",
+          "I est le sujet de met, la femme en est l’objet.",
+          "Une relative entre virgules ne permet pas cette omission."
+        ],
+        "explanation": "The woman I met se développe en the woman whom/who/that I met. Le sujet I reste explicite."
+      },
+      {
+        "id": "relative-clauses-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "relative-clauses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "I met a writer ___ latest book is set in my town.",
+        "answers": [
+          "whose"
+        ],
+        "hint": "Possession : le dernier livre de cette personne.",
+        "explanation": "Whose relie le possesseur à latest book. Who’s signifie who is ou who has."
+      },
+      {
+        "id": "relative-clauses-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "relative-clauses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Reliez les phrases avec which reprenant tout le premier événement.",
+        "prompt": "The bus broke down. This made us late.",
+        "model": "The bus broke down, which made us late.",
+        "answers": [
+          "The bus broke down, which made us late."
+        ],
+        "hint": "Reliez les phrases avec which reprenant tout le premier événement.",
+        "explanation": "La virgule et which introduisent un commentaire sur la panne complète, pas seulement sur le bus."
+      },
+      {
+        "id": "relative-clauses-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "relative-clauses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Présentez une personne en l’identifiant par une relative, puis ajoutez une information sur elle dans une deuxième phrase.",
+        "model": "The neighbour who helped me move is a musician. Lina, who lives upstairs, plays the cello every evening.",
+        "rubric": [
+          "Une relative identificatrice sans virgules.",
+          "Une relative de commentaire entre virgules.",
+          "Pas de that dans la relative de commentaire."
+        ],
+        "explanation": "Les virgules changent la fonction de l’information : identifier ou ajouter un commentaire.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "participle-clauses",
+    "title": "Alléger avec une proposition participiale",
+    "subtitle": "Relier des actions sans perdre leur sujet.",
+    "level": "C1",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "participle-clauses",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-experiences",
+      "pack-connections"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Une proposition en -ing peut exprimer une action simultanée, une cause ou une manière. Une proposition en participe passé a généralement un sens passif. Having + participe marque explicitement l’antériorité. Dans l’usage ciblé ici, le sujet implicite doit être le même que celui de la proposition principale. Si ce lien se perd, on obtient un participe mal rattaché : Walking home, the rain started suggère absurdement que la pluie marche. Ne compressez pas une phrase si une conjonction rend mieux la relation logique.",
+        "pattern": "V-ing, sujet + verbe · participe passé, sujet + verbe · Having + participe, sujet + verbe",
+        "examples": [
+          {
+            "en": "Feeling uneasy, I checked the address again.",
+            "fr": "Me sentant inquiet, j’ai revérifié l’adresse.",
+            "note": "La personne inquiète est aussi celle qui vérifie."
+          },
+          {
+            "en": "Having missed the last train, I called a friend.",
+            "fr": "Ayant raté le dernier train, j’ai appelé un ami.",
+            "note": "Having missed rend l’antériorité explicite."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "Walking home, the storm caught me.",
+        "right": "Walking home, I was caught in the storm.",
+        "why": "I est bien le sujet qui marche. On peut aussi dire While I was walking home, a storm broke out."
+      }
+    ],
+    "takeaway": "Posez toujours la question : qui fait l’action du participe ?",
+    "recallPrompt": "Réparez Waiting at the station, my phone rang sans faire attendre le téléphone.",
+    "exercises": [
+      {
+        "id": "participle-clauses-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "participle-clauses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Quelle phrase rattache correctement le participe à son sujet ?",
+        "options": [
+          "Running for the bus, my bag fell open.",
+          "Running for the bus, I dropped my bag.",
+          "Running for the bus, the driver closed the doors."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "La syntaxe fait de my bag le coureur.",
+          "I court et laisse tomber le sac.",
+          "La syntaxe fait du chauffeur le coureur."
+        ],
+        "explanation": "Dans la deuxième phrase, le sujet I correspond aux deux actions. Les autres phrases demandent une subordonnée explicite avec I."
+      },
+      {
+        "id": "participle-clauses-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "participle-clauses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "___ (finish) the report, I sent it to my manager.",
+        "answers": [
+          "Having finished"
+        ],
+        "hint": "Rendez l’achèvement préalable explicite avec having.",
+        "explanation": "Having finished indique que le rapport était terminé avant l’envoi. Le sujet implicite est I."
+      },
+      {
+        "id": "participle-clauses-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "participle-clauses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Réduisez le début avec Worried.",
+        "prompt": "Because I was worried about the delay, I called the hotel.",
+        "model": "Worried about the delay, I called the hotel.",
+        "answers": [
+          "Worried about the delay, I called the hotel."
+        ],
+        "hint": "Réduisez le début avec Worried.",
+        "explanation": "Worried décrit l’état du sujet I ; le lien causal reste accessible par le contexte."
+      },
+      {
+        "id": "participle-clauses-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "participle-clauses",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Racontez deux actions avec une proposition en -ing, puis deux actions successives avec having + participe.",
+        "model": "Looking for my keys, I found an old photograph. Having finished my packing, I checked the train times.",
+        "rubric": [
+          "Le sujet est partagé dans chaque phrase.",
+          "Having marque une action achevée avant la suivante.",
+          "La relation logique reste claire."
+        ],
+        "explanation": "Les participiales sont utiles surtout à l’écrit. Elles ne rendent pas automatiquement une phrase meilleure.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "negative-inversion",
+    "title": "Mettre en relief avec une inversion",
+    "subtitle": "Rarely, not until, only after, no sooner.",
+    "level": "C1",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "negative-inversion",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-connections",
+      "pack-experiences"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Lorsqu’une expression négative ou restrictive est placée en tête pour être mise en relief, l’auxiliaire précède le sujet dans la proposition concernée. S’il n’y a pas d’auxiliaire, ajoutez do/does/did et revenez à la base verbale. Avec only after ou not until, l’inversion se trouve dans la proposition principale, pas à l’intérieur de la proposition de temps. No sooner… than et hardly… when présentent deux événements proches. Ce procédé est marqué, souvent écrit ou emphatique ; il n’est pas nécessaire dans la conversation ordinaire.",
+        "pattern": "Rarely + auxiliaire + sujet + V · Only after … + did + sujet + V · No sooner had … than …",
+        "examples": [
+          {
+            "en": "Only after I got home did I notice the missing key.",
+            "fr": "Ce n’est qu’une fois chez moi que j’ai remarqué la clé manquante.",
+            "note": "L’inversion concerne did I notice, pas I got home."
+          },
+          {
+            "en": "Rarely have I felt so welcome.",
+            "fr": "Je me suis rarement senti aussi bien accueilli.",
+            "note": "Have précède le sujet après rarely placé en tête."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "Never I have seen this before.",
+        "right": "Never have I seen this before.",
+        "why": "L’expression négative initiale déclenche l’inversion de l’auxiliaire et du sujet."
+      }
+    ],
+    "takeaway": "Expression restrictive en tête : cherchez l’auxiliaire de la proposition principale.",
+    "recallPrompt": "Reformulez I only understood after she explained it en commençant par Only after.",
+    "exercises": [
+      {
+        "id": "negative-inversion-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "negative-inversion",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Choisissez la mise en relief correcte.",
+        "options": [
+          "Only then did I understand.",
+          "Only then I did understand.",
+          "Only then did I understood."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Inversion et base verbale.",
+          "Pas d’inversion correcte.",
+          "Did porte déjà le passé : understand doit rester à la base."
+        ],
+        "explanation": "Did se place avant I. Le verbe lexical ne conserve pas understood après did."
+      },
+      {
+        "id": "negative-inversion-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "negative-inversion",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "No sooner had we sat down ___ the lights went out.",
+        "answers": [
+          "than"
+        ],
+        "hint": "Paire fixe avec no sooner.",
+        "explanation": "No sooner… than ; hardly/scarcely… when. Had sat situe le premier événement avant le second."
+      },
+      {
+        "id": "negative-inversion-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "negative-inversion",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Commencez par Never et conservez le past perfect.",
+        "prompt": "I had never felt so relieved.",
+        "model": "Never had I felt so relieved.",
+        "answers": [
+          "Never had I felt so relieved."
+        ],
+        "hint": "Commencez par Never et conservez le past perfect.",
+        "explanation": "Never placé en tête entraîne had I. Felt reste le participe passé après had."
+      },
+      {
+        "id": "negative-inversion-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "negative-inversion",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Écrivez une phrase emphatique avec only after, puis sa version ordinaire.",
+        "model": "Only after I checked the map did I realise how far we had walked. I only realised how far we had walked after checking the map.",
+        "rubric": [
+          "Inversion dans la proposition principale.",
+          "Base verbale après did.",
+          "Même sens dans la version ordinaire."
+        ],
+        "explanation": "Cette comparaison vous aide à choisir l’effet de style au lieu d’utiliser l’inversion mécaniquement.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "cleft-sentences",
+    "title": "Mettre une information sous les projecteurs",
+    "subtitle": "What I need is… et It was… that…",
+    "level": "C1",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "cleft-sentences",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-conversation",
+      "pack-precision"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Les phrases clivées isolent l’information importante. It is/was X that/who… met X en contraste avec une autre possibilité : personne, moment, lieu ou cause. What… is… annonce un élément puis le révèle, souvent pour clarifier une priorité. Le sens de la phrase simple doit rester intact. Ne changez pas une préférence en fait objectif. Ces structures existent à l’oral ; elles sont particulièrement utiles pour corriger une interprétation ou recentrer une discussion.",
+        "pattern": "It was + élément focalisé + that/who… · What + proposition + is/was + information",
+        "examples": [
+          {
+            "en": "It was the timing that bothered me, not the idea.",
+            "fr": "C’est le moment choisi qui me gênait, pas l’idée.",
+            "note": "La structure corrige le point précis du désaccord."
+          },
+          {
+            "en": "What I need is a clear answer.",
+            "fr": "Ce qu’il me faut, c’est une réponse claire.",
+            "note": "What I need annonce la catégorie ; la fin apporte l’information."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "What I need it is more time.",
+        "right": "What I need is more time.",
+        "why": "What I need joue déjà le rôle de sujet : ne rajoutez pas it."
+      }
+    ],
+    "takeaway": "Identifiez le contraste ou la priorité avant de construire la clivée.",
+    "recallPrompt": "Mettez en relief la personne, puis le moment, dans Sara called me yesterday.",
+    "exercises": [
+      {
+        "id": "cleft-sentences-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "cleft-sentences",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous voulez préciser que le problème est le prix, pas la qualité.",
+        "options": [
+          "It is the price that concerns me, not the quality.",
+          "It concerns me that the price not quality.",
+          "What the price is concern me."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Élément mis en relief puis contraste.",
+          "Structure incomplète.",
+          "La construction de what est incorrecte."
+        ],
+        "explanation": "La clivée isole the price comme élément visé, sans attaquer la qualité."
+      },
+      {
+        "id": "cleft-sentences-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "cleft-sentences",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "What surprised me ___ how quickly they agreed.",
+        "answers": [
+          "was"
+        ],
+        "hint": "Sujet singulier : l’élément surprenant.",
+        "explanation": "What surprised me forme le sujet ; was relie ce sujet à l’information développée ensuite."
+      },
+      {
+        "id": "cleft-sentences-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "cleft-sentences",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Commencez par What I wanted.",
+        "prompt": "I wanted an explanation, not an apology.",
+        "model": "What I wanted was an explanation, not an apology.",
+        "answers": [
+          "What I wanted was an explanation, not an apology."
+        ],
+        "hint": "Commencez par What I wanted.",
+        "explanation": "La clivée conserve le contraste explanation/apology et le passé wanted/was."
+      },
+      {
+        "id": "cleft-sentences-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "cleft-sentences",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Rectifiez un malentendu avec It was… that…, puis exprimez votre besoin avec What I need is….",
+        "model": "It was the lack of warning that upset me, not the delay itself. What I need is a little more notice next time.",
+        "rubric": [
+          "Un point focal clairement identifié.",
+          "Une structure what sans sujet it ajouté.",
+          "Le besoin est concret."
+        ],
+        "explanation": "La mise en relief peut rendre le désaccord plus précis et moins personnel.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "concession",
+    "title": "Concession : admettre sans abandonner son idée",
+    "subtitle": "Although, despite, even though et while.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "concession",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-connections",
+      "pack-ideas"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Although, though et even though introduisent une proposition avec sujet et verbe. Despite et in spite of sont des prépositions : elles demandent un nom, un pronom ou -ing. Despite the fact that permet de retrouver une proposition complète, mais allonge la phrase. Even though souligne une opposition réelle forte ; even if imagine une condition possible. While peut marquer une concession, mais son sens temporel peut créer une ambiguïté. En anglais standard, évitez although… but dans la même structure.",
+        "pattern": "Although + sujet + verbe, … · Despite + nom/V-ing, … · Even if + hypothèse, …",
+        "examples": [
+          {
+            "en": "Although I enjoyed the course, I found the pace exhausting.",
+            "fr": "Même si la formation m’a plu, j’ai trouvé le rythme épuisant.",
+            "note": "Le plaisir et la fatigue sont tous deux réels."
+          },
+          {
+            "en": "Despite feeling tired, I stayed for the final discussion.",
+            "fr": "Malgré la fatigue, je suis resté pour la discussion finale.",
+            "note": "Le sujet implicite de feeling est I."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "Despite it was raining, we went out.",
+        "right": "Although it was raining, we went out.",
+        "why": "Despite ne prend pas directement sujet + verbe. Despite the rain serait aussi correct."
+      }
+    ],
+    "takeaway": "Après although : une proposition. Après despite : un nom ou -ing.",
+    "recallPrompt": "Dites la même concession avec although, puis avec despite.",
+    "exercises": [
+      {
+        "id": "concession-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "concession",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "La pluie a réellement eu lieu ; vous êtes sorti quand même.",
+        "options": [
+          "Even if it rains, I will go out.",
+          "Even though it was raining, I went out.",
+          "Despite it was raining, I went out."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Hypothèse future, pas récit du fait réel.",
+          "Concession réelle au passé.",
+          "Despite ne se construit pas directement avec cette proposition."
+        ],
+        "explanation": "Even though présente une opposition avérée. Even if signifie que la décision resterait vraie même dans une situation possible."
+      },
+      {
+        "id": "concession-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "concession",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "Despite ___ (have) very little time, I called her.",
+        "answers": [
+          "having"
+        ],
+        "hint": "Préposition + forme en -ing.",
+        "explanation": "Having suit despite. Le sujet I a peu de temps et passe l’appel."
+      },
+      {
+        "id": "concession-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "concession",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Commencez par Although et supprimez but.",
+        "prompt": "The room was small, but it was comfortable.",
+        "model": "Although the room was small, it was comfortable.",
+        "answers": [
+          "Although the room was small, it was comfortable."
+        ],
+        "hint": "Commencez par Although et supprimez but.",
+        "explanation": "Although marque déjà la concession ; but n’est pas nécessaire dans cette construction."
+      },
+      {
+        "id": "concession-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "concession",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Racontez une situation réussie malgré une difficulté, puis formulez une hypothèse avec even if.",
+        "model": "Despite losing our map, we found the village. Even if it rains tomorrow, I will go back.",
+        "rubric": [
+          "Despite suivi d’un nom ou -ing.",
+          "Even if pour une hypothèse.",
+          "Deux repères temporels cohérents."
+        ],
+        "explanation": "Choisissez la structure selon le statut réel ou hypothétique de l’obstacle.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "conditional-links",
+    "title": "Conditions sans répéter if",
+    "subtitle": "Unless, as long as, provided that et in case.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "conditional-links",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-decisions",
+      "pack-connections"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Unless signifie if… not dans de nombreux contextes : il introduit l’exception qui empêche le résultat. As long as et provided that posent une condition suffisante, souvent une limite à un accord. In case introduit une précaution face à un événement possible ; l’action préventive a généralement lieu avant de savoir si l’événement arrivera. Dans ces propositions de condition future, le présent est le choix courant, pas will. Attention à as long as qui peut aussi décrire une durée.",
+        "pattern": "unless + présent · provided/as long as + présent · précaution + in case + présent",
+        "examples": [
+          {
+            "en": "I will lend you the bike as long as you bring it back tonight.",
+            "fr": "Je te prêterai le vélo à condition que tu le rapportes ce soir.",
+            "note": "L’accord dépend d’une condition."
+          },
+          {
+            "en": "I will take a charger in case my battery runs out.",
+            "fr": "Je prendrai un chargeur au cas où ma batterie se viderait.",
+            "note": "Le chargeur est emporté par précaution."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I will call unless I will be busy.",
+        "right": "I will call unless I am busy.",
+        "why": "La proposition de condition future utilise ici le présent."
+      }
+    ],
+    "takeaway": "If déclenche une action sous condition ; in case motive une précaution anticipée.",
+    "recallPrompt": "Quelle différence entre I’ll buy water if we need it et I’ll take water in case we need it ?",
+    "exercises": [
+      {
+        "id": "conditional-links-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "conditional-links",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous prenez déjà une veste pour vous protéger d’un froid possible.",
+        "options": [
+          "I will take a jacket in case it gets cold.",
+          "I will take a jacket unless it will get cold.",
+          "I will take a jacket in case it will cold."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Précaution et présent corrects.",
+          "Will n’est pas requis et unless change le sens.",
+          "Construction verbale incorrecte."
+        ],
+        "explanation": "In case justifie le fait d’emporter la veste maintenant, sans attendre le froid."
+      },
+      {
+        "id": "conditional-links-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "conditional-links",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "We will leave at six ___ anyone objects.",
+        "answers": [
+          "unless"
+        ],
+        "hint": "Sauf si quelqu’un s’y oppose.",
+        "explanation": "Unless introduit l’exception au départ prévu : s’il n’y a pas d’objection, on part à six heures."
+      },
+      {
+        "id": "conditional-links-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "conditional-links",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Remplacez if par provided that.",
+        "prompt": "You can stay here if you keep the room tidy.",
+        "model": "You can stay here provided that you keep the room tidy.",
+        "answers": [
+          "You can stay here provided that you keep the room tidy."
+        ],
+        "hint": "Remplacez if par provided that.",
+        "explanation": "Provided that pose une condition explicite à l’autorisation."
+      },
+      {
+        "id": "conditional-links-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "conditional-links",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Donnez une autorisation conditionnelle, puis décrivez une précaution de voyage.",
+        "model": "You can borrow my bag as long as you return it on Sunday. I will pack a spare shirt in case the journey takes longer than expected.",
+        "rubric": [
+          "As long as/provided that introduit une vraie condition.",
+          "In case introduit une précaution.",
+          "Présent dans la subordonnée future."
+        ],
+        "explanation": "Vérifiez surtout si vous agissez avant ou après avoir constaté la condition.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "countability",
+    "title": "Compter ce qui se compte",
+    "subtitle": "Advice, information, fewer, less et quantités.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "countability",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-everyday",
+      "pack-precision"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Information, advice, evidence, furniture et equipment sont généralement indénombrables en anglais dans leurs sens courants. Ils ne prennent ni a/an directement ni un pluriel en -s. Pour compter, choisissez une unité : a piece of advice, two items of equipment. Fewer s’emploie avec des noms pluriels comptables ; less avec une quantité indénombrable. L’usage réel accepte less dans certaines mesures et expressions. Some peut présenter une quantité positive ; any est fréquent dans les questions neutres et négations, mais le sens et les attentes peuvent modifier ce choix.",
+        "pattern": "some advice · a piece of information · fewer messages · less noise",
+        "examples": [
+          {
+            "en": "I received useful advice and two practical suggestions.",
+            "fr": "J’ai reçu des conseils utiles et deux suggestions pratiques.",
+            "note": "Advice est indénombrable ; suggestion est comptable."
+          },
+          {
+            "en": "We need less equipment but fewer cables.",
+            "fr": "Il nous faut moins de matériel mais moins de câbles.",
+            "note": "Les deux quantités ne se construisent pas pareil."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "She gave me an advice.",
+        "right": "She gave me a piece of advice.",
+        "why": "Advice ne prend pas an directement. She gave me some advice est aussi naturel."
+      }
+    ],
+    "takeaway": "Le caractère comptable appartient au mot anglais, pas à sa traduction française.",
+    "recallPrompt": "Comment compter trois conseils sans écrire three advices ?",
+    "exercises": [
+      {
+        "id": "countability-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "countability",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Choisissez la phrase standard.",
+        "options": [
+          "I need some informations.",
+          "I need a few information.",
+          "I need some information."
+        ],
+        "answer": 2,
+        "optionNotes": [
+          "Information ne prend pas ce pluriel.",
+          "A few demande un pluriel comptable.",
+          "Quantité indénombrable correcte."
+        ],
+        "explanation": "Some information ne précise pas un nombre. Pour compter, on peut dire three pieces of information."
+      },
+      {
+        "id": "countability-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "countability",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "I receive ___ emails now, so I spend less time sorting them.",
+        "answers": [
+          "fewer"
+        ],
+        "hint": "Comparez le nombre de messages en anglais écrit standard.",
+        "explanation": "Emails se compte ; fewer exprime une baisse de leur nombre. Time est indénombrable dans la deuxième proposition."
+      },
+      {
+        "id": "countability-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "countability",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Corrigez uniquement la manière de compter le mobilier.",
+        "prompt": "The hotel bought three new furnitures.",
+        "model": "The hotel bought three new pieces of furniture.",
+        "answers": [
+          "The hotel bought three new pieces of furniture."
+        ],
+        "hint": "Corrigez uniquement la manière de compter le mobilier.",
+        "explanation": "Furniture est indénombrable. Pieces of furniture permet de compter les objets."
+      },
+      {
+        "id": "countability-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "countability",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Décrivez ce qu’il faudrait réduire dans votre travail : une quantité comptable et une quantité indénombrable.",
+        "model": "I would like fewer meetings and less paperwork. A few clear instructions would help more than lots of equipment.",
+        "rubric": [
+          "Fewer avec un nom pluriel comptable.",
+          "Less avec un indénombrable.",
+          "Pas de pluriel artificiel sur equipment ou paperwork."
+        ],
+        "explanation": "L’objectif est de sélectionner la bonne unité, pas de bannir toute variation naturelle de l’usage.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "articles",
+    "title": "Articles : généraliser ou identifier",
+    "subtitle": "A, the ou aucun article.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "articles",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-ideas",
+      "pack-everyday"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Un nom comptable singulier a généralement besoin d’un déterminant. A/an introduit un élément non encore identifié ou un représentant d’une catégorie. The renvoie à un élément identifiable par le contexte, une précision ou une connaissance partagée. Pour une généralité, le pluriel et les indénombrables prennent souvent l’article zéro : books, music, advice. Comparez life in a big city, général, et the life I led there, identifié. A/an dépend du son qui suit, pas simplement de la première lettre.",
+        "pattern": "a useful idea · an unusual idea · books can help · the books you lent me",
+        "examples": [
+          {
+            "en": "I enjoy music, but the music in that café was too loud.",
+            "fr": "J’aime la musique, mais celle de ce café était trop forte.",
+            "note": "Article zéro pour la généralité ; the pour la musique identifiée."
+          },
+          {
+            "en": "She is an engineer and works at a university.",
+            "fr": "Elle est ingénieure et travaille dans une université.",
+            "note": "Engineer commence par un son voyelle ; university par le son /j/."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I need advice from expert.",
+        "right": "I need advice from an expert.",
+        "why": "Advice est indénombrable ; expert est un nom comptable singulier qui demande ici an."
+      }
+    ],
+    "takeaway": "Demandez-vous : catégorie générale, premier élément, ou élément identifiable ?",
+    "recallPrompt": "Expliquez la différence entre I like dogs et I like the dogs next door.",
+    "exercises": [
+      {
+        "id": "articles-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "articles",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Vous parlez des livres en général.",
+        "options": [
+          "The books can broaden your vocabulary.",
+          "Books can broaden your vocabulary.",
+          "A books can broaden your vocabulary."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "The suppose normalement des livres identifiables dans ce contexte.",
+          "Pluriel sans article pour une généralité.",
+          "A ne s’accorde pas avec un pluriel."
+        ],
+        "explanation": "L’article zéro permet la généralisation. The books conviendrait si un groupe précis était déjà établi."
+      },
+      {
+        "id": "articles-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "articles",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "She offered me ___ useful suggestion.",
+        "answers": [
+          "a"
+        ],
+        "hint": "Écoutez le premier son de useful.",
+        "explanation": "Useful commence par /j/, son consonantique : a useful suggestion. Ce n’est pas la lettre u seule qui décide."
+      },
+      {
+        "id": "articles-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "articles",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Retirez l’article inutile pour la généralité.",
+        "prompt": "The patience is important when learning a language.",
+        "model": "Patience is important when learning a language.",
+        "answers": [
+          "Patience is important when learning a language."
+        ],
+        "hint": "Retirez l’article inutile pour la généralité.",
+        "explanation": "Patience est ici un indénombrable pris en général. The patience she showed serait spécifique."
+      },
+      {
+        "id": "articles-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "articles",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Décrivez une catégorie en général, puis un élément précis que vous connaissez.",
+        "model": "Small cafés often have a relaxed atmosphere. The café near my flat has a garden where I like to read.",
+        "rubric": [
+          "Article zéro pour le pluriel générique.",
+          "The pour le lieu identifié.",
+          "Déterminant présent devant tout comptable singulier."
+        ],
+        "explanation": "Une précision restrictive peut rendre le référent identifiable, mais le contexte compte aussi.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "prepositions-ing",
+    "title": "Quand to n’est pas un infinitif",
+    "subtitle": "Look forward to, object to, be committed to.",
+    "level": "C1",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "prepositions-ing",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-actions",
+      "pack-work"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "To peut être marque d’infinitif ou préposition. Après une expression qui impose la préposition to, un verbe se met en -ing : look forward to meeting, object to paying, be committed to improving. Une méthode pratique consiste à remplacer l’action par un nom : look forward to the trip devient look forward to travelling. D’autres prépositions demandent aussi -ing : without asking, after checking, by practising. Apprenez la préposition avec l’expression ; sa traduction française peut être différente.",
+        "pattern": "préposition + nom/V-ing · look forward to + V-ing · succeed in + V-ing",
+        "examples": [
+          {
+            "en": "I look forward to hearing from you.",
+            "fr": "J’attends votre réponse avec intérêt.",
+            "note": "Formule de correspondance ; hearing suit une préposition."
+          },
+          {
+            "en": "I solved the problem by asking a more precise question.",
+            "fr": "J’ai résolu le problème en posant une question plus précise.",
+            "note": "By + -ing explique le moyen employé."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "I am committed to improve my English.",
+        "right": "I am committed to improving my English.",
+        "why": "Dans be committed to, to est prépositionnel."
+      }
+    ],
+    "takeaway": "Testez le remplacement par un nom pour reconnaître une préposition.",
+    "recallPrompt": "Construisez une phrase avec without et une autre avec object to.",
+    "exercises": [
+      {
+        "id": "prepositions-ing-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "prepositions-ing",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Quelle forme convient après object to ?",
+        "options": [
+          "I object to paying twice.",
+          "I object to pay twice.",
+          "I object paying twice."
+        ],
+        "answer": 0,
+        "optionNotes": [
+          "Préposition to suivie de -ing.",
+          "To n’est pas infinitif ici.",
+          "Il manque la préposition imposée."
+        ],
+        "explanation": "Object to signifie s’opposer à. Paying constitue le complément de la préposition."
+      },
+      {
+        "id": "prepositions-ing-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "prepositions-ing",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "She succeeded in ___ (find) a quieter room.",
+        "answers": [
+          "finding"
+        ],
+        "hint": "Après la préposition in.",
+        "explanation": "Succeed in doing ; réussir à faire se traduit avec in + -ing, pas nécessairement avec to."
+      },
+      {
+        "id": "prepositions-ing-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "prepositions-ing",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Corrigez la construction après without.",
+        "prompt": "He left without he said goodbye.",
+        "model": "He left without saying goodbye.",
+        "answers": [
+          "He left without saying goodbye."
+        ],
+        "hint": "Corrigez la construction après without.",
+        "explanation": "Without peut prendre un groupe en -ing. Le sujet implicite de saying est he."
+      },
+      {
+        "id": "prepositions-ing-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 67,
+        "tags": [
+          "prepositions-ing",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Décrivez votre apprentissage avec look forward to, by et without.",
+        "model": "I look forward to discussing the book. I practise by retelling short stories without reading my notes.",
+        "rubric": [
+          "-ing après to prépositionnel.",
+          "By + -ing pour une méthode.",
+          "Without + -ing pour une action absente."
+        ],
+        "explanation": "Gardez un sens clair : la méthode et l’action absente doivent se rapporter à la même activité.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "phrasal-order",
+    "title": "Placer l’objet d’un phrasal verb",
+    "subtitle": "Turn it down, mais look after it.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "phrasal-order",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-actions"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Certains verbes à particule transitifs sont séparables : turn down the music ou turn the music down. Avec un pronom personnel objet, la séparation devient normalement obligatoire : turn it down. D’autres groupes sont inséparables : look after someone, put up with something. Les verbes intransitifs n’ont pas d’objet : the car broke down. On ne peut pas déduire la séparabilité de la seule traduction ; mémorisez un exemple contenant it ou them quand cela convient.",
+        "pattern": "séparable : turn the music down / turn it down · inséparable : look after the cat / look after it",
+        "examples": [
+          {
+            "en": "I wrote the number down and looked it up later.",
+            "fr": "J’ai noté le numéro puis l’ai recherché plus tard.",
+            "note": "Les pronoms sont placés au milieu des verbes séparables."
+          },
+          {
+            "en": "I could not put up with it any longer.",
+            "fr": "Je ne pouvais plus le supporter.",
+            "note": "Put up with reste un bloc devant it."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "Please turn down it.",
+        "right": "Please turn it down.",
+        "why": "Turn down est séparable ; le pronom it se place entre le verbe et la particule."
+      }
+    ],
+    "takeaway": "Apprenez le phrasal verb avec un objet pronominal pour fixer l’ordre.",
+    "recallPrompt": "Comparez look it up et look after it.",
+    "exercises": [
+      {
+        "id": "phrasal-order-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "phrasal-order",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Remplacez the form par it dans fill in the form.",
+        "options": [
+          "Fill in it.",
+          "Fill it in.",
+          "Fill it."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Pronom mal placé pour ce verbe séparable.",
+          "Pronom entre fill et in.",
+          "La particule nécessaire au sens formulaire est perdue."
+        ],
+        "explanation": "Fill it in conserve le sens remplir un formulaire. AmE fill it out est aussi courant."
+      },
+      {
+        "id": "phrasal-order-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "phrasal-order",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "Please hand ___ over before you leave.",
+        "answers": [
+          "it",
+          "them"
+        ],
+        "hint": "Remplacez l’objet par un pronom.",
+        "explanation": "Hand over est séparable : hand it/them over. Le choix du pronom dépend du nombre de l’objet."
+      },
+      {
+        "id": "phrasal-order-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "phrasal-order",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Remplacez the address par it.",
+        "prompt": "I looked the address up.",
+        "model": "I looked it up.",
+        "answers": [
+          "I looked it up."
+        ],
+        "hint": "Remplacez the address par it.",
+        "explanation": "Look up au sens rechercher une information est séparable : look it up."
+      },
+      {
+        "id": "phrasal-order-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "phrasal-order",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Écrivez trois phrases courtes avec un verbe séparable, un inséparable et un intransitif.",
+        "model": "I wrote it down. I looked after her cat. The bus broke down.",
+        "rubric": [
+          "Pronom au milieu d’un verbe séparable.",
+          "Préposition conservée devant l’objet inséparable.",
+          "Aucun objet ajouté à broke down dans ce sens."
+        ],
+        "explanation": "La catégorie dépend aussi du sens du verbe. Vérifiez l’entrée correspondant exactement à votre usage.",
+        "estSeconds": 120
+      }
+    ]
+  },
+  {
+    "id": "reported-speech",
+    "title": "Rapporter sans recopier",
+    "subtitle": "Temps, pronoms et repères dans le discours rapporté.",
+    "level": "B2+",
+    "track": "grammar",
+    "minutes": 12,
+    "tags": [
+      "reported-speech",
+      "grammar"
+    ],
+    "relatedListIds": [
+      "pack-conversation",
+      "pack-experiences"
+    ],
+    "sections": [
+      {
+        "title": "Comprendre la construction",
+        "body": "Après un verbe introducteur au passé, les temps reculent souvent : present vers past, will vers would, past vers past perfect. Ce recul n’est pas obligatoire si le locuteur maintient une vérité ou une situation toujours actuelle. Les pronoms et repères temporels changent selon le point de vue : tomorrow peut devenir the following day. Say accepte une proposition, tandis que tell exige normalement la personne à qui l’on parle. Les questions rapportées utilisent l’ordre sujet-verbe, pas l’inversion directe.",
+        "pattern": "said (that) + proposition · told someone (that) + proposition · asked if/where + sujet + verbe",
+        "examples": [
+          {
+            "en": "She told me she would call the following day.",
+            "fr": "Elle m’a dit qu’elle appellerait le lendemain.",
+            "note": "Le destinataire me suit tell ; would rapporte will."
+          },
+          {
+            "en": "He asked where I lived.",
+            "fr": "Il m’a demandé où j’habitais.",
+            "note": "La question intégrée garde I lived."
+          }
+        ]
+      }
+    ],
+    "pitfalls": [
+      {
+        "wrong": "She said me she was tired.",
+        "right": "She told me she was tired.",
+        "why": "Say something to someone, mais tell someone something."
+      }
+    ],
+    "takeaway": "Changez le point de vue et les repères ; ne reculez pas les temps mécaniquement.",
+    "recallPrompt": "Rapportez I will send it tomorrow depuis le lendemain de la conversation.",
+    "exercises": [
+      {
+        "id": "reported-speech-1",
+        "type": "mcq",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "reported-speech",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Choisissez la réponse qui convient au sens demandé.",
+        "prompt": "Quelle phrase rapporte correctement une question ?",
+        "options": [
+          "He asked where did I work.",
+          "He asked where I worked.",
+          "He asked where worked I."
+        ],
+        "answer": 1,
+        "optionNotes": [
+          "Inversion directe conservée à tort.",
+          "Ordre sujet-verbe.",
+          "Ordre incorrect."
+        ],
+        "explanation": "Asked introduit une question intégrée, qui utilise l’ordre déclaratif I worked."
+      },
+      {
+        "id": "reported-speech-2",
+        "type": "cloze",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "reported-speech",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Complétez en respectant la construction indiquée.",
+        "prompt": "She ___ me that the train was delayed.",
+        "answers": [
+          "told"
+        ],
+        "hint": "Verbe qui prend directement le destinataire me.",
+        "explanation": "Told me that est correct. Avec said, il faudrait said to me that, formulation souvent moins naturelle."
+      },
+      {
+        "id": "reported-speech-3",
+        "type": "rewrite",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "reported-speech",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "Rapportez la phrase : you désigne le narrateur et le jour est vu depuis hier.",
+        "prompt": "Yesterday, Lea said: \"I will call you tomorrow.\"",
+        "model": "Yesterday, Lea said she would call me the following day.",
+        "answers": [
+          "Yesterday, Lea said she would call me the following day."
+        ],
+        "hint": "Rapportez la phrase : you désigne le narrateur et le jour est vu depuis hier.",
+        "explanation": "Will devient would dans le récit passé ; you devient me ; tomorrow se repère comme the following day."
+      },
+      {
+        "id": "reported-speech-4",
+        "type": "free",
+        "skills": [
+          "grammar",
+          "structure"
+        ],
+        "difficulty": 59,
+        "tags": [
+          "reported-speech",
+          "grammar"
+        ],
+        "origin": "bank",
+        "instruction": "À vous : appliquez la construction dans un contexte personnel.",
+        "prompt": "Rapportez un conseil ou une information, puis une question que quelqu’un vous a posée.",
+        "model": "My neighbour told me that the lift was out of order. She asked whether I needed help with my bags.",
+        "rubric": [
+          "Tell avec destinataire ou say correctement construit.",
+          "Question rapportée sans inversion interne.",
+          "Pronoms cohérents avec le narrateur."
+        ],
+        "explanation": "Un fait toujours vrai peut parfois conserver le présent. Le choix dépend de ce que vous prenez en charge maintenant.",
+        "estSeconds": 120
+      }
+    ]
+  }
+]

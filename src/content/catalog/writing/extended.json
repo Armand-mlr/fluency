@@ -1,0 +1,212 @@
+[
+  {
+    "id": "wl-regret",
+    "title": "Un regret précis",
+    "context": "Récit personnel",
+    "goal": "Exprimer ce que vous auriez changé sans dramatiser.",
+    "base": "I made a bad decision and now I am unhappy.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "I wish I had asked for advice before accepting the offer.",
+        "moves": [
+          "Regret ciblé : wish + past perfect.",
+          "Nommer la décision plutôt que bad decision."
+        ],
+        "why": "On comprend quelle action manque dans le passé. La précision vient du scénario, pas d’un adjectif plus rare."
+      },
+      {
+        "level": "C2",
+        "text": "With hindsight, I rushed into accepting the offer without considering what I would be giving up.",
+        "moves": [
+          "With hindsight situe le regard rétrospectif.",
+          "Rush into + -ing indique la précipitation.",
+          "What I would be giving up explicite le coût perçu."
+        ],
+        "why": "Cette version explique le mécanisme du regret. Elle ne prétend pas que tout le choix était mauvais."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "I should have slept on it before saying yes.",
+        "when": "Conversation familière : regret exprimé simplement."
+      }
+    ],
+    "register": "Neutral / conversational"
+  },
+  {
+    "id": "wl-boundaries",
+    "title": "Poser une limite",
+    "context": "Relation / travail",
+    "goal": "Refuser une demande en précisant ce qui reste possible.",
+    "base": "I cannot help you all the time.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "I am happy to help, but I need a little notice.",
+        "moves": [
+          "Reconnaître la volonté d’aider.",
+          "Nommer la condition : du préavis."
+        ],
+        "why": "Une limite concrète est plus facile à respecter qu’un reproche général."
+      },
+      {
+        "level": "C2",
+        "text": "I can help with the urgent parts today, provided we agree on a more realistic schedule for the rest.",
+        "moves": [
+          "Définir la portée de l’aide.",
+          "Provided introduit une condition explicite.",
+          "Séparer l’urgence du reste."
+        ],
+        "why": "La version avancée négocie un cadre réaliste sans transformer un refus en attaque personnelle."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "I can do this one, but I cannot keep taking on last-minute requests.",
+        "when": "Quand il faut être plus ferme sur une habitude répétée."
+      }
+    ],
+    "register": "Neutral → professional"
+  },
+  {
+    "id": "wl-uncertainty",
+    "title": "Reconnaître ce qu’on ignore",
+    "context": "Discussion / compte rendu",
+    "goal": "Distinguer observation et interprétation.",
+    "base": "People did not come because the event was too expensive.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "The price may have discouraged some people from attending.",
+        "moves": [
+          "May have pour une cause possible.",
+          "Some limite la généralisation.",
+          "Discourage someone from + -ing."
+        ],
+        "why": "Vous proposez une explication sans inventer une certitude sur les raisons de chaque absent."
+      },
+      {
+        "level": "C2",
+        "text": "Attendance was lower than expected; price is one plausible explanation, though we have not asked those who stayed away.",
+        "moves": [
+          "Distinguer le fait observé de sa cause supposée.",
+          "Ajouter la limite de l’information disponible."
+        ],
+        "why": "La rigueur vient de la distinction entre résultat et hypothèse. Le texte reste compréhensible malgré la nuance."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "Maybe the price put people off, but we would need to ask them.",
+        "when": "Discussion ordinaire, formulation directe."
+      }
+    ],
+    "register": "Conversational → analytical"
+  },
+  {
+    "id": "wl-anecdote",
+    "title": "Une anecdote vivante",
+    "context": "Conversation",
+    "goal": "Faire ressortir l’enjeu et la réaction.",
+    "base": "I lost my wallet and it was very bad, but I found it.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "I realised my wallet was missing just as I reached the checkout. Fortunately, someone had handed it in.",
+        "moves": [
+          "Situer le problème au moment précis.",
+          "Past perfect pour l’action antérieure qui résout le problème."
+        ],
+        "why": "Le lecteur comprend immédiatement pourquoi la perte compte : le paiement est imminent."
+      },
+      {
+        "level": "C2",
+        "text": "Just as I was about to pay, I realised my wallet was missing. To my relief, the cashier had already recognised it from the photo on my travel pass.",
+        "moves": [
+          "Was about to pour l’imminence.",
+          "To my relief nomme la réaction.",
+          "Détail concret expliquant la résolution."
+        ],
+        "why": "La version est plus développée, mais son intérêt vient du détail causal, pas de sa longueur."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "I got to the till and my wallet was gone. Luckily, someone had handed it in.",
+        "when": "Récit spontané entre amis ; till est surtout britannique."
+      }
+    ],
+    "register": "Conversational"
+  },
+  {
+    "id": "wl-feedback",
+    "title": "Faire un retour utile",
+    "context": "Collaboration",
+    "goal": "Critiquer un résultat tout en indiquant une amélioration.",
+    "base": "Your text is confusing and too long.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "I found the main point hard to follow because the examples came before the explanation.",
+        "moves": [
+          "Parler de l’effet sur le lecteur.",
+          "Relier l’effet à une cause précise."
+        ],
+        "why": "Le retour décrit un problème modifiable au lieu de juger globalement le travail."
+      },
+      {
+        "level": "C2",
+        "text": "The examples are useful, but moving the central claim to the opening would make their relevance clearer and allow you to shorten the introduction.",
+        "moves": [
+          "Conserver un point fort réel.",
+          "Proposer une action précise.",
+          "Expliquer le double bénéfice de cette action."
+        ],
+        "why": "Le feedback devient directement applicable. Il ne demande pas seulement d’être plus clair."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "Could you state the main idea first? I got a little lost in the examples.",
+        "when": "Échange rapide et respectueux."
+      }
+    ],
+    "register": "Neutral / professional"
+  },
+  {
+    "id": "wl-complexity",
+    "title": "Préciser sans alourdir",
+    "context": "Écrit formel",
+    "goal": "Gagner en nuance sans transformer une phrase en jargon.",
+    "base": "This plan is good, but there are problems.",
+    "steps": [
+      {
+        "level": "C1",
+        "text": "The plan is workable, although the staffing requirements remain unclear.",
+        "moves": [
+          "Workable précise la faisabilité.",
+          "Nommer le point incertain."
+        ],
+        "why": "On remplace une évaluation vague par un critère et une limite."
+      },
+      {
+        "level": "C2",
+        "text": "The plan appears workable on the current budget; whether it remains so depends on how much staff time the follow-up requires.",
+        "moves": [
+          "Limiter le jugement aux moyens actuels.",
+          "Reprendre workable avec so.",
+          "Isoler la condition qui peut changer le bilan."
+        ],
+        "why": "La structure relie faisabilité et condition de maintien. Un texte plus simple reste préférable si cette nuance n’est pas nécessaire."
+      }
+    ],
+    "alternatives": [
+      {
+        "text": "The plan could work, but we need to check how much time it will take.",
+        "when": "Conversation ou courriel courant : parfois le meilleur choix."
+      }
+    ],
+    "register": "Neutral → analytical"
+  }
+]

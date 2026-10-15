@@ -1,0 +1,636 @@
+[
+  {
+    "id": "g-pp-connection",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "present perfect",
+      "tenses"
+    ],
+    "context": "work",
+    "instruction": "Which sentence fits the situation?",
+    "prompt": "You're in a meeting. The client asks why the dashboard isn't ready yet.",
+    "options": [
+      "We've had some issues with the API, so it's delayed.",
+      "We had some issues with the API, so it's delayed.",
+      "We were having some issues with the API, so it's delayed."
+    ],
+    "answer": 0,
+    "explanation": "The present perfect links a past event to NOW. The issues matter because they explain the current delay. The simple past would frame them as a closed episode, disconnected from the present.",
+    "compare": [
+      "We had issues last week, but we fixed them. (closed)",
+      "We've had issues, so it's late. (still relevant now)"
+    ],
+    "optionNotes": [
+      "",
+      "Possible, but it presents the issues as finished and disconnected from the delay.",
+      "The continuous focuses on the background activity, not its result now."
+    ],
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "g-for-since",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "present perfect",
+      "prepositions",
+      "french interference"
+    ],
+    "context": "everyday",
+    "instruction": "Fill the gap with one word.",
+    "prompt": "I've been working on this project ___ three months, and it's finally taking shape.",
+    "answers": [
+      "for"
+    ],
+    "explanation": "“For” + a duration (three months). “Since” + a starting point (since March). French “depuis” covers both, which is why French speakers mix them up.",
+    "compare": [
+      "I've lived here since 2023.",
+      "I've lived here for three years."
+    ],
+    "trap": {
+      "key": "since-duration",
+      "wrong": "I have lived here since three years.",
+      "correct": "I have lived here for three years.",
+      "type": "preposition",
+      "cause": "french-interference",
+      "explanation": "“Since” introduces a starting point, “for” a duration. French “depuis” covers both.",
+      "frenchHint": "J'habite ici depuis trois ans."
+    },
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "g-tr-depuis",
+    "skills": [
+      "grammar",
+      "paraphrase"
+    ],
+    "tags": [
+      "present perfect",
+      "french interference"
+    ],
+    "context": "university",
+    "instruction": "Translate into natural English.",
+    "prompt": "Ça fait deux ans que j'étudie l'informatique.",
+    "answers": [
+      "I have been studying computer science for two years.",
+      "I've been studying computer science for two years.",
+      "I have studied computer science for two years.",
+      "I've studied computer science for two years."
+    ],
+    "mustInclude": [
+      [
+        "ha(ve|s)|'ve"
+      ],
+      [
+        "for two years"
+      ]
+    ],
+    "mustAvoid": [
+      "\\bI study computer science since",
+      "\\bsince two years"
+    ],
+    "model": "I've been studying computer science for two years.",
+    "explanation": "French uses the present (“j'étudie”) because the action continues. English marks that continuity with the present perfect (continuous), not the present simple.",
+    "trap": {
+      "key": "present-for-duration",
+      "wrong": "I study computer science since two years.",
+      "correct": "I've been studying computer science for two years.",
+      "type": "tense",
+      "cause": "french-interference",
+      "explanation": "An action that started in the past and continues now takes the present perfect in English, not the present.",
+      "frenchHint": "J'étudie l'informatique depuis deux ans."
+    },
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "translate"
+  },
+  {
+    "id": "g-agree",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "french interference",
+      "verbs"
+    ],
+    "context": "conversation",
+    "instruction": "Correct the sentence.",
+    "prompt": "I am agree with you on the main point, but not on the details.",
+    "answers": [
+      "I agree with you on the main point, but not on the details."
+    ],
+    "mustAvoid": [
+      "am agree"
+    ],
+    "model": "I agree with you on the main point, but not on the details.",
+    "explanation": "“Agree” is a verb, not an adjective. French “être d'accord” pushes you towards “be + agree”.",
+    "trap": {
+      "key": "am-agree",
+      "wrong": "I am agree with you.",
+      "correct": "I agree with you.",
+      "type": "grammar",
+      "cause": "french-interference",
+      "explanation": "“Agree” is already a verb: no “be” needed. French “être d'accord” causes the error.",
+      "frenchHint": "Je suis d'accord avec toi."
+    },
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "correct"
+  },
+  {
+    "id": "g-explain-me",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "verb patterns",
+      "french interference"
+    ],
+    "context": "university",
+    "instruction": "Click the part that contains an error (or “No error”).",
+    "segments": [
+      "Could you ",
+      "explain me ",
+      "how the scheduler ",
+      "decides which process runs next?"
+    ],
+    "wrongIndex": 1,
+    "correction": "explain to me",
+    "explanation": "“Explain” doesn't take an indirect object directly: you explain something TO someone. Same pattern: describe, suggest, recommend.",
+    "compare": [
+      "Could you explain it to me?",
+      "Could you explain how it works?"
+    ],
+    "trap": {
+      "key": "explain-me",
+      "wrong": "Could you explain me how it works?",
+      "correct": "Could you explain to me how it works?",
+      "type": "grammar",
+      "cause": "french-interference",
+      "explanation": "You explain something TO someone. “Explain me” copies French “m'expliquer”.",
+      "frenchHint": "Tu peux m'expliquer comment ça marche ?"
+    },
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "spot-error"
+  },
+  {
+    "id": "g-look-forward",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "verb patterns",
+      "email"
+    ],
+    "context": "work",
+    "instruction": "Choose the correct ending for a professional email.",
+    "prompt": "I look forward to ___ from you.",
+    "options": [
+      "hear",
+      "hearing",
+      "have heard"
+    ],
+    "answer": 1,
+    "explanation": "Here “to” is a preposition (look forward TO something), not part of an infinitive. After a preposition, English uses the -ing form.",
+    "compare": [
+      "I'm used to working late.",
+      "I object to paying twice."
+    ],
+    "trap": {
+      "key": "look-forward-hear",
+      "wrong": "I look forward to hear from you.",
+      "correct": "I look forward to hearing from you.",
+      "type": "grammar",
+      "cause": "overgeneralisation",
+      "explanation": "“To” in “look forward to” is a preposition, so it's followed by -ing."
+    },
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "g-depend-on",
+    "skills": [
+      "grammar",
+      "collocations"
+    ],
+    "tags": [
+      "prepositions",
+      "french interference"
+    ],
+    "context": "everyday",
+    "instruction": "Fill in the preposition.",
+    "prompt": "Whether we go ahead depends entirely ___ the results of the pilot.",
+    "answers": [
+      "on",
+      "upon"
+    ],
+    "explanation": "English says “depend on” (the idea of resting on something). French “dépendre de” makes “depend of” very tempting.",
+    "trap": {
+      "key": "depend-of",
+      "wrong": "It depends of the results.",
+      "correct": "It depends on the results.",
+      "type": "preposition",
+      "cause": "french-interference",
+      "explanation": "“Depend on”, never “depend of” (from French “dépendre de”).",
+      "frenchHint": "Ça dépend des résultats."
+    },
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "g-mixed-cond",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "conditionals"
+    ],
+    "context": "university",
+    "instruction": "Which sentence is correct for this meaning?",
+    "prompt": "Meaning: I didn't take the internship last year, and that's why I don't have experience now.",
+    "options": [
+      "If I took the internship, I would have experience now.",
+      "If I had taken the internship, I would have experience now.",
+      "If I had taken the internship, I would have had experience now."
+    ],
+    "answer": 1,
+    "explanation": "A mixed conditional: a PAST condition (had taken) with a PRESENT result (would have now). Each half keeps the time it refers to.",
+    "compare": [
+      "If I had taken it, I would have learned a lot. (past → past)",
+      "If I were more organised, I would have finished. (present trait → past result)"
+    ],
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "g-inversion-hardly",
+    "skills": [
+      "structure",
+      "grammar"
+    ],
+    "tags": [
+      "inversion",
+      "formal writing"
+    ],
+    "context": "narrative",
+    "instruction": "Rewrite starting with “Hardly”.",
+    "prompt": "The meeting had just started when the power went out.",
+    "answers": [
+      "Hardly had the meeting started when the power went out.",
+      "Hardly had the meeting begun when the power went out."
+    ],
+    "mustInclude": [
+      [
+        "^hardly had the meeting"
+      ],
+      [
+        "when"
+      ]
+    ],
+    "mustAvoid": [
+      "hardly the meeting had",
+      "than the power"
+    ],
+    "model": "Hardly had the meeting started when the power went out.",
+    "explanation": "Negative or restrictive adverbs placed first (Hardly, Rarely, Never, Not only) trigger question-style word order: auxiliary before subject. It adds emphasis and a literary/formal tone. “Hardly… when”, but “No sooner… than”.",
+    "compare": [
+      "No sooner had the meeting started than the power went out."
+    ],
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "g-inversion-notonly",
+    "skills": [
+      "structure",
+      "register"
+    ],
+    "tags": [
+      "inversion",
+      "formal writing",
+      "argument"
+    ],
+    "context": "business",
+    "instruction": "Rewrite starting with “Not only”.",
+    "prompt": "The new policy reduces costs and it also improves employee satisfaction.",
+    "answers": [
+      "Not only does the new policy reduce costs, but it also improves employee satisfaction.",
+      "Not only does the new policy reduce costs, it also improves employee satisfaction.",
+      "Not only does the new policy reduce costs but it also improves employee satisfaction."
+    ],
+    "mustInclude": [
+      [
+        "^not only does the (new )?policy reduce"
+      ],
+      [
+        "also"
+      ]
+    ],
+    "mustAvoid": [
+      "not only the new policy reduces"
+    ],
+    "model": "Not only does the new policy reduce costs, but it also improves employee satisfaction.",
+    "explanation": "“Not only” at the start inverts the first clause (does + subject + base verb). The inversion signals emphasis: useful in argumentative writing.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "g-subjunctive",
+    "skills": [
+      "grammar",
+      "register"
+    ],
+    "tags": [
+      "subjunctive",
+      "formal writing"
+    ],
+    "context": "work",
+    "instruction": "Choose the most appropriate form for a formal report.",
+    "prompt": "The committee recommends that each applicant ___ a portfolio.",
+    "options": [
+      "submits",
+      "submit",
+      "will submit",
+      "to submit"
+    ],
+    "answer": 1,
+    "explanation": "After verbs like recommend, insist, suggest, demand (and “it is essential that”), formal English uses the base form: the mandative subjunctive. British English often accepts “should submit”; “submits” sounds informal in this context.",
+    "compare": [
+      "It is essential that he be informed.",
+      "We insisted that she attend."
+    ],
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "g-suggest-to",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "verb patterns",
+      "french interference"
+    ],
+    "context": "work",
+    "instruction": "Click the part that contains an error (or “No error”).",
+    "segments": [
+      "My manager ",
+      "suggested me ",
+      "to rewrite the introduction ",
+      "before sending it."
+    ],
+    "wrongIndex": 1,
+    "correction": "suggested (that) I rewrite / suggested rewriting",
+    "explanation": "“Suggest” cannot take “someone + to do”. Use “suggest (that) someone do” or “suggest doing”.",
+    "compare": [
+      "She suggested that I rewrite it.",
+      "She suggested rewriting it."
+    ],
+    "trap": {
+      "key": "suggest-me-to",
+      "wrong": "He suggested me to rewrite it.",
+      "correct": "He suggested that I rewrite it.",
+      "type": "grammar",
+      "cause": "french-interference",
+      "explanation": "“Suggest” is followed by “that + subject + verb” or by -ing, never “someone to do”.",
+      "frenchHint": "Il m'a suggéré de le réécrire."
+    },
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "spot-error"
+  },
+  {
+    "id": "g-must-have",
+    "skills": [
+      "grammar",
+      "precision"
+    ],
+    "tags": [
+      "modals",
+      "deduction"
+    ],
+    "context": "tech",
+    "instruction": "Pick the best deduction.",
+    "prompt": "The server logs show no requests after 3 a.m. Someone ___ the service down for maintenance.",
+    "options": [
+      "must have taken",
+      "should have taken",
+      "must take",
+      "can have taken"
+    ],
+    "answer": 0,
+    "explanation": "Modal + have + past participle talks about the past. “Must have” = logical certainty; “should have” = criticism or expectation; “can't have” = impossibility.",
+    "compare": [
+      "He can't have seen it: he was offline.",
+      "You should have told me."
+    ],
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "g-wish",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "wish",
+      "regret"
+    ],
+    "context": "relationships",
+    "instruction": "Put the verb in the correct form.",
+    "prompt": "I wish my flatmate ___ (stop) leaving dishes in the sink. It drives me mad.",
+    "answers": [
+      "would stop"
+    ],
+    "hint": "An annoying habit you'd like to change",
+    "explanation": "“Wish + would” expresses irritation about someone else's behaviour you want to change. “Wish + past simple” is for present states (I wish I had more time).",
+    "compare": [
+      "I wish I knew the answer. (state)",
+      "I wish you would listen. (behaviour)"
+    ],
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "g-articles-society",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "articles",
+      "french interference"
+    ],
+    "context": "academic",
+    "instruction": "Which sentence is correct in a general statement?",
+    "prompt": "Choose the natural version.",
+    "options": [
+      "The technology is changing the society in profound ways.",
+      "Technology is changing society in profound ways.",
+      "The technology is changing society in profound ways."
+    ],
+    "answer": 1,
+    "explanation": "For general, abstract ideas English uses NO article (technology, society, education). French uses “la technologie, la société”. Add “the” only when it's specific: “the technology behind ChatGPT”.",
+    "trap": {
+      "key": "the-society",
+      "wrong": "The technology is changing the society.",
+      "correct": "Technology is changing society.",
+      "type": "grammar",
+      "cause": "french-interference",
+      "explanation": "General abstract nouns take no article in English.",
+      "frenchHint": "La technologie change la société."
+    },
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "g-informations",
+    "skills": [
+      "grammar",
+      "vocabulary"
+    ],
+    "tags": [
+      "uncountable",
+      "french interference"
+    ],
+    "context": "work",
+    "instruction": "Click the part that contains an error (or “No error”).",
+    "segments": [
+      "Thanks for ",
+      "all the informations ",
+      "you sent; ",
+      "it was really useful."
+    ],
+    "wrongIndex": 1,
+    "correction": "all the information",
+    "explanation": "“Information” is uncountable in English (so is advice, feedback, equipment, research). So: “it was useful”, “a piece of information”.",
+    "trap": {
+      "key": "informations",
+      "wrong": "Thanks for the informations.",
+      "correct": "Thanks for the information.",
+      "type": "grammar",
+      "cause": "french-interference",
+      "explanation": "Information, advice, feedback, research are uncountable: no -s."
+    },
+    "difficulty": 52,
+    "origin": "bank",
+    "type": "spot-error"
+  },
+  {
+    "id": "g-used-to",
+    "skills": [
+      "grammar",
+      "precision"
+    ],
+    "tags": [
+      "used to",
+      "verb patterns"
+    ],
+    "context": "work",
+    "instruction": "Which sentence means “it's no longer strange for me”?",
+    "prompt": "",
+    "options": [
+      "I used to work at night.",
+      "I'm used to working at night.",
+      "I use to work at night."
+    ],
+    "answer": 1,
+    "explanation": "“Used to + verb” = a past habit that's over. “Be/get used to + -ing” = be accustomed to. The “to” in the second one is a preposition, hence -ing.",
+    "difficulty": 59,
+    "origin": "bank",
+    "type": "mcq"
+  },
+  {
+    "id": "g-were-it-not",
+    "skills": [
+      "structure",
+      "grammar"
+    ],
+    "tags": [
+      "inversion",
+      "conditionals",
+      "formal writing"
+    ],
+    "context": "academic",
+    "instruction": "Rewrite using a conditional inversion (no “if”).",
+    "prompt": "If it were not for her support, the project would have been abandoned.",
+    "answers": [
+      "Were it not for her support, the project would have been abandoned.",
+      "Had it not been for her support, the project would have been abandoned."
+    ],
+    "mustInclude": [
+      [
+        "^(were it not|had it not been) for"
+      ]
+    ],
+    "mustAvoid": [
+      "^if"
+    ],
+    "model": "Had it not been for her support, the project would have been abandoned.",
+    "explanation": "Formal English can drop “if” and invert: Were it not for…, Had I known…, Should you need… Since the result is past, “Had it not been for” is the most precise here.",
+    "difficulty": 86,
+    "origin": "bank",
+    "type": "rewrite"
+  },
+  {
+    "id": "g-need-doing",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "verb patterns",
+      "passive"
+    ],
+    "context": "everyday",
+    "instruction": "Complete with the correct form of “update”.",
+    "prompt": "Your CV really needs ___ before you apply.",
+    "answers": [
+      "updating",
+      "to be updated"
+    ],
+    "explanation": "“Need + -ing” has a passive meaning (British, common in speech): the CV needs to be updated.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "cloze"
+  },
+  {
+    "id": "g-would-rather",
+    "skills": [
+      "grammar"
+    ],
+    "tags": [
+      "would rather",
+      "preferences"
+    ],
+    "context": "relationships",
+    "instruction": "Choose the correct form.",
+    "prompt": "I'd rather you ___ anyone about this yet.",
+    "options": [
+      "don't tell",
+      "didn't tell",
+      "not tell",
+      "won't tell"
+    ],
+    "answer": 1,
+    "explanation": "“Would rather + another subject” takes the past tense for a present/future meaning. Same logic as “It's time we left” or “I wish you were here”: the past signals distance from reality.",
+    "difficulty": 67,
+    "origin": "bank",
+    "type": "mcq"
+  }
+]

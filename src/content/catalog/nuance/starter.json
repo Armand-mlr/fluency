@@ -1,0 +1,696 @@
+[
+  {
+    "id": "ns-children",
+    "title": "kids · children · young people · juveniles · minors",
+    "idea": "people under 18",
+    "takeaway": "Same people, different lens: family life (kids), neutral (children), policy (young people), law (juveniles, minors).",
+    "words": [
+      {
+        "word": "kids",
+        "register": "casual",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "Everyday speech. Fine in informal writing, avoid in reports.",
+        "collocations": [
+          "my kids",
+          "the kids are asleep"
+        ],
+        "example": "Are the kids coming to the barbecue?"
+      },
+      {
+        "word": "children",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "Default word. Suggests younger ages (roughly under 13).",
+        "collocations": [
+          "young children",
+          "raise children"
+        ],
+        "example": "The museum is free for children under 12."
+      },
+      {
+        "word": "young people",
+        "register": "professional",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Policy, education, NGOs. Usually teenagers and young adults.",
+        "collocations": [
+          "young people's mental health",
+          "engage young people"
+        ],
+        "example": "The scheme aims to help young people into work."
+      },
+      {
+        "word": "juveniles",
+        "register": "formal",
+        "connotation": "technical",
+        "frequency": "less common",
+        "note": "Legal/police context. Can sound cold or stigmatising elsewhere.",
+        "collocations": [
+          "juvenile offenders",
+          "juvenile court"
+        ],
+        "example": "Two juveniles were detained after the incident."
+      },
+      {
+        "word": "minors",
+        "register": "formal",
+        "connotation": "technical",
+        "frequency": "less common",
+        "note": "Legal status (under the age of majority): consent, alcohol, contracts.",
+        "collocations": [
+          "sale to minors",
+          "unaccompanied minors"
+        ],
+        "example": "Alcohol may not be sold to minors."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "A text to your sister: “Want me to pick up the ___ from school?”",
+        "answer": "kids",
+        "why": "Casual, family."
+      },
+      {
+        "prompt": "Government report: “Unemployment among ___ aged 16–24 has risen.”",
+        "answer": "young people",
+        "why": "Policy context, includes young adults."
+      },
+      {
+        "prompt": "Website terms: “This service is not available to ___.”",
+        "answer": "minors",
+        "why": "Legal status."
+      }
+    ]
+  },
+  {
+    "id": "ns-get",
+    "title": "get · obtain · acquire · procure · gain",
+    "idea": "come to have something",
+    "takeaway": "“Get” is never wrong in speech. In writing, choose by HOW the thing is obtained: effort (procure), over time (acquire, gain), formally (obtain).",
+    "words": [
+      {
+        "word": "get",
+        "register": "casual",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "All-purpose. Overused in essays: replace it there.",
+        "collocations": [
+          "get a job",
+          "get permission"
+        ],
+        "example": "Did you get the tickets?"
+      },
+      {
+        "word": "obtain",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Formal equivalent of get, especially documents, data, permission.",
+        "collocations": [
+          "obtain a visa",
+          "obtain data",
+          "obtain consent"
+        ],
+        "example": "Participants' consent was obtained before the interviews."
+      },
+      {
+        "word": "acquire",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Gradually (skills, knowledge, a taste) or by purchase (companies).",
+        "collocations": [
+          "acquire skills",
+          "acquire a company",
+          "an acquired taste"
+        ],
+        "example": "Google acquired the startup for $2 billion."
+      },
+      {
+        "word": "procure",
+        "register": "formal",
+        "connotation": "technical",
+        "frequency": "less common",
+        "note": "Obtain with effort, often official purchasing (procurement). Can imply something shady in some contexts.",
+        "collocations": [
+          "procure supplies",
+          "procure equipment"
+        ],
+        "example": "The ministry struggled to procure enough vaccines."
+      },
+      {
+        "word": "gain",
+        "register": "neutral",
+        "connotation": "positive",
+        "frequency": "very common",
+        "note": "Get something valuable through effort or over time.",
+        "collocations": [
+          "gain experience",
+          "gain access",
+          "gain weight"
+        ],
+        "example": "I gained a lot of experience during my apprenticeship."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "CV: “___ hands-on experience with React and PostgreSQL.”",
+        "answer": "gained",
+        "why": "Experience you earned: gain."
+      },
+      {
+        "prompt": "Methodology: “Data were ___ from the national statistics office.”",
+        "answer": "obtained",
+        "why": "Formal, data."
+      },
+      {
+        "prompt": "“The firm was ___ by a larger competitor in 2021.”",
+        "answer": "acquired",
+        "why": "Buying a company."
+      }
+    ]
+  },
+  {
+    "id": "ns-big",
+    "title": "big · large · considerable · substantial · significant",
+    "idea": "size or amount",
+    "takeaway": "Big and large are about physical size. For abstract amounts and effects in writing: considerable, substantial, significant (careful: in science, “significant” means statistically significant).",
+    "words": [
+      {
+        "word": "big",
+        "register": "casual",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "Speech. Also emotional importance (a big decision).",
+        "collocations": [
+          "a big deal",
+          "a big mistake"
+        ],
+        "example": "That's a big mistake."
+      },
+      {
+        "word": "large",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "Physical size, numbers, quantities. Not for emotions (not “a large mistake”).",
+        "collocations": [
+          "a large number of",
+          "large-scale"
+        ],
+        "example": "A large number of students applied."
+      },
+      {
+        "word": "considerable",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Large enough to matter; often effort, time, money, interest.",
+        "collocations": [
+          "considerable effort",
+          "at considerable cost"
+        ],
+        "example": "The project required considerable effort."
+      },
+      {
+        "word": "substantial",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Large and solid, real. Amounts, evidence, changes.",
+        "collocations": [
+          "substantial evidence",
+          "a substantial increase"
+        ],
+        "example": "There is substantial evidence for this claim."
+      },
+      {
+        "word": "significant",
+        "register": "academic",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "Important/noticeable. In research papers, it implies statistical significance.",
+        "collocations": [
+          "a significant impact",
+          "significantly higher"
+        ],
+        "example": "The policy had a significant impact on enrolment."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "Casual: “Getting that job was a ___ deal for me.”",
+        "answer": "big",
+        "why": "Fixed expression, emotional importance."
+      },
+      {
+        "prompt": "Formal: “The renovation was carried out at ___ cost.”",
+        "answer": "considerable",
+        "why": "Fixed collocation: at considerable cost."
+      },
+      {
+        "prompt": "Research: “There is ___ evidence that sleep affects memory.”",
+        "answer": "substantial",
+        "why": "Evidence that is solid and plentiful."
+      }
+    ]
+  },
+  {
+    "id": "ns-say",
+    "title": "say · claim · argue · maintain · assert · suggest",
+    "idea": "reporting what someone says",
+    "takeaway": "Reporting verbs reveal YOUR stance: claim distances you, argue presents reasoning, suggest is tentative, maintain implies persistence despite opposition.",
+    "words": [
+      {
+        "word": "say",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "Neutral, no stance.",
+        "collocations": [
+          "say that"
+        ],
+        "example": "The report says that costs rose."
+      },
+      {
+        "word": "claim",
+        "register": "neutral",
+        "connotation": "negative",
+        "frequency": "very common",
+        "note": "Suggests the writer isn't sure it's true.",
+        "collocations": [
+          "claim that",
+          "claim to be"
+        ],
+        "example": "The company claims its app is 100% secure."
+      },
+      {
+        "word": "argue",
+        "register": "academic",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Presents a position supported by reasoning.",
+        "collocations": [
+          "argue that",
+          "it could be argued that"
+        ],
+        "example": "Smith argues that remote work boosts productivity."
+      },
+      {
+        "word": "maintain",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "less common",
+        "note": "Keeps saying it, often despite doubts or criticism.",
+        "collocations": [
+          "maintain one's innocence",
+          "maintain that"
+        ],
+        "example": "He maintains that he was never informed."
+      },
+      {
+        "word": "assert",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "less common",
+        "note": "States confidently and forcefully.",
+        "collocations": [
+          "assert that",
+          "assert one's rights"
+        ],
+        "example": "The author asserts that the policy has failed."
+      },
+      {
+        "word": "suggest",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "Tentative, especially for evidence (the data suggest…).",
+        "collocations": [
+          "evidence suggests",
+          "suggest that"
+        ],
+        "example": "The results suggest a link between the two."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "You doubt it: “The influencer ___ that the supplement cures anxiety.”",
+        "answer": "claims",
+        "why": "Signals doubt."
+      },
+      {
+        "prompt": "Cautious evidence: “These figures ___ that demand is slowing.”",
+        "answer": "suggest",
+        "why": "Tentative."
+      },
+      {
+        "prompt": "Despite the evidence, the suspect ___ his innocence.",
+        "answer": "maintains",
+        "why": "Keeps saying it despite doubts."
+      }
+    ]
+  },
+  {
+    "id": "ns-problem",
+    "title": "problem · issue · challenge · concern · setback",
+    "idea": "something that goes wrong",
+    "takeaway": "Professional English softens problems: issue (neutral), challenge (positive spin), concern (worry), setback (temporary). Overusing “challenge” sounds like corporate spin.",
+    "words": [
+      {
+        "word": "problem",
+        "register": "neutral",
+        "connotation": "negative",
+        "frequency": "very common",
+        "note": "Direct. Fine, but can sound alarming to clients.",
+        "collocations": [
+          "solve a problem",
+          "a major problem"
+        ],
+        "example": "We have a problem with the server."
+      },
+      {
+        "word": "issue",
+        "register": "professional",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "The standard professional word. Also: topic of debate.",
+        "collocations": [
+          "address an issue",
+          "a known issue"
+        ],
+        "example": "We're aware of the issue and working on a fix."
+      },
+      {
+        "word": "challenge",
+        "register": "professional",
+        "connotation": "positive",
+        "frequency": "very common",
+        "note": "Difficulty framed as something to overcome.",
+        "collocations": [
+          "face a challenge",
+          "rise to the challenge"
+        ],
+        "example": "Scaling the team will be our main challenge this year."
+      },
+      {
+        "word": "concern",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "A worry. Raise concerns = express worry formally.",
+        "collocations": [
+          "raise concerns",
+          "a cause for concern"
+        ],
+        "example": "Several students raised concerns about the new grading system."
+      },
+      {
+        "word": "setback",
+        "register": "neutral",
+        "connotation": "negative",
+        "frequency": "common",
+        "note": "Something that delays progress, usually temporary.",
+        "collocations": [
+          "a major setback",
+          "suffer a setback"
+        ],
+        "example": "Losing our lead developer was a serious setback."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "Status page: “We're investigating an ___ affecting payments.”",
+        "answer": "issue",
+        "why": "Standard, calm, professional."
+      },
+      {
+        "prompt": "Staff meeting: “Several employees have raised ___ about the new policy.”",
+        "answer": "concerns",
+        "why": "Collocation: raise concerns."
+      },
+      {
+        "prompt": "“The failed test was a ___, but we're still on track for launch.”",
+        "answer": "setback",
+        "why": "Temporary delay."
+      }
+    ]
+  },
+  {
+    "id": "ns-help",
+    "title": "help · assist · aid · support · facilitate",
+    "idea": "making something easier for someone",
+    "takeaway": "“Help” is the default. Assist = formal help (often a secondary role). Facilitate = make a process easier, not help a person.",
+    "words": [
+      {
+        "word": "help",
+        "register": "neutral",
+        "connotation": "positive",
+        "frequency": "very common",
+        "note": "Default, everywhere.",
+        "collocations": [
+          "help sb (to) do",
+          "can't help doing"
+        ],
+        "example": "Can you help me fix this bug?"
+      },
+      {
+        "word": "assist",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Formal; often suggests a supporting role. NOT “assister à”.",
+        "collocations": [
+          "assist with",
+          "assist sb in doing"
+        ],
+        "example": "Our staff will be happy to assist you."
+      },
+      {
+        "word": "aid",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "less common",
+        "note": "Formal/technical; also humanitarian aid (noun).",
+        "collocations": [
+          "aid recovery",
+          "hearing aid",
+          "foreign aid"
+        ],
+        "example": "Diagrams aid understanding."
+      },
+      {
+        "word": "support",
+        "register": "neutral",
+        "connotation": "positive",
+        "frequency": "very common",
+        "note": "Ongoing help or encouragement; backing an idea.",
+        "collocations": [
+          "support a decision",
+          "technical support"
+        ],
+        "example": "My manager fully supported my training plan."
+      },
+      {
+        "word": "facilitate",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Make a process easier. Takes a thing as object, not a person.",
+        "collocations": [
+          "facilitate communication",
+          "facilitate a workshop"
+        ],
+        "example": "The new tool facilitates collaboration across teams."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "Formal notice: “Staff are available to ___ passengers with reduced mobility.”",
+        "answer": "assist",
+        "why": "Formal, service context."
+      },
+      {
+        "prompt": "“Shared documentation ___ knowledge transfer between teams.”",
+        "answer": "facilitates",
+        "why": "Makes a process easier."
+      },
+      {
+        "prompt": "Friend: “Can you ___ me move on Saturday?”",
+        "answer": "help",
+        "why": "Casual default."
+      }
+    ]
+  },
+  {
+    "id": "ns-start",
+    "title": "start · begin · commence · launch · initiate",
+    "idea": "starting something",
+    "takeaway": "Start/begin are interchangeable in most cases. Commence is formal and sounds pompous in speech. Launch = start something new publicly. Initiate = set a process in motion.",
+    "words": [
+      {
+        "word": "start",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "Default. Also for machines (start the car).",
+        "collocations": [
+          "start a business",
+          "start from scratch"
+        ],
+        "example": "Let's start with a quick recap."
+      },
+      {
+        "word": "begin",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "Slightly more formal/literary than start.",
+        "collocations": [
+          "begin to understand"
+        ],
+        "example": "I began to realise the project was too ambitious."
+      },
+      {
+        "word": "commence",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "rare",
+        "note": "Official announcements, legal texts. Odd in conversation.",
+        "collocations": [
+          "commence proceedings",
+          "work will commence"
+        ],
+        "example": "Construction will commence in March."
+      },
+      {
+        "word": "launch",
+        "register": "neutral",
+        "connotation": "positive",
+        "frequency": "very common",
+        "note": "Start something new and public: product, campaign, investigation.",
+        "collocations": [
+          "launch a product",
+          "launch an inquiry"
+        ],
+        "example": "We're launching the beta next week."
+      },
+      {
+        "word": "initiate",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Set a process in motion; also technical (initiate a connection).",
+        "collocations": [
+          "initiate talks",
+          "initiate a transfer"
+        ],
+        "example": "The client initiates the TLS handshake."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "Casual meeting: “OK, shall we get ___?”",
+        "answer": "started",
+        "why": "“Get started” is the natural spoken form."
+      },
+      {
+        "prompt": "Press release: “The company will ___ its new app in June.”",
+        "answer": "launch",
+        "why": "New product, public."
+      },
+      {
+        "prompt": "Networking: “The client ___ the connection with a SYN packet.”",
+        "answer": "initiates",
+        "why": "Technical: sets a process in motion."
+      }
+    ]
+  },
+  {
+    "id": "ns-show",
+    "title": "show · demonstrate · illustrate · indicate · reveal",
+    "idea": "making something visible or clear",
+    "takeaway": "Choose by strength of evidence: demonstrate (proves) > show > indicate (points to) > suggest. Illustrate = give an example. Reveal = uncover something hidden.",
+    "words": [
+      {
+        "word": "show",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "very common",
+        "note": "Default.",
+        "collocations": [
+          "studies show",
+          "show that"
+        ],
+        "example": "The graph shows a steady rise."
+      },
+      {
+        "word": "demonstrate",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Prove clearly; also to show how something works.",
+        "collocations": [
+          "clearly demonstrate",
+          "demonstrate how"
+        ],
+        "example": "The experiment demonstrates that the effect is real."
+      },
+      {
+        "word": "illustrate",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Explain through an example.",
+        "collocations": [
+          "as illustrated by",
+          "illustrate a point"
+        ],
+        "example": "This case illustrates the risks of poor security."
+      },
+      {
+        "word": "indicate",
+        "register": "formal",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Point towards; weaker than show.",
+        "collocations": [
+          "results indicate",
+          "indicate a need for"
+        ],
+        "example": "Early data indicate a slight improvement."
+      },
+      {
+        "word": "reveal",
+        "register": "neutral",
+        "connotation": "neutral",
+        "frequency": "common",
+        "note": "Make known something previously hidden or unknown.",
+        "collocations": [
+          "reveal a flaw",
+          "the survey revealed"
+        ],
+        "example": "The audit revealed several vulnerabilities."
+      }
+    ],
+    "drills": [
+      {
+        "prompt": "Weak evidence: “Preliminary results ___ a possible link.”",
+        "answer": "indicate",
+        "why": "Points towards, not proof."
+      },
+      {
+        "prompt": "Example: “The Equifax breach ___ how costly a single unpatched server can be.”",
+        "answer": "illustrates",
+        "why": "An example of a general point."
+      },
+      {
+        "prompt": "Hidden info: “The investigation ___ that data had been sold.”",
+        "answer": "revealed",
+        "why": "Uncovering something hidden."
+      }
+    ]
+  }
+]

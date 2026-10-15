@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "id": "conversation",
+  "title": "Conversation & désaccord",
+  "description": "Clarifier une idée, écouter et nuancer un désaccord.",
+  "color": "#46809c",
+  "items": [
+    {
+      "id": "v-cae2954d1772",
+      "kind": "word",
+      "text": "ramble",
+      "translationFr": "parler de façon décousue",
+      "meaning": "to speak at length without a clear direction",
+      "example": "I started to ramble when I couldn't find a simple answer.",
+      "exampleFr": "Je me suis mis à parler de façon décousue faute de réponse simple.",
+      "notes": "Ramble on about ; discours qui perd son fil.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-d556bec86d00",
+      "kind": "word",
+      "text": "digress",
+      "translationFr": "s’écarter du sujet",
+      "meaning": "to move away from the main topic",
+      "example": "I digressed briefly to explain how we had met.",
+      "exampleFr": "J’ai fait une courte digression pour expliquer notre rencontre.",
+      "notes": "I digress sert aussi à revenir au sujet principal.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-68fc2d8d8be0",
+      "kind": "word",
+      "text": "rephrase",
+      "translationFr": "reformuler",
+      "meaning": "to express the same idea in different words",
+      "example": "I rephrased the question when she looked confused.",
+      "exampleFr": "J’ai reformulé la question en voyant son air perplexe.",
+      "notes": "Rephrase something ; reformulation du sens, pas répétition exacte.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-76db5965c64a",
+      "kind": "word",
+      "text": "elaborate",
+      "translationFr": "développer une idée",
+      "meaning": "to add more detail to an explanation",
+      "example": "Could you elaborate on what you mean by flexible hours?",
+      "exampleFr": "Pourriez-vous préciser ce que vous entendez par horaires flexibles ?",
+      "notes": "Elaborate on something ; le verbe ne signifie pas fabriquer.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-de3e4aacb30c",
+      "kind": "word",
+      "text": "interject",
+      "translationFr": "intervenir brièvement dans une conversation",
+      "meaning": "to add a short remark while another person is speaking",
+      "example": "I interjected to correct a detail before the discussion moved on.",
+      "exampleFr": "Je suis intervenu brièvement pour corriger un détail avant la suite.",
+      "notes": "Interject a comment ; intervention courte, parfois une interruption.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-5cb248ea591d",
+      "kind": "word",
+      "text": "concede",
+      "translationFr": "reconnaître un point à contrecœur",
+      "meaning": "to admit that a point is true or reasonable",
+      "example": "I conceded that I hadn't considered the cost.",
+      "exampleFr": "J’ai reconnu que je n’avais pas pris le coût en compte.",
+      "notes": "Concede that ; accepte un point sans tout approuver.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-7c4bcd617029",
+      "kind": "word",
+      "text": "reassure",
+      "translationFr": "rassurer",
+      "meaning": "to make someone feel less worried",
+      "example": "I reassured her that I hadn't taken offence.",
+      "exampleFr": "Je l’ai rassurée en lui disant que je ne l’avais pas mal pris.",
+      "notes": "Reassure someone that ; ne pas confondre avec ensure.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-4f6c0a36ad32",
+      "kind": "word",
+      "text": "acknowledge",
+      "translationFr": "reconnaître, prendre acte de",
+      "meaning": "to accept that something exists or is true",
+      "example": "I acknowledged her concern before explaining my decision.",
+      "exampleFr": "J’ai reconnu son inquiétude avant d’expliquer ma décision.",
+      "notes": "Acknowledge a concern ; pas nécessairement partager l’avis.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-8f6568c896ac",
+      "kind": "word",
+      "text": "imply",
+      "translationFr": "laisser entendre",
+      "meaning": "to suggest something without stating it directly",
+      "example": "I wasn't implying that you had done anything wrong.",
+      "exampleFr": "Je ne sous-entendais pas que tu avais mal agi.",
+      "notes": "Le locuteur implies ; la personne qui interprète infers.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-0c8207b92779",
+      "kind": "word",
+      "text": "infer",
+      "translationFr": "déduire à partir d’indices",
+      "meaning": "to reach a conclusion from indirect evidence",
+      "example": "I inferred from her tone that she wanted to leave.",
+      "exampleFr": "J’ai déduit de son ton qu’elle voulait partir.",
+      "notes": "Infer something from ; conclusion du récepteur, pas sous-entendu émis.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-5ad1e5888d9b",
+      "kind": "word",
+      "text": "misconstrue",
+      "translationFr": "interpréter de travers",
+      "meaning": "to interpret someone's meaning incorrectly",
+      "example": "I worried that my silence would be misconstrued as agreement.",
+      "exampleFr": "Je craignais que mon silence soit interprété à tort comme un accord.",
+      "notes": "Misconstrue X as Y ; souvent sens ou intention mal compris.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-fca9a2673701",
+      "kind": "word",
+      "text": "sidestep",
+      "translationFr": "éluder",
+      "meaning": "to avoid dealing directly with a difficult issue",
+      "example": "He sidestepped my question about the delay.",
+      "exampleFr": "Il a éludé ma question sur le retard.",
+      "notes": "Sidestep a question ; évitement habile plutôt qu’oubli.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-2d9c06934f43",
+      "kind": "word",
+      "text": "reiterate",
+      "translationFr": "réaffirmer",
+      "meaning": "to say something again for emphasis",
+      "example": "I reiterated that I was happy to help, within reason.",
+      "exampleFr": "J’ai réaffirmé que j’étais prêt à aider, dans des limites raisonnables.",
+      "notes": "Reiterate a point ; registre plutôt formel.",
+      "level": "C1",
+      "register": "formal",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-a4a0d2e32e3a",
+      "kind": "word",
+      "text": "equivocal",
+      "translationFr": "équivoque",
+      "meaning": "unclear or open to more than one interpretation",
+      "example": "Her equivocal reply left me unsure whether to go ahead.",
+      "exampleFr": "Sa réponse équivoque m’a laissé incertain sur la suite.",
+      "notes": "Equivocal answer ; pas simplement faux ou contradictoire.",
+      "level": "C2",
+      "register": "formal",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-2988b39a02b4",
+      "kind": "collocation",
+      "text": "get one's point across",
+      "translationFr": "faire passer son idée",
+      "meaning": "to communicate an idea successfully",
+      "example": "I used a sketch to get my point across.",
+      "exampleFr": "J’ai utilisé un croquis pour faire passer mon idée.",
+      "notes": "Get a point across to someone ; résultat de communication.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-2a7794d99622",
+      "kind": "idiom",
+      "text": "lose the thread",
+      "translationFr": "perdre le fil",
+      "meaning": "to stop following the sequence of an argument or story",
+      "example": "I lost the thread when three people began talking at once.",
+      "exampleFr": "J’ai perdu le fil quand trois personnes ont parlé en même temps.",
+      "notes": "Lose the thread of a conversation ; pas oublier un mot isolé.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-9bec161a7265",
+      "kind": "idiom",
+      "text": "put someone on the spot",
+      "translationFr": "mettre quelqu’un dans l’embarras",
+      "meaning": "to force someone to answer or decide unexpectedly",
+      "example": "I didn't mean to put you on the spot in front of everyone.",
+      "exampleFr": "Je ne voulais pas te mettre dans l’embarras devant tout le monde.",
+      "notes": "Souvent question publique ou décision immédiate.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-92562dad720f",
+      "kind": "collocation",
+      "text": "jump to conclusions",
+      "translationFr": "tirer des conclusions hâtives",
+      "meaning": "to decide too quickly without enough evidence",
+      "example": "I jumped to conclusions when I saw the unopened letter.",
+      "exampleFr": "J’ai tiré des conclusions hâtives en voyant la lettre non ouverte.",
+      "notes": "Conclusions au pluriel dans l’expression courante.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-5bc9695571ec",
+      "kind": "collocation",
+      "text": "take issue with",
+      "translationFr": "contester un point",
+      "meaning": "to disagree with a particular claim",
+      "example": "I take issue with the idea that everyone had a choice.",
+      "exampleFr": "Je conteste l’idée que tout le monde avait le choix.",
+      "notes": "Take issue with something ; désaccord précis, assez soutenu.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-a4e0427df7c0",
+      "kind": "idiom",
+      "text": "strike a chord",
+      "translationFr": "faire écho chez quelqu’un",
+      "meaning": "to produce recognition or an emotional response",
+      "example": "Her story struck a chord with me because I'd been through the same thing.",
+      "exampleFr": "Son récit m’a touché car j’avais vécu la même chose.",
+      "notes": "Strike a chord with ; résonance personnelle.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-550c8f1d5120",
+      "kind": "idiom",
+      "text": "touch a nerve",
+      "translationFr": "toucher un point sensible",
+      "meaning": "to upset someone by mentioning a sensitive issue",
+      "example": "My question about money clearly touched a nerve.",
+      "exampleFr": "Ma question sur l’argent a visiblement touché un point sensible.",
+      "notes": "Réaction sensible, contrairement à strike a chord qui peut être positif.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-1d30e08615e4",
+      "kind": "idiom",
+      "text": "read the room",
+      "translationFr": "sentir l’ambiance",
+      "meaning": "to notice how people feel and adjust one's behaviour",
+      "example": "I should have read the room before making that joke.",
+      "exampleFr": "J’aurais dû sentir l’ambiance avant de faire cette plaisanterie.",
+      "notes": "Conversationnel ; adapter son propos aux réactions du groupe.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "conversation",
+        "idiom"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-05a84b784ec1",
+      "kind": "collocation",
+      "text": "soften the blow",
+      "translationFr": "atténuer le choc",
+      "meaning": "to make bad news or disappointment less painful",
+      "example": "I tried to soften the blow by explaining what we could still do.",
+      "exampleFr": "J’ai essayé d’atténuer le choc en expliquant ce qui restait possible.",
+      "notes": "The blow est figuré ; souvent annonce difficile.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-cf04b3d458bc",
+      "kind": "collocation",
+      "text": "clear up a misunderstanding",
+      "translationFr": "dissiper un malentendu",
+      "meaning": "to explain something so that a mistaken belief ends",
+      "example": "We cleared up the misunderstanding with a quick phone call.",
+      "exampleFr": "Nous avons dissipé le malentendu par un bref appel.",
+      "notes": "Clear up ; éliminer une confusion précise.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "collocation"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-a5235140bb73",
+      "kind": "expression",
+      "text": "if I understand you correctly",
+      "translationFr": "si je vous comprends bien",
+      "meaning": "used to check one's understanding",
+      "example": "If I understand you correctly, you'd prefer to wait until Monday.",
+      "exampleFr": "Si je vous comprends bien, vous préférez attendre lundi.",
+      "notes": "Reformulation suivie d’une vérification, pas accord automatique.",
+      "level": "B2+",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-4ba746a4e2ef",
+      "kind": "expression",
+      "text": "what I meant was",
+      "translationFr": "ce que je voulais dire, c’est",
+      "meaning": "used to clarify an earlier statement",
+      "example": "What I meant was that we need more time, not more people.",
+      "exampleFr": "Ce que je voulais dire, c’est qu’il nous faut plus de temps, pas plus de personnes.",
+      "notes": "What I meant was that + proposition ; rectifie l’intention.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-739f91b33aea",
+      "kind": "expression",
+      "text": "that came out wrong",
+      "translationFr": "je me suis mal exprimé",
+      "meaning": "used when one's words did not express the intended meaning",
+      "example": "That came out wrong; I wasn't criticising your work.",
+      "exampleFr": "Je me suis mal exprimé ; je ne critiquais pas ton travail.",
+      "notes": "Conversationnel ; reconnaît immédiatement une formulation maladroite.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-4e1852a55771",
+      "kind": "expression",
+      "text": "correct me if I'm wrong",
+      "translationFr": "dites-moi si je me trompe",
+      "meaning": "used before a claim one wants checked",
+      "example": "Correct me if I'm wrong, but didn't we agree on Friday?",
+      "exampleFr": "Dites-moi si je me trompe, mais n’avions-nous pas convenu de vendredi ?",
+      "notes": "Peut paraître rhétorique ou insistant selon le ton.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-75580db8130b",
+      "kind": "expression",
+      "text": "I take your point",
+      "translationFr": "je comprends votre argument",
+      "meaning": "used to acknowledge a valid argument",
+      "example": "I take your point, though I'm still worried about the timing.",
+      "exampleFr": "Je comprends votre argument, mais le calendrier m’inquiète toujours.",
+      "notes": "Reconnaît un point sans nécessairement changer d’avis.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-5937e3bcfd4b",
+      "kind": "expression",
+      "text": "to put it mildly",
+      "translationFr": "pour le dire gentiment",
+      "meaning": "used to indicate that a description is understated",
+      "example": "I was disappointed, to put it mildly.",
+      "exampleFr": "J’étais déçu, pour le dire gentiment.",
+      "notes": "Annonce que le sentiment réel est plus fort que les mots employés.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-84fe36476ed5",
+      "kind": "expression",
+      "text": "to be fair",
+      "translationFr": "pour être juste",
+      "meaning": "used to acknowledge a balancing consideration",
+      "example": "To be fair, nobody had told him the plan had changed.",
+      "exampleFr": "Pour être juste, personne ne lui avait dit que le programme avait changé.",
+      "notes": "Ajoute une considération qui tempère le jugement.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-99ac57a7df94",
+      "kind": "expression",
+      "text": "as far as I can tell",
+      "translationFr": "pour autant que je puisse en juger",
+      "meaning": "based on the information available to me",
+      "example": "As far as I can tell, we're all talking about the same problem.",
+      "exampleFr": "Pour autant que je puisse en juger, nous parlons tous du même problème.",
+      "notes": "Limite la portée de l’affirmation à ce que l’on peut observer.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-798880f8adf2",
+      "kind": "expression",
+      "text": "don't get me wrong",
+      "translationFr": "ne vous méprenez pas",
+      "meaning": "used to prevent a mistaken interpretation",
+      "example": "Don't get me wrong, I enjoyed the trip; I just needed more rest.",
+      "exampleFr": "Ne vous méprenez pas, le voyage m’a plu ; j’avais juste besoin de repos.",
+      "notes": "Introduit souvent une réserve après un avis positif.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-8fc106f95e6a",
+      "kind": "expression",
+      "text": "for the sake of argument",
+      "translationFr": "pour les besoins du raisonnement",
+      "meaning": "used when temporarily accepting an idea for discussion",
+      "example": "For the sake of argument, let's assume the price stays the same.",
+      "exampleFr": "Pour les besoins du raisonnement, supposons que le prix ne change pas.",
+      "notes": "Hypothèse provisoire ; pas une adhésion réelle.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-ce6670c00666",
+      "kind": "expression",
+      "text": "there's more to it than that",
+      "translationFr": "ce n’est pas aussi simple",
+      "meaning": "used when a situation has additional complexity",
+      "example": "I know it looks careless, but there's more to it than that.",
+      "exampleFr": "Je sais que cela semble négligent, mais ce n’est pas aussi simple.",
+      "notes": "Invite à considérer les détails manquants.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-c78574389d16",
+      "kind": "expression",
+      "text": "that's beside the point",
+      "translationFr": "ce n’est pas la question",
+      "meaning": "used to say something is irrelevant to the main issue",
+      "example": "Whether I liked the meal is beside the point; we were overcharged.",
+      "exampleFr": "Que le repas m’ait plu ou non n’est pas la question ; on nous a trop facturés.",
+      "notes": "Beside sans s ; assez direct dans un désaccord.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-6f8c04df88a4",
+      "kind": "expression",
+      "text": "where do you stand on",
+      "translationFr": "quelle est votre position sur",
+      "meaning": "used to ask for someone's opinion on an issue",
+      "example": "Where do you stand on working from home full time?",
+      "exampleFr": "Quelle est votre position sur le télétravail à temps plein ?",
+      "notes": "Demande une position, plutôt qu’une réaction passagère.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "expression"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-0d8c27919986",
+      "kind": "phrasal-verb",
+      "text": "chime in",
+      "translationFr": "intervenir dans une discussion",
+      "meaning": "to join a conversation with a comment",
+      "example": "I chimed in when they started discussing places I knew.",
+      "exampleFr": "Je suis intervenu quand ils ont parlé d’endroits que je connaissais.",
+      "notes": "Chime in with a suggestion ; intervention spontanée.",
+      "level": "C1",
+      "register": "casual",
+      "tags": [
+        "conversation",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-aeafdef9c446",
+      "kind": "phrasal-verb",
+      "text": "spell out",
+      "translationFr": "expliquer très clairement",
+      "meaning": "to explain something in explicit detail",
+      "example": "I had to spell out why the deadline mattered.",
+      "exampleFr": "J’ai dû expliquer clairement pourquoi l’échéance comptait.",
+      "notes": "Spell it out ; peut paraître impatient selon le ton.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-316ecd55b94b",
+      "kind": "phrasal-verb",
+      "text": "get at",
+      "translationFr": "vouloir dire indirectement",
+      "meaning": "to try to express or suggest something",
+      "example": "I wasn't sure what she was getting at.",
+      "exampleFr": "Je ne voyais pas bien où elle voulait en venir.",
+      "notes": "What are you getting at? peut exprimer une méfiance.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-7ea9a18ea1bc",
+      "kind": "phrasal-verb",
+      "text": "bring someone up to speed",
+      "translationFr": "mettre quelqu’un au courant",
+      "meaning": "to give someone the information needed to catch up",
+      "example": "I brought my colleague up to speed after her holiday.",
+      "exampleFr": "J’ai mis ma collègue au courant à son retour de vacances.",
+      "notes": "Bring someone up to speed on something ; informations utiles à l’action.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "phrasal-verb"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    },
+    {
+      "id": "v-37877ea87f50",
+      "kind": "word",
+      "text": "understatement",
+      "translationFr": "formulation en dessous de la réalité",
+      "meaning": "a description that makes something seem less strong than it is",
+      "example": "Calling the journey tiring would be an understatement.",
+      "exampleFr": "Dire que le voyage était fatigant serait en dessous de la réalité.",
+      "notes": "An understatement ; souvent pour accentuer indirectement une idée.",
+      "level": "C1",
+      "register": "neutral",
+      "tags": [
+        "conversation",
+        "word"
+      ],
+      "listIds": [
+        "pack-conversation"
+      ]
+    }
+  ]
+}
